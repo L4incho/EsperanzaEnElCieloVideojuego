@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 63d2050058705a44d9207a5bf5ddda2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5650341473155390881
+    second: mateo_va_simple_rojo_0
+  - first:
+      213: -9096261725930497644
+    second: mateo_va_simple_rojo_1
+  - first:
+      213: -867177260426386601
+    second: mateo_va_simple_rojo_2
+  - first:
+      213: 5762312889490852379
+    second: mateo_va_simple_rojo_3
+  - first:
+      213: 5134590767667816160
+    second: mateo_va_simple_rojo_4
+  - first:
+      213: 2551452758277222455
+    second: mateo_va_simple_rojo_5
+  - first:
+      213: 6564760438882935425
+    second: mateo_va_simple_rojo_6
+  - first:
+      213: 8275612864377983282
+    second: mateo_va_simple_rojo_7
+  - first:
+      213: -5609625874335092166
+    second: mateo_va_simple_rojo_8
+  - first:
+      213: 8142468256878015520
+    second: mateo_va_simple_rojo_9
+  - first:
+      213: 2005339873228744185
+    second: mateo_va_simple_rojo_10
+  - first:
+      213: 1306580791601600371
+    second: mateo_va_simple_rojo_11
+  - first:
+      213: 8033269543017355058
+    second: mateo_va_simple_rojo_12
+  - first:
+      213: 7366472880143571972
+    second: mateo_va_simple_rojo_13
+  - first:
+      213: -299489153262846976
+    second: mateo_va_simple_rojo_14
+  - first:
+      213: 287514779888846412
+    second: mateo_va_simple_rojo_15
+  - first:
+      213: -5978432599558358092
+    second: mateo_va_simple_rojo_16
+  - first:
+      213: -8695348476220404968
+    second: mateo_va_simple_rojo_17
+  - first:
+      213: 1101937453449968310
+    second: mateo_va_simple_rojo_18
+  - first:
+      213: 2794240955090792312
+    second: mateo_va_simple_rojo_19
+  - first:
+      213: 6603372562169781848
+    second: mateo_va_simple_rojo_20
+  - first:
+      213: 2766457558528181762
+    second: mateo_va_simple_rojo_21
+  - first:
+      213: 9152052443849608355
+    second: mateo_va_simple_rojo_22
+  - first:
+      213: 897857610816030089
+    second: mateo_va_simple_rojo_23
+  - first:
+      213: -5676248844435126290
+    second: mateo_va_simple_rojo_24
+  - first:
+      213: 7726995723934794209
+    second: mateo_va_simple_rojo_25
+  - first:
+      213: -9190199160838836305
+    second: mateo_va_simple_rojo_26
+  - first:
+      213: -7401579089348458480
+    second: mateo_va_simple_rojo_27
+  - first:
+      213: 9113797608238325977
+    second: mateo_va_simple_rojo_28
+  - first:
+      213: 705159952600206326
+    second: mateo_va_simple_rojo_29
+  - first:
+      213: -5992672903254845433
+    second: mateo_va_simple_rojo_30
+  - first:
+      213: 4095654673837906384
+    second: mateo_va_simple_rojo_31
+  - first:
+      213: -2764827236088926939
+    second: mateo_va_simple_rojo_32
+  - first:
+      213: -5592022827225189169
+    second: mateo_va_simple_rojo_33
+  - first:
+      213: -6929251132886679740
+    second: mateo_va_simple_rojo_34
+  - first:
+      213: 7091395405513158772
+    second: mateo_va_simple_rojo_35
+  - first:
+      213: -7220040700117399534
+    second: mateo_va_simple_rojo_36
+  - first:
+      213: 8455096029212194343
+    second: mateo_va_simple_rojo_37
+  - first:
+      213: -321438708860839907
+    second: mateo_va_simple_rojo_38
+  - first:
+      213: -8584377572365647915
+    second: mateo_va_simple_rojo_39
+  - first:
+      213: -8299850471137900244
+    second: mateo_va_simple_rojo_40
+  - first:
+      213: 7709482332355853900
+    second: mateo_va_simple_rojo_41
+  - first:
+      213: 822473010160576015
+    second: mateo_va_simple_rojo_42
+  - first:
+      213: 6432026631794904262
+    second: mateo_va_simple_rojo_43
+  - first:
+      213: -30629449531585286
+    second: mateo_va_simple_rojo_44
+  - first:
+      213: 586704747636419336
+    second: mateo_va_simple_rojo_45
+  - first:
+      213: -4438698725317216338
+    second: mateo_va_simple_rojo_46
+  - first:
+      213: -8916744837677303897
+    second: mateo_va_simple_rojo_47
+  - first:
+      213: -7377531035663168655
+    second: mateo_va_simple_rojo_48
+  - first:
+      213: 3108536026483774999
+    second: mateo_va_simple_rojo_49
+  - first:
+      213: 5955935601673445836
+    second: mateo_va_simple_rojo_50
+  - first:
+      213: -8105956401769594368
+    second: mateo_va_simple_rojo_51
+  - first:
+      213: -8315944076858245193
+    second: mateo_va_simple_rojo_52
+  - first:
+      213: -171590574162928317
+    second: mateo_va_simple_rojo_53
+  - first:
+      213: 6815730325635697979
+    second: mateo_va_simple_rojo_54
+  - first:
+      213: 5892748488627212796
+    second: mateo_va_simple_rojo_55
+  - first:
+      213: 2847323867381059495
+    second: mateo_va_simple_rojo_56
+  - first:
+      213: 4728260791733844351
+    second: mateo_va_simple_rojo_57
+  - first:
+      213: -7156903214211990228
+    second: mateo_va_simple_rojo_58
+  - first:
+      213: 7266415247657209324
+    second: mateo_va_simple_rojo_59
+  - first:
+      213: -7726274778666193745
+    second: mateo_va_simple_rojo_60
+  - first:
+      213: 6920871688062960404
+    second: mateo_va_simple_rojo_61
+  - first:
+      213: 1715868168495840646
+    second: mateo_va_simple_rojo_62
+  - first:
+      213: -2921007723178622266
+    second: mateo_va_simple_rojo_63
+  - first:
+      213: 7254844851647284714
+    second: mateo_va_simple_rojo_64
+  - first:
+      213: -5879417080829310710
+    second: mateo_va_simple_rojo_65
+  - first:
+      213: 8018112367280198412
+    second: mateo_va_simple_rojo_66
+  - first:
+      213: 5188810287219032185
+    second: mateo_va_simple_rojo_67
+  - first:
+      213: -8489697133294938980
+    second: mateo_va_simple_rojo_68
+  - first:
+      213: -3666562455484267629
+    second: mateo_va_simple_rojo_69
+  - first:
+      213: 4954612276267590265
+    second: mateo_va_simple_rojo_70
+  - first:
+      213: 3012590972151352462
+    second: mateo_va_simple_rojo_71
+  - first:
+      213: -8944405698310317347
+    second: mateo_va_simple_rojo_72
+  - first:
+      213: -4454407726360869218
+    second: mateo_va_simple_rojo_73
+  - first:
+      213: 3633281435307018684
+    second: mateo_va_simple_rojo_74
+  - first:
+      213: 9104312470795612972
+    second: mateo_va_simple_rojo_75
+  - first:
+      213: -5070031895868249844
+    second: mateo_va_simple_rojo_76
+  - first:
+      213: 3545247365136753796
+    second: mateo_va_simple_rojo_77
+  - first:
+      213: 8712099332846973322
+    second: mateo_va_simple_rojo_78
+  - first:
+      213: 1282816630523181700
+    second: mateo_va_simple_rojo_79
+  - first:
+      213: -2873957025436020681
+    second: mateo_va_simple_rojo_80
+  - first:
+      213: -163061622054774475
+    second: mateo_va_simple_rojo_81
+  - first:
+      213: 4039818737323876662
+    second: mateo_va_simple_rojo_82
+  - first:
+      213: -8134930574496692048
+    second: mateo_va_simple_rojo_83
+  - first:
+      213: 3380371391313439588
+    second: mateo_va_simple_rojo_84
+  - first:
+      213: -896819471167532633
+    second: mateo_va_simple_rojo_85
+  - first:
+      213: 5893754658492155298
+    second: mateo_va_simple_rojo_86
+  - first:
+      213: -8004323084355105977
+    second: mateo_va_simple_rojo_87
+  - first:
+      213: -484370842512183685
+    second: mateo_va_simple_rojo_88
+  - first:
+      213: -6215105570358182516
+    second: mateo_va_simple_rojo_89
+  - first:
+      213: 409305210814180208
+    second: mateo_va_simple_rojo_90
+  - first:
+      213: -7220224540119747860
+    second: mateo_va_simple_rojo_91
+  - first:
+      213: 4552061597954087856
+    second: mateo_va_simple_rojo_92
+  - first:
+      213: 9074481249795435637
+    second: mateo_va_simple_rojo_93
+  - first:
+      213: -8094260497815209039
+    second: mateo_va_simple_rojo_94
+  - first:
+      213: 626279853666840300
+    second: mateo_va_simple_rojo_95
+  - first:
+      213: 3816858039738471379
+    second: mateo_va_simple_rojo_96
+  - first:
+      213: -6029655093908071005
+    second: mateo_va_simple_rojo_97
+  - first:
+      213: -331338723865767955
+    second: mateo_va_simple_rojo_98
+  - first:
+      213: -3202097360504625293
+    second: mateo_va_simple_rojo_99
+  - first:
+      213: -9109590160757143187
+    second: mateo_va_simple_rojo_100
+  - first:
+      213: 60067746969461208
+    second: mateo_va_simple_rojo_101
+  - first:
+      213: 2330398159115833773
+    second: mateo_va_simple_rojo_102
+  - first:
+      213: -8922365892117359498
+    second: mateo_va_simple_rojo_103
+  - first:
+      213: -5369249468645739617
+    second: mateo_va_simple_rojo_104
+  - first:
+      213: -1184806271941716383
+    second: mateo_va_simple_rojo_105
+  - first:
+      213: 6269189787235637139
+    second: mateo_va_simple_rojo_106
+  - first:
+      213: -2363474364358729252
+    second: mateo_va_simple_rojo_107
+  - first:
+      213: 5308460634211439260
+    second: mateo_va_simple_rojo_108
+  - first:
+      213: -767473251561777020
+    second: mateo_va_simple_rojo_109
+  - first:
+      213: 3815948084605228234
+    second: mateo_va_simple_rojo_110
+  - first:
+      213: 8736047217803525311
+    second: mateo_va_simple_rojo_111
+  - first:
+      213: -963252725516182809
+    second: mateo_va_simple_rojo_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149eeadcc848234caefb694aea193f7
+      internalID: -5650341473155390881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e408886cc6944b86071bc6d26a4e3
+      internalID: -9096261725930497644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58adff6cd45910c40a8b11700dab5a3a
+      internalID: -867177260426386601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e05b55d4add0647b7efed9b0cbef7b
+      internalID: 5762312889490852379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc83c212674a3b44838b6f0075285a3
+      internalID: 5134590767667816160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323aabb168ef331449d3fb351af619af
+      internalID: 2551452758277222455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92839904b54eac4f8bd5756d5ee2ff4
+      internalID: 6564760438882935425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73bf22e1e1d5cb4b837fc15f684cc5a
+      internalID: 8275612864377983282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 629
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d435a2f1102d924280e066ca99d2cfe
+      internalID: -5609625874335092166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df111f5bd3e76140b21386465ae18da
+      internalID: 8142468256878015520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34f0fe2fb978a4dac381eeebb3a6c1
+      internalID: 2005339873228744185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a222f45fcf5847a955223c9dbae56
+      internalID: 1306580791601600371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f64d94bde6f044408ad4e180e780511
+      internalID: 8033269543017355058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575d266bae0a14041991b3c6d1c71511
+      internalID: 7366472880143571972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0feda67bd9e3c74d8d77de809392c9a
+      internalID: -299489153262846976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a93370f54089e4fa2d29b5c8800f5a
+      internalID: 287514779888846412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b64fd8f5a15044a38caf51be031dc
+      internalID: -5978432599558358092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 425
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ea0805cd558c489dded2ab5b216ca
+      internalID: -8695348476220404968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 422
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60075fb2c5ab62c49ab774a163c0be4b
+      internalID: 1101937453449968310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50922fe2e67e1a74a86f32ed14ba0889
+      internalID: 2794240955090792312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8704cae279754193a5b8daac2ee8f
+      internalID: 6603372562169781848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 415
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc8b906cf6136047828eb9e762b8849
+      internalID: 2766457558528181762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 417
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc585b3568dc58247b8d54becef2c4a5
+      internalID: 9152052443849608355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 412
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc97d8b5d3f7048b46b8a503dd9b8d
+      internalID: 897857610816030089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d84465377c3443a9f0b590f1e7705
+      internalID: -5676248844435126290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6117ae28868524da191419ca2556f2
+      internalID: 7726995723934794209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d4edebdcbee548a6997cb06be0309
+      internalID: -9190199160838836305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e158a442539943a8c868e20457674
+      internalID: -7401579089348458480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 221
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6147bc45794f63945ad02768009e57f5
+      internalID: 9113797608238325977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 216
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9465ca4dc10b4198b2aa417dcb28b
+      internalID: 705159952600206326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 218
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe78403d60dfa94f9c271e49091c029
+      internalID: -5992672903254845433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bd071bc1cc70c4eacac47556472327
+      internalID: 4095654673837906384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbee409713346b4bb56159d3899cca9
+      internalID: -2764827236088926939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986fbc0d9b6fad4b81a2075c33dca53
+      internalID: -5592022827225189169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ac87af1f993b47b1316abf2b7d786
+      internalID: -6929251132886679740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfc329bd1326ac488ed01f52fde3484
+      internalID: 7091395405513158772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622526ab2098a3a4b95b037d60e3ff8a
+      internalID: -7220040700117399534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c8911b17bce445936d61b443419e1
+      internalID: 8455096029212194343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad4327418d23c42b2996c1619353ee
+      internalID: -321438708860839907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a2a908d9d070419161445e4ffe79f
+      internalID: -8584377572365647915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_c34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57843137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7fe0060a02e340b3f0ff3a6270a78
+      internalID: -1318622981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_c35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6519608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac60ae11df9ca49ae40d4d4e6b5ba8
+      internalID: -123064262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_c36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb93b247b283bd42984a45ed035cb2f
+      internalID: -1152387249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_c37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82957d83529da64c8fd63da52618626
+      internalID: -1948708900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_rojo_c38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6127451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d2bf767a2069a4fb2818557191a0c8
+      internalID: -1675221799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17613e46a4151894482b5ab3b6ef44b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mateo_va_simple_rojo_0: -5650341473155390881
+      mateo_va_simple_rojo_1: -9096261725930497644
+      mateo_va_simple_rojo_10: 2005339873228744185
+      mateo_va_simple_rojo_11: 1306580791601600371
+      mateo_va_simple_rojo_12: 8033269543017355058
+      mateo_va_simple_rojo_13: 7366472880143571972
+      mateo_va_simple_rojo_14: -299489153262846976
+      mateo_va_simple_rojo_15: 287514779888846412
+      mateo_va_simple_rojo_16: -5978432599558358092
+      mateo_va_simple_rojo_17: -8695348476220404968
+      mateo_va_simple_rojo_18: 1101937453449968310
+      mateo_va_simple_rojo_19: 2794240955090792312
+      mateo_va_simple_rojo_2: -867177260426386601
+      mateo_va_simple_rojo_20: 6603372562169781848
+      mateo_va_simple_rojo_21: 2766457558528181762
+      mateo_va_simple_rojo_22: 9152052443849608355
+      mateo_va_simple_rojo_23: 897857610816030089
+      mateo_va_simple_rojo_24: -5676248844435126290
+      mateo_va_simple_rojo_25: 7726995723934794209
+      mateo_va_simple_rojo_26: -9190199160838836305
+      mateo_va_simple_rojo_27: -7401579089348458480
+      mateo_va_simple_rojo_28: 9113797608238325977
+      mateo_va_simple_rojo_29: 705159952600206326
+      mateo_va_simple_rojo_3: 5762312889490852379
+      mateo_va_simple_rojo_30: -5992672903254845433
+      mateo_va_simple_rojo_31: 4095654673837906384
+      mateo_va_simple_rojo_32: -2764827236088926939
+      mateo_va_simple_rojo_33: -5592022827225189169
+      mateo_va_simple_rojo_34: -6929251132886679740
+      mateo_va_simple_rojo_35: 7091395405513158772
+      mateo_va_simple_rojo_36: -7220040700117399534
+      mateo_va_simple_rojo_37: 8455096029212194343
+      mateo_va_simple_rojo_38: -321438708860839907
+      mateo_va_simple_rojo_39: -8584377572365647915
+      mateo_va_simple_rojo_4: 5134590767667816160
+      mateo_va_simple_rojo_5: 2551452758277222455
+      mateo_va_simple_rojo_6: 6564760438882935425
+      mateo_va_simple_rojo_7: 8275612864377983282
+      mateo_va_simple_rojo_8: -5609625874335092166
+      mateo_va_simple_rojo_9: 8142468256878015520
+      mateo_va_simple_rojo_c34: -1318622981
+      mateo_va_simple_rojo_c35: -123064262
+      mateo_va_simple_rojo_c36: -1152387249
+      mateo_va_simple_rojo_c37: -1948708900
+      mateo_va_simple_rojo_c38: -1675221799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 9e3bd34b13abcb340a36513e88fbabd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6026393915275929263
+    second: lasser_0
+  - first:
+      213: 6833228880091669174
+    second: lasser_1
+  - first:
+      213: 2459113058703720351
+    second: lasser_2
+  - first:
+      213: -4259442642192674669
+    second: lasser_3
+  - first:
+      213: -3241316764356153809
+    second: lasser_4
+  - first:
+      213: 3976841849460584299
+    second: lasser_5
+  - first:
+      213: -3651069564303631078
+    second: lasser_6
+  - first:
+      213: 8526561335353382781
+    second: lasser_7
+  - first:
+      213: -8166570585133781027
+    second: lasser_8
+  - first:
+      213: 2980217880090389706
+    second: lasser_9
+  - first:
+      213: 5484107183983547535
+    second: lasser_10
+  - first:
+      213: -6253211028242229687
+    second: lasser_11
+  - first:
+      213: -5564041384873940193
+    second: lasser_12
+  - first:
+      213: 6884721691682760631
+    second: lasser_13
+  - first:
+      213: 8798771285921364750
+    second: lasser_14
+  - first:
+      213: 571799123492386408
+    second: lasser_15
+  - first:
+      213: 7072282890978498304
+    second: lasser_16
+  - first:
+      213: -7611027211940381467
+    second: lasser_17
+  - first:
+      213: 3986633411494536815
+    second: lasser_18
+  - first:
+      213: 7589552867291161323
+    second: lasser_19
+  - first:
+      213: -3899182835128680474
+    second: lasser_20
+  - first:
+      213: 827846876117683559
+    second: lasser_21
+  - first:
+      213: 6441962006883174418
+    second: lasser_22
+  - first:
+      213: -7566463015217039752
+    second: lasser_23
+  - first:
+      213: -5038853086036695563
+    second: lasser_24
+  - first:
+      213: -9190443168125617749
+    second: lasser_25
+  - first:
+      213: -1973583683519444262
+    second: lasser_26
+  - first:
+      213: -3340170358741234225
+    second: lasser_27
+  - first:
+      213: 9112206002784264886
+    second: lasser_28
+  - first:
+      213: -5009683054286143086
+    second: lasser_29
+  - first:
+      213: 3521576813690985322
+    second: lasser_30
+  - first:
+      213: 597753027994303905
+    second: lasser_31
+  - first:
+      213: 445789742227081550
+    second: lasser_32
+  - first:
+      213: 660669820132510804
+    second: lasser_33
+  - first:
+      213: 2970019957564459923
+    second: lasser_34
+  - first:
+      213: -7102807664861597292
+    second: lasser_35
+  - first:
+      213: 7180918661031410064
+    second: lasser_36
+  - first:
+      213: -848555837325498692
+    second: lasser_37
+  - first:
+      213: -943611345497864298
+    second: lasser_38
+  - first:
+      213: -6591395796035255498
+    second: lasser_39
+  - first:
+      213: -6408826872889794607
+    second: lasser_40
+  - first:
+      213: -8463118255524230904
+    second: lasser_41
+  - first:
+      213: -4504065277625333753
+    second: lasser_42
+  - first:
+      213: -6801102403084823840
+    second: lasser_43
+  - first:
+      213: -5982857071142934890
+    second: lasser_44
+  - first:
+      213: 2197378981557402437
+    second: lasser_45
+  - first:
+      213: 4482879781129183398
+    second: lasser_46
+  - first:
+      213: 7863875910017509960
+    second: lasser_47
+  - first:
+      213: 4134527127205208274
+    second: lasser_48
+  - first:
+      213: -5062851451065789381
+    second: lasser_49
+  - first:
+      213: 6335813882217242360
+    second: lasser_50
+  - first:
+      213: 5124618981702359977
+    second: lasser_51
+  - first:
+      213: -3650553840681266191
+    second: lasser_52
+  - first:
+      213: -771818753231833470
+    second: lasser_53
+  - first:
+      213: -6530801091283591650
+    second: lasser_54
+  - first:
+      213: -927647874473295729
+    second: lasser_55
+  - first:
+      213: -9088688713464004812
+    second: lasser_56
+  - first:
+      213: -269777598322051477
+    second: lasser_57
+  - first:
+      213: 7765187077365378407
+    second: lasser_58
+  - first:
+      213: 1609270258979695151
+    second: lasser_59
+  - first:
+      213: -3746933789539886974
+    second: lasser_60
+  - first:
+      213: 8058033975897389314
+    second: lasser_61
+  - first:
+      213: 4138254155486822664
+    second: lasser_62
+  - first:
+      213: -7623729657241877722
+    second: lasser_63
+  - first:
+      213: 870950814686068262
+    second: lasser_64
+  - first:
+      213: 1958616161367087150
+    second: lasser_65
+  - first:
+      213: -1810547648046065856
+    second: lasser_66
+  - first:
+      213: 2241999877596556179
+    second: lasser_67
+  - first:
+      213: -1230221427009236179
+    second: lasser_68
+  - first:
+      213: 1889829187821940818
+    second: lasser_69
+  - first:
+      213: -3281443771421519927
+    second: lasser_70
+  - first:
+      213: -4456767335396977771
+    second: lasser_71
+  - first:
+      213: -7653516145480150562
+    second: lasser_72
+  - first:
+      213: 3448235621013282919
+    second: lasser_73
+  - first:
+      213: 1911378713094513965
+    second: lasser_74
+  - first:
+      213: -54442001581340915
+    second: lasser_75
+  - first:
+      213: -4442715585852804158
+    second: lasser_76
+  - first:
+      213: -9159477558444723458
+    second: lasser_77
+  - first:
+      213: -3408000557372759735
+    second: lasser_78
+  - first:
+      213: -341473506278128274
+    second: lasser_79
+  - first:
+      213: 7972894676876783665
+    second: lasser_80
+  - first:
+      213: -1836825873052457005
+    second: lasser_81
+  - first:
+      213: -3037885176758918096
+    second: lasser_82
+  - first:
+      213: -3212571776449331839
+    second: lasser_83
+  - first:
+      213: 5851436718164241183
+    second: lasser_84
+  - first:
+      213: 7634305595163429347
+    second: lasser_85
+  - first:
+      213: -7867933707228723382
+    second: lasser_86
+  - first:
+      213: 3254126488899317847
+    second: lasser_87
+  - first:
+      213: 7336484584749407218
+    second: lasser_88
+  - first:
+      213: -8302489055626361462
+    second: lasser_89
+  - first:
+      213: 6336693416033082720
+    second: lasser_90
+  - first:
+      213: 1741587475812015397
+    second: lasser_91
+  - first:
+      213: -3726243486183173244
+    second: lasser_92
+  - first:
+      213: 1103921201717475357
+    second: lasser_93
+  - first:
+      213: -7683404178737582349
+    second: lasser_94
+  - first:
+      213: -3290392017520191935
+    second: lasser_95
+  - first:
+      213: 4251411258785673184
+    second: lasser_96
+  - first:
+      213: -780674858625462691
+    second: lasser_97
+  - first:
+      213: -518879407292297750
+    second: lasser_98
+  - first:
+      213: 1880739181697338593
+    second: lasser_99
+  - first:
+      213: -7093150094573747240
+    second: lasser_100
+  - first:
+      213: -5154128744450769423
+    second: lasser_101
+  - first:
+      213: -7344324895337440699
+    second: lasser_102
+  - first:
+      213: 7186353300232010919
+    second: lasser_103
+  - first:
+      213: -5146834145688828829
+    second: lasser_104
+  - first:
+      213: 52697533721782849
+    second: lasser_105
+  - first:
+      213: -9173277251677674190
+    second: lasser_106
+  - first:
+      213: -5843958047908544197
+    second: lasser_107
+  - first:
+      213: -8931392315481868366
+    second: lasser_108
+  - first:
+      213: 6547009171093554091
+    second: lasser_109
+  - first:
+      213: -675003088422996756
+    second: lasser_110
+  - first:
+      213: -792625858425432970
+    second: lasser_111
+  - first:
+      213: 2273188682771711
+    second: lasser_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lasser_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1896
+        width: 87
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e894365d02a350800000000000000
+      internalID: 6026393915275929263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1689
+        width: 220
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2edc2667184de50800000000000000
+      internalID: 6833228880091669174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2048
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3f864c46802220800000000000000
+      internalID: 2459113058703720351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1995
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39054f20c7b63e4c0800000000000000
+      internalID: -4259442642192674669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1934
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e680873978403d0800000000000000
+      internalID: -3241316764356153809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1959
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f61058794903730800000000000000
+      internalID: 3976841849460584299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1944
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d1171539bc45dc0800000000000000
+      internalID: -3651069564303631078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1910
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77915ddb5e645670800000000000000
+      internalID: 8526561335353382781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1900
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf62f732538aae80800000000000000
+      internalID: -8166570585133781027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1345
+        width: 195
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2e004f5cdb5920800000000000000
+      internalID: 2980217880090389706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1755
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d1838d667b1c40800000000000000
+      internalID: 5484107183983547535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1742
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946111463b12839a0800000000000000
+      internalID: -6253211028242229687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1739
+        width: 94
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b240b07dd88c2b0800000000000000
+      internalID: -5564041384873940193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1705
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76d2ad6e17b8f50800000000000000
+      internalID: 6884721691682760631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1731
+        width: 140
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bff3dddd38b1a70800000000000000
+      internalID: 8798771285921364750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1468
+        width: 101
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b4a6f5407fe700800000000000000
+      internalID: 571799123492386408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_16
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1754
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00798db91dbc52260800000000000000
+      internalID: 7072282890978498304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1753
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec36706313306690800000000000000
+      internalID: -7611027211940381467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1757
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e5d537fd535730800000000000000
+      internalID: 3986633411494536815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1735
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2efe22f12835960800000000000000
+      internalID: 7589552867291161323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1695
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efbad5ced153e9c0800000000000000
+      internalID: -3899182835128680474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1556
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d4963095a1d7b00800000000000000
+      internalID: 827846876117683559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1544
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21885d47052766950800000000000000
+      internalID: 6441962006883174418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1188
+        width: 322
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8767bdbf9f58ef690800000000000000
+      internalID: -7566463015217039752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1484
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e663b0d5621ab0800000000000000
+      internalID: -5038853086036695563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1510
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f473b1acf47080800000000000000
+      internalID: -9190443168125617749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1520
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0159a81c6c94e0800000000000000
+      internalID: -1973583683519444262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1401
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd80f571c455a1d0800000000000000
+      internalID: -3340170358741234225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2632cb41f057e70800000000000000
+      internalID: 9112206002784264886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1403
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2910bf7fdc70a7ab0800000000000000
+      internalID: -5009683054286143086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_30
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1355
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b9d4534772fd030800000000000000
+      internalID: 3521576813690985322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1221
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb3014635ab4800800000000000000
+      internalID: 597753027994303905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1345
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4945fd9863cf2600800000000000000
+      internalID: 445789742227081550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1333
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cc1d673bb2b2900800000000000000
+      internalID: 660669820132510804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1308
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b43726a61a73920800000000000000
+      internalID: 2970019957564459923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1317
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b004af02cd6d90800000000000000
+      internalID: -7102807664861597292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1301
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09930cfd97fb7a360800000000000000
+      internalID: 7180918661031410064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1291
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6212836f25934f0800000000000000
+      internalID: -848555837325498692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1179
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69742911b7e97e2f0800000000000000
+      internalID: -943611345497864298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_39
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1293
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c05b3278a684a0800000000000000
+      internalID: -6591395796035255498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1168
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df1d6e1ae54f07a0800000000000000
+      internalID: -6408826872889794607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1203
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809ca5f39c6fc8a80800000000000000
+      internalID: -8463118255524230904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 875
+        width: 265
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70888f95e785e71c0800000000000000
+      internalID: -4504065277625333753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d21fe561ad91a0800000000000000
+      internalID: -6801102403084823840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1156
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696679c313f98fca0800000000000000
+      internalID: -5982857071142934890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1102
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b73a0aa88ae7e10800000000000000
+      internalID: 2197378981557402437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_46
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1168
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a06cfcd863663e30800000000000000
+      internalID: 4482879781129183398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a685eb979122d60800000000000000
+      internalID: 7863875910017509960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1078
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0684b348ac06930800000000000000
+      internalID: 4134527127205208274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1154
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3417aced632db9b0800000000000000
+      internalID: -5062851451065789381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1068
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe1c8448255de750800000000000000
+      internalID: 6335813882217242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 996
+        width: 29
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd79dffcd4e1740800000000000000
+      internalID: 5124618981702359977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1084
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f351c49f90a65dc0800000000000000
+      internalID: -3650553840681266191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1092
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286b1a6eee2f945f0800000000000000
+      internalID: -771818753231833470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_54
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 949
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ede47520fed55a0800000000000000
+      internalID: -6530801091283591650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1070
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f808f5d4c255023f0800000000000000
+      internalID: -927647874473295729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 811
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f30efd4cd7ed180800000000000000
+      internalID: -9088688713464004812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_57
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 965
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f7a324be814cf0800000000000000
+      internalID: -269777598322051477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 945
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d21d0518c73cb60800000000000000
+      internalID: 7765187077365378407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 941
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae51636c6455610800000000000000
+      internalID: 1609270258979695151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 881
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288119d0297300cc0800000000000000
+      internalID: -3746933789539886974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_61
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 899
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20974613533e3df60800000000000000
+      internalID: 8058033975897389314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_62
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 931
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8018310aa380e6930800000000000000
+      internalID: 4138254155486822664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_63
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 919
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623cc7cd442133690800000000000000
+      internalID: -7623729657241877722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 907
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e3336c62d361c00800000000000000
+      internalID: 870950814686068262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 883
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28df9585076e2b10800000000000000
+      internalID: 1958616161367087150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_66
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 819
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0479b4db184afd6e0800000000000000
+      internalID: -1810547648046065856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 793
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bac92920f2d1f10800000000000000
+      internalID: 2241999877596556179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 863
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d235a0051206deee0800000000000000
+      internalID: -1230221427009236179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_69
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 479
+        width: 238
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ba4232a50a3a10800000000000000
+      internalID: 1889829187821940818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_70
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 851
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf80069648f572d0800000000000000
+      internalID: -3281443771421519927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_71
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 841
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593591fa8b16622c0800000000000000
+      internalID: -4456767335396977771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 825
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed150f1ad9f39c590800000000000000
+      internalID: -7653516145480150562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 702
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760685c17089adf20800000000000000
+      internalID: 3448235621013282919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 716
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ed3900d4968a10800000000000000
+      internalID: 1911378713094513965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_75
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 722
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0702eab9459e3ff0800000000000000
+      internalID: -54442001581340915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_76
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 487
+        width: 140
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f62396bd4852c0800000000000000
+      internalID: -4442715585852804158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_77
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 730
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27db880bff2e080800000000000000
+      internalID: -9159477558444723458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_78
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 728
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a677ac8954b0d0800000000000000
+      internalID: -3408000557372759735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 359
+        width: 118
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c51eb7a7d24bf0800000000000000
+      internalID: -341473506278128274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_80
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 634
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130f7d6677965ae60800000000000000
+      internalID: 7972894676876783665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 594
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72672b9984286e0800000000000000
+      internalID: -1836825873052457005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 547
+        width: 54
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342cd2f68347d5d0800000000000000
+      internalID: -3037885176758918096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_83
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 690
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dba418df6aa63d0800000000000000
+      internalID: -3212571776449331839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_84
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 561
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6bd361ba743150800000000000000
+      internalID: 5851436718164241183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_85
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 592
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e94e729d7082f960800000000000000
+      internalID: 7634305595163429347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 694
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a474f48bafb7fc290800000000000000
+      internalID: -7867933707228723382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_87
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 525
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507801fccaf82d20800000000000000
+      internalID: 3254126488899317847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 485
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1e160cdd60d560800000000000000
+      internalID: 7336484584749407218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_89
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 416
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8582df3132a7cc80800000000000000
+      internalID: -8302489055626361462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_90
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 453
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5531b61570f750800000000000000
+      internalID: 6336693416033082720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 297
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d5b09f49c5b2810800000000000000
+      internalID: 1741587475812015397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 454
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835073ba49b94cc0800000000000000
+      internalID: -3726243486183173244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_93
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 452
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187460fb7ae15f00800000000000000
+      internalID: 1103921201717475357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_94
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 437
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe289c9b901f5590800000000000000
+      internalID: -7683404178737582349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_95
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 168
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1469defa4ed2652d0800000000000000
+      internalID: -3290392017520191935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef2402d30c000b30800000000000000
+      internalID: 4251411258785673184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_97
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 324
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0d8e2a5c7a25f0800000000000000
+      internalID: -780674858625462691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_98
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedc31f9de19cc8f0800000000000000
+      internalID: -518879407292297750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_99
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 248
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8a38325ab91a10800000000000000
+      internalID: 1880739181697338593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_100
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 304
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d34762f191109d90800000000000000
+      internalID: -7093150094573747240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_101
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 342
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb164f63bd878b0800000000000000
+      internalID: -5154128744450769423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9a5a6b67b31a90800000000000000
+      internalID: -7344324895337440699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 342
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf8ca604e0bb360800000000000000
+      internalID: 7186353300232010919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 312
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364cd541d95c298b0800000000000000
+      internalID: -5146834145688828829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_105
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 302
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa602b0283bb000800000000000000
+      internalID: 52697533721782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_106
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 17
+        width: 159
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a49311f8f1b080800000000000000
+      internalID: -9173277251677674190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_107
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 324
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3140283e1716eea0800000000000000
+      internalID: -5843958047908544197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_108
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 222
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7bc0672025d0480800000000000000
+      internalID: -8931392315481868366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_109
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 164
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba381405726abda50800000000000000
+      internalID: 6547009171093554091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_110
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce471447448e1a6f0800000000000000
+      internalID: -675003088422996756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_111
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 160
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67453c43bf60005f0800000000000000
+      internalID: -792625858425432970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasser_112
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 270
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffca1fbf373180000800000000000000
+      internalID: 2273188682771711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lasser_0: 6026393915275929263
+      lasser_1: 6833228880091669174
+      lasser_10: 5484107183983547535
+      lasser_100: -7093150094573747240
+      lasser_101: -5154128744450769423
+      lasser_102: -7344324895337440699
+      lasser_103: 7186353300232010919
+      lasser_104: -5146834145688828829
+      lasser_105: 52697533721782849
+      lasser_106: -9173277251677674190
+      lasser_107: -5843958047908544197
+      lasser_108: -8931392315481868366
+      lasser_109: 6547009171093554091
+      lasser_11: -6253211028242229687
+      lasser_110: -675003088422996756
+      lasser_111: -792625858425432970
+      lasser_112: 2273188682771711
+      lasser_12: -5564041384873940193
+      lasser_13: 6884721691682760631
+      lasser_14: 8798771285921364750
+      lasser_15: 571799123492386408
+      lasser_16: 7072282890978498304
+      lasser_17: -7611027211940381467
+      lasser_18: 3986633411494536815
+      lasser_19: 7589552867291161323
+      lasser_2: 2459113058703720351
+      lasser_20: -3899182835128680474
+      lasser_21: 827846876117683559
+      lasser_22: 6441962006883174418
+      lasser_23: -7566463015217039752
+      lasser_24: -5038853086036695563
+      lasser_25: -9190443168125617749
+      lasser_26: -1973583683519444262
+      lasser_27: -3340170358741234225
+      lasser_28: 9112206002784264886
+      lasser_29: -5009683054286143086
+      lasser_3: -4259442642192674669
+      lasser_30: 3521576813690985322
+      lasser_31: 597753027994303905
+      lasser_32: 445789742227081550
+      lasser_33: 660669820132510804
+      lasser_34: 2970019957564459923
+      lasser_35: -7102807664861597292
+      lasser_36: 7180918661031410064
+      lasser_37: -848555837325498692
+      lasser_38: -943611345497864298
+      lasser_39: -6591395796035255498
+      lasser_4: -3241316764356153809
+      lasser_40: -6408826872889794607
+      lasser_41: -8463118255524230904
+      lasser_42: -4504065277625333753
+      lasser_43: -6801102403084823840
+      lasser_44: -5982857071142934890
+      lasser_45: 2197378981557402437
+      lasser_46: 4482879781129183398
+      lasser_47: 7863875910017509960
+      lasser_48: 4134527127205208274
+      lasser_49: -5062851451065789381
+      lasser_5: 3976841849460584299
+      lasser_50: 6335813882217242360
+      lasser_51: 5124618981702359977
+      lasser_52: -3650553840681266191
+      lasser_53: -771818753231833470
+      lasser_54: -6530801091283591650
+      lasser_55: -927647874473295729
+      lasser_56: -9088688713464004812
+      lasser_57: -269777598322051477
+      lasser_58: 7765187077365378407
+      lasser_59: 1609270258979695151
+      lasser_6: -3651069564303631078
+      lasser_60: -3746933789539886974
+      lasser_61: 8058033975897389314
+      lasser_62: 4138254155486822664
+      lasser_63: -7623729657241877722
+      lasser_64: 870950814686068262
+      lasser_65: 1958616161367087150
+      lasser_66: -1810547648046065856
+      lasser_67: 2241999877596556179
+      lasser_68: -1230221427009236179
+      lasser_69: 1889829187821940818
+      lasser_7: 8526561335353382781
+      lasser_70: -3281443771421519927
+      lasser_71: -4456767335396977771
+      lasser_72: -7653516145480150562
+      lasser_73: 3448235621013282919
+      lasser_74: 1911378713094513965
+      lasser_75: -54442001581340915
+      lasser_76: -4442715585852804158
+      lasser_77: -9159477558444723458
+      lasser_78: -3408000557372759735
+      lasser_79: -341473506278128274
+      lasser_8: -8166570585133781027
+      lasser_80: 7972894676876783665
+      lasser_81: -1836825873052457005
+      lasser_82: -3037885176758918096
+      lasser_83: -3212571776449331839
+      lasser_84: 5851436718164241183
+      lasser_85: 7634305595163429347
+      lasser_86: -7867933707228723382
+      lasser_87: 3254126488899317847
+      lasser_88: 7336484584749407218
+      lasser_89: -8302489055626361462
+      lasser_9: 2980217880090389706
+      lasser_90: 6336693416033082720
+      lasser_91: 1741587475812015397
+      lasser_92: -3726243486183173244
+      lasser_93: 1103921201717475357
+      lasser_94: -7683404178737582349
+      lasser_95: -3290392017520191935
+      lasser_96: 4251411258785673184
+      lasser_97: -780674858625462691
+      lasser_98: -518879407292297750
+      lasser_99: 1880739181697338593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

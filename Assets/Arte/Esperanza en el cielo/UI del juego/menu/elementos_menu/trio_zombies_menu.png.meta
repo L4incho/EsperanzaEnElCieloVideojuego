@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: f51845271f4abdd4785cd3fdabbc12ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7673077705312488233
+    second: trio_zombies_menu_0
+  - first:
+      213: 4316095721214203311
+    second: trio_zombies_menu_1
+  - first:
+      213: 4257591806265209874
+    second: trio_zombies_menu_2
+  - first:
+      213: -5075813392271455466
+    second: trio_zombies_menu_3
+  - first:
+      213: -5510088356092122811
+    second: trio_zombies_menu_4
+  - first:
+      213: 7456418581167606290
+    second: trio_zombies_menu_5
+  - first:
+      213: -947995639115472569
+    second: trio_zombies_menu_6
+  - first:
+      213: -640138738767416452
+    second: trio_zombies_menu_7
+  - first:
+      213: -9094842518636201349
+    second: trio_zombies_menu_8
+  - first:
+      213: 4129832914487031973
+    second: trio_zombies_menu_9
+  - first:
+      213: -8936336642591630874
+    second: trio_zombies_menu_10
+  - first:
+      213: 915935837114214128
+    second: trio_zombies_menu_11
+  - first:
+      213: 3682650155383852593
+    second: trio_zombies_menu_12
+  - first:
+      213: 1935229553977825576
+    second: trio_zombies_menu_13
+  - first:
+      213: -7480283022066069895
+    second: trio_zombies_menu_14
+  - first:
+      213: -2585484028262775310
+    second: trio_zombies_menu_15
+  - first:
+      213: -385895760466246428
+    second: trio_zombies_menu_16
+  - first:
+      213: 8953706079497678609
+    second: trio_zombies_menu_17
+  - first:
+      213: 5253435964189447546
+    second: trio_zombies_menu_18
+  - first:
+      213: -7693644189658089026
+    second: trio_zombies_menu_19
+  - first:
+      213: -9129929124595974327
+    second: trio_zombies_menu_20
+  - first:
+      213: 5202424194175779541
+    second: trio_zombies_menu_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trio_zombies_menu_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 682
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bce1fe48f3c7a60800000000000000
+      internalID: 7673077705312488233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 616
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa55e87d03ad5eb30800000000000000
+      internalID: 4316095721214203311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_2
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 642
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143d0ba031061b30800000000000000
+      internalID: 4257591806265209874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_3
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 584
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4d7fcc961f89b0800000000000000
+      internalID: -5075813392271455466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 651
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ec1675db3883b0800000000000000
+      internalID: -5510088356092122811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_5
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 553
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a0e1b91358a7760800000000000000
+      internalID: 7456418581167606290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_6
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 610
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74127e92dfa08d2f0800000000000000
+      internalID: -947995639115472569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 602
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733dcc6535cd17f0800000000000000
+      internalID: -640138738767416452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_8
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 593
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7af1947ae0a8c180800000000000000
+      internalID: -9094842518636201349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_9
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 564
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a837b9a72d105930800000000000000
+      internalID: 4129832914487031973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 35
+        width: 667
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d4099b21cbf380800000000000000
+      internalID: -8936336642591630874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 519
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f62e308ace06bc00800000000000000
+      internalID: 915935837114214128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 27
+        width: 613
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e01b70ec66b1330800000000000000
+      internalID: 3682650155383852593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_13
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 457
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8299faba6015bda10800000000000000
+      internalID: 1935229553977825576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 465
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ecd524932b03890800000000000000
+      internalID: -7480283022066069895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_15
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 441
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f583fa89f38e1cd0800000000000000
+      internalID: -2585484028262775310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_16
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e48415b9d505aaf0800000000000000
+      internalID: -385895760466246428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_17
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 373
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe6b39d34f14c70800000000000000
+      internalID: 8953706079497678609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_18
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 399
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7516cfec24f7e840800000000000000
+      internalID: 5253435964189447546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_19
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 407
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb97e274f5faa3590800000000000000
+      internalID: -7693644189658089026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_20
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 341
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fb6f765d9fb4180800000000000000
+      internalID: -9129929124595974327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trio_zombies_menu_21
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 136
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ceb0bd39b23840800000000000000
+      internalID: 5202424194175779541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trio_zombies_menu_0: 7673077705312488233
+      trio_zombies_menu_1: 4316095721214203311
+      trio_zombies_menu_10: -8936336642591630874
+      trio_zombies_menu_11: 915935837114214128
+      trio_zombies_menu_12: 3682650155383852593
+      trio_zombies_menu_13: 1935229553977825576
+      trio_zombies_menu_14: -7480283022066069895
+      trio_zombies_menu_15: -2585484028262775310
+      trio_zombies_menu_16: -385895760466246428
+      trio_zombies_menu_17: 8953706079497678609
+      trio_zombies_menu_18: 5253435964189447546
+      trio_zombies_menu_19: -7693644189658089026
+      trio_zombies_menu_2: 4257591806265209874
+      trio_zombies_menu_20: -9129929124595974327
+      trio_zombies_menu_21: 5202424194175779541
+      trio_zombies_menu_3: -5075813392271455466
+      trio_zombies_menu_4: -5510088356092122811
+      trio_zombies_menu_5: 7456418581167606290
+      trio_zombies_menu_6: -947995639115472569
+      trio_zombies_menu_7: -640138738767416452
+      trio_zombies_menu_8: -9094842518636201349
+      trio_zombies_menu_9: 4129832914487031973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

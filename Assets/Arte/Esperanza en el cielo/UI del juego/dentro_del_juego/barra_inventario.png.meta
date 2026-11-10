@@ -1,0 +1,4459 @@
+fileFormatVersion: 2
+guid: e511af02a3bcb324e9541319117e7f5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2374755766841608066
+    second: barra_inventario_0
+  - first:
+      213: -3072599463638582134
+    second: barra_inventario_1
+  - first:
+      213: -3336386140253795137
+    second: barra_inventario_2
+  - first:
+      213: 1466676923452765671
+    second: barra_inventario_3
+  - first:
+      213: 1675948578184363196
+    second: barra_inventario_4
+  - first:
+      213: 1247311490930853268
+    second: barra_inventario_5
+  - first:
+      213: 3897094678862556937
+    second: barra_inventario_6
+  - first:
+      213: 6625017101506330164
+    second: barra_inventario_7
+  - first:
+      213: -2897355514858218928
+    second: barra_inventario_8
+  - first:
+      213: 9102286016085042640
+    second: barra_inventario_9
+  - first:
+      213: 9098701252149093941
+    second: barra_inventario_10
+  - first:
+      213: 7167888938236952893
+    second: barra_inventario_11
+  - first:
+      213: 1088195699442793602
+    second: barra_inventario_12
+  - first:
+      213: -3165256238113852018
+    second: barra_inventario_13
+  - first:
+      213: 9107153147445205317
+    second: barra_inventario_14
+  - first:
+      213: -6041480988251117577
+    second: barra_inventario_15
+  - first:
+      213: 6586776320231677157
+    second: barra_inventario_16
+  - first:
+      213: 4464815988614880109
+    second: barra_inventario_17
+  - first:
+      213: 5586000922600930141
+    second: barra_inventario_18
+  - first:
+      213: 4265415084882961616
+    second: barra_inventario_19
+  - first:
+      213: 2734280389821803349
+    second: barra_inventario_20
+  - first:
+      213: -1355653486996542488
+    second: barra_inventario_21
+  - first:
+      213: -8759765180163414414
+    second: barra_inventario_22
+  - first:
+      213: -2049320396309778193
+    second: barra_inventario_23
+  - first:
+      213: 2046294770132094057
+    second: barra_inventario_24
+  - first:
+      213: 5780789300060877791
+    second: barra_inventario_25
+  - first:
+      213: 23295749694000134
+    second: barra_inventario_26
+  - first:
+      213: 4755150231884185969
+    second: barra_inventario_27
+  - first:
+      213: 7892647494039288845
+    second: barra_inventario_28
+  - first:
+      213: 7669095910454860608
+    second: barra_inventario_29
+  - first:
+      213: 6959598042067318146
+    second: barra_inventario_30
+  - first:
+      213: 6632242043331026340
+    second: barra_inventario_31
+  - first:
+      213: -6582919446739374263
+    second: barra_inventario_32
+  - first:
+      213: 478104425092729978
+    second: barra_inventario_33
+  - first:
+      213: -2725315072153817540
+    second: barra_inventario_34
+  - first:
+      213: 5985846749703663473
+    second: barra_inventario_35
+  - first:
+      213: 730987742525188841
+    second: barra_inventario_36
+  - first:
+      213: 3725043415530857077
+    second: barra_inventario_37
+  - first:
+      213: 4078458642412507415
+    second: barra_inventario_38
+  - first:
+      213: -6592317828958227638
+    second: barra_inventario_39
+  - first:
+      213: 9191113662339154460
+    second: barra_inventario_40
+  - first:
+      213: 1517269849385051563
+    second: barra_inventario_41
+  - first:
+      213: -6612488741565552744
+    second: barra_inventario_42
+  - first:
+      213: -4739918323184845343
+    second: barra_inventario_43
+  - first:
+      213: -206590942549583510
+    second: barra_inventario_44
+  - first:
+      213: 2769924708043326554
+    second: barra_inventario_45
+  - first:
+      213: -5557309878187071444
+    second: barra_inventario_46
+  - first:
+      213: 1272510623250859522
+    second: barra_inventario_47
+  - first:
+      213: -6233093263901795766
+    second: barra_inventario_48
+  - first:
+      213: 5848876704253574676
+    second: barra_inventario_49
+  - first:
+      213: -9057043829941537497
+    second: barra_inventario_50
+  - first:
+      213: 8783929718701271570
+    second: barra_inventario_51
+  - first:
+      213: 4376737666876015775
+    second: barra_inventario_52
+  - first:
+      213: 7098247033865434362
+    second: barra_inventario_53
+  - first:
+      213: -3676418644924912222
+    second: barra_inventario_54
+  - first:
+      213: 1056447657290451327
+    second: barra_inventario_55
+  - first:
+      213: -7238461849392144207
+    second: barra_inventario_56
+  - first:
+      213: -8864321729126448767
+    second: barra_inventario_57
+  - first:
+      213: -547801904852911663
+    second: barra_inventario_58
+  - first:
+      213: -5434937932029619880
+    second: barra_inventario_59
+  - first:
+      213: -4797109751784285367
+    second: barra_inventario_60
+  - first:
+      213: 4826863142235778785
+    second: barra_inventario_61
+  - first:
+      213: 2887584811915786321
+    second: barra_inventario_62
+  - first:
+      213: -3385561597327941092
+    second: barra_inventario_63
+  - first:
+      213: -2858974770371417228
+    second: barra_inventario_64
+  - first:
+      213: -722644933225785766
+    second: barra_inventario_65
+  - first:
+      213: 9212968939114996912
+    second: barra_inventario_66
+  - first:
+      213: 5704730862885494156
+    second: barra_inventario_67
+  - first:
+      213: -7275540682214420393
+    second: barra_inventario_68
+  - first:
+      213: -1071418263821687876
+    second: barra_inventario_69
+  - first:
+      213: -6774413782771072619
+    second: barra_inventario_70
+  - first:
+      213: -4945487634301473014
+    second: barra_inventario_71
+  - first:
+      213: 3522299958481293511
+    second: barra_inventario_72
+  - first:
+      213: -9064272182331687886
+    second: barra_inventario_73
+  - first:
+      213: 4626129111115460034
+    second: barra_inventario_74
+  - first:
+      213: 5119632955931252459
+    second: barra_inventario_75
+  - first:
+      213: 1254175448607041649
+    second: barra_inventario_76
+  - first:
+      213: -4760393856871326327
+    second: barra_inventario_77
+  - first:
+      213: 4737868646390918560
+    second: barra_inventario_78
+  - first:
+      213: 5231464706754176671
+    second: barra_inventario_79
+  - first:
+      213: -7314946122040304048
+    second: barra_inventario_80
+  - first:
+      213: -5983370673798002040
+    second: barra_inventario_81
+  - first:
+      213: -329278642295660845
+    second: barra_inventario_82
+  - first:
+      213: 3960397336351422785
+    second: barra_inventario_83
+  - first:
+      213: -5435517563801617620
+    second: barra_inventario_84
+  - first:
+      213: 1165888693953998722
+    second: barra_inventario_85
+  - first:
+      213: 4317810868430310332
+    second: barra_inventario_86
+  - first:
+      213: 2245959131038852450
+    second: barra_inventario_87
+  - first:
+      213: -432255047330500846
+    second: barra_inventario_88
+  - first:
+      213: 4803510427652260430
+    second: barra_inventario_89
+  - first:
+      213: 1481731915732698641
+    second: barra_inventario_90
+  - first:
+      213: -7840601925143022070
+    second: barra_inventario_91
+  - first:
+      213: -6589653014390532657
+    second: barra_inventario_92
+  - first:
+      213: -7361533932766289031
+    second: barra_inventario_93
+  - first:
+      213: -245696320303271175
+    second: barra_inventario_94
+  - first:
+      213: -5815826702617260139
+    second: barra_inventario_95
+  - first:
+      213: 5913988166815418795
+    second: barra_inventario_96
+  - first:
+      213: -2110277710036521314
+    second: barra_inventario_97
+  - first:
+      213: 6040151832464271651
+    second: barra_inventario_98
+  - first:
+      213: 2865984687324344520
+    second: barra_inventario_99
+  - first:
+      213: -4088894642096545098
+    second: barra_inventario_100
+  - first:
+      213: -3449605645439113251
+    second: barra_inventario_101
+  - first:
+      213: 5227323104703458293
+    second: barra_inventario_102
+  - first:
+      213: -4082146298976752263
+    second: barra_inventario_103
+  - first:
+      213: -3861726734947175936
+    second: barra_inventario_104
+  - first:
+      213: 3208666309801519277
+    second: barra_inventario_105
+  - first:
+      213: -5078297565093750745
+    second: barra_inventario_106
+  - first:
+      213: -5232518047645040921
+    second: barra_inventario_107
+  - first:
+      213: 1186877407896955125
+    second: barra_inventario_108
+  - first:
+      213: -7890793515205619266
+    second: barra_inventario_109
+  - first:
+      213: 6619598262370819049
+    second: barra_inventario_110
+  - first:
+      213: 3397997373846636687
+    second: barra_inventario_111
+  - first:
+      213: -9126758420575856540
+    second: barra_inventario_112
+  - first:
+      213: -2225156624821116470
+    second: barra_inventario_113
+  - first:
+      213: 9037492738552808132
+    second: barra_inventario_114
+  - first:
+      213: 2177294669697965747
+    second: barra_inventario_115
+  - first:
+      213: 321577217388526937
+    second: barra_inventario_116
+  - first:
+      213: 3348439614993519332
+    second: barra_inventario_117
+  - first:
+      213: -5847575209431338061
+    second: barra_inventario_118
+  - first:
+      213: 3248288632576981314
+    second: barra_inventario_119
+  - first:
+      213: 6161106093791731304
+    second: barra_inventario_120
+  - first:
+      213: -4649862076349156318
+    second: barra_inventario_121
+  - first:
+      213: 1633514610135344874
+    second: barra_inventario_122
+  - first:
+      213: 317162571739662154
+    second: barra_inventario_123
+  - first:
+      213: 398607300124090510
+    second: barra_inventario_124
+  - first:
+      213: 3947621221575233888
+    second: barra_inventario_125
+  - first:
+      213: -1958361138607803450
+    second: barra_inventario_126
+  - first:
+      213: 8844623613052226906
+    second: barra_inventario_127
+  - first:
+      213: -2114052323959787806
+    second: barra_inventario_128
+  - first:
+      213: 7121626691251090390
+    second: barra_inventario_129
+  - first:
+      213: -6058922739533700154
+    second: barra_inventario_130
+  - first:
+      213: 2923172272451247549
+    second: barra_inventario_131
+  - first:
+      213: 7414267453682938802
+    second: barra_inventario_132
+  - first:
+      213: -2991777452986098123
+    second: barra_inventario_133
+  - first:
+      213: -7698192374298668220
+    second: barra_inventario_134
+  - first:
+      213: -2440581985699464848
+    second: barra_inventario_135
+  - first:
+      213: 1077611700338963800
+    second: barra_inventario_136
+  - first:
+      213: 450839828378425783
+    second: barra_inventario_137
+  - first:
+      213: -189233091722426957
+    second: barra_inventario_138
+  - first:
+      213: -6279205920593170760
+    second: barra_inventario_139
+  - first:
+      213: -7303055668763940694
+    second: barra_inventario_140
+  - first:
+      213: -2069810102462478982
+    second: barra_inventario_141
+  - first:
+      213: -4159200063194750314
+    second: barra_inventario_142
+  - first:
+      213: -2377054784564810203
+    second: barra_inventario_143
+  - first:
+      213: -8361681689865506536
+    second: barra_inventario_144
+  - first:
+      213: 7816649484750266060
+    second: barra_inventario_145
+  - first:
+      213: 5359372417384310229
+    second: barra_inventario_146
+  - first:
+      213: -255694981366719123
+    second: barra_inventario_147
+  - first:
+      213: 4603257980951362095
+    second: barra_inventario_148
+  - first:
+      213: 7572397058835580262
+    second: barra_inventario_149
+  - first:
+      213: -2598187909738072799
+    second: barra_inventario_150
+  - first:
+      213: 2393791996926804927
+    second: barra_inventario_151
+  - first:
+      213: -8007476300092532603
+    second: barra_inventario_152
+  - first:
+      213: -6240397668587960423
+    second: barra_inventario_153
+  - first:
+      213: 4282762625111430771
+    second: barra_inventario_154
+  - first:
+      213: 5861087044270901813
+    second: barra_inventario_155
+  - first:
+      213: -7887482947371678594
+    second: barra_inventario_156
+  - first:
+      213: -2351154625800756749
+    second: barra_inventario_157
+  - first:
+      213: 8573661120517778674
+    second: barra_inventario_158
+  - first:
+      213: 836769537769878235
+    second: barra_inventario_159
+  - first:
+      213: 7084500037101312150
+    second: barra_inventario_160
+  - first:
+      213: 23113010862041660
+    second: barra_inventario_161
+  - first:
+      213: 5850823395009926833
+    second: barra_inventario_162
+  - first:
+      213: -3965310688162957557
+    second: barra_inventario_163
+  - first:
+      213: -3704158009605467084
+    second: barra_inventario_164
+  - first:
+      213: -1494368710514268746
+    second: barra_inventario_165
+  - first:
+      213: -3001380886573067674
+    second: barra_inventario_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barra_inventario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2155
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787819463c2b0fd0800000000000000
+      internalID: -2374755766841608066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 701
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c34c0311feb55d0800000000000000
+      internalID: -3072599463638582134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 691
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc2ac7b76c2b1d0800000000000000
+      internalID: -3336386140253795137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 710
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e53aae14eeaa5410800000000000000
+      internalID: 1466676923452765671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 707
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcff703a5a224710800000000000000
+      internalID: 1675948578184363196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 691
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495423541375f4110800000000000000
+      internalID: 1247311490930853268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 691
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90feaa576f2451630800000000000000
+      internalID: 3897094678862556937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 689
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3c26f3f9c0fb50800000000000000
+      internalID: 6625017101506330164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 707
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5bd492868ac7d0800000000000000
+      internalID: -2897355514858218928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 707
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d521c8d7e0d15e70800000000000000
+      internalID: 9102286016085042640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 708
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536afb3f494154e70800000000000000
+      internalID: 9098701252149093941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_11
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 709
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c0112305797360800000000000000
+      internalID: 7167888938236952893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 675
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c356f193c0a1f00800000000000000
+      internalID: 1088195699442793602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 708
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e857220c830c214d0800000000000000
+      internalID: -3165256238113852018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_14
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 675
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495d8c298b136e70800000000000000
+      internalID: 9107153147445205317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_15
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 702
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72402ec09582ca0800000000000000
+      internalID: -6041480988251117577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_16
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 689
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1d5e3a2ee86b50800000000000000
+      internalID: 6586776320231677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_17
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 707
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bdfdc6c7636fd30800000000000000
+      internalID: 4464815988614880109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_18
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 709
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf1a24e36758d40800000000000000
+      internalID: 5586000922600930141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_19
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 707
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4aa0aab6cc13b30800000000000000
+      internalID: 4265415084882961616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_20
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 687
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b25a7178d12f520800000000000000
+      internalID: 2734280389821803349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_21
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 687
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb2d0d0650cf2de0800000000000000
+      internalID: -1355653486996542488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_22
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 669
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2762688daff0f6680800000000000000
+      internalID: -8759765180163414414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_23
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 709
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe03ef215f95f83e0800000000000000
+      internalID: -2049320396309778193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_24
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 691
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c867f6046e56c10800000000000000
+      internalID: 2046294770132094057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_25
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 705
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f18f8d3d793050800000000000000
+      internalID: 5780789300060877791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_26
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c89456c53c25000800000000000000
+      internalID: 23295749694000134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_27
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 707
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c21921ffadf140800000000000000
+      internalID: 4755150231884185969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_28
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 693
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb69b2411588d60800000000000000
+      internalID: 7892647494039288845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 693
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b1013191a1e6a60800000000000000
+      internalID: 7669095910454860608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_30
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 690
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853de4bb85759060800000000000000
+      internalID: 6959598042067318146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_31
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 690
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad1821dff47a0c50800000000000000
+      internalID: 6632242043331026340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_32
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 642
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa61814a5c4a4a0800000000000000
+      internalID: -6582919446739374263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_33
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 690
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc137017192a600800000000000000
+      internalID: 478104425092729978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_34
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 691
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ee047916cbd2ad0800000000000000
+      internalID: -2725315072153817540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 690
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f630c87eff11350800000000000000
+      internalID: 5985846749703663473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae0689a7df42a00800000000000000
+      internalID: 730987742525188841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_37
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ef93104302b330800000000000000
+      internalID: 3725043415530857077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 691
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119e14d688999830800000000000000
+      internalID: 4078458642412507415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 657
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a437876bcd16384a0800000000000000
+      internalID: -6592317828958227638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_40
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 679
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1207f5ed256d8f70800000000000000
+      internalID: 9191113662339154460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a101a3ec6e0510800000000000000
+      internalID: 1517269849385051563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_42
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 691
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89727b52688bb34a0800000000000000
+      internalID: -6612488741565552744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_43
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb332f56d683eb0800000000000000
+      internalID: -4739918323184845343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_44
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 675
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69d48fd1aa022df0800000000000000
+      internalID: -206590942549583510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_45
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 651
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540085a8dfb07620800000000000000
+      internalID: 2769924708043326554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_46
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 687
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e3e31c1870e2b0800000000000000
+      internalID: -5557309878187071444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_47
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 690
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20647c77badd8a110800000000000000
+      internalID: 1272510623250859522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_48
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 691
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ad04963ba9f79a0800000000000000
+      internalID: -6233093263901795766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_49
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 693
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e7714bf526b2150800000000000000
+      internalID: 5848876704253574676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_50
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 675
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725f0397f9aee4280800000000000000
+      internalID: -9057043829941537497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aaf273a89c6e970800000000000000
+      internalID: 8783929718701271570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_52
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 681
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94873518bb4dbc30800000000000000
+      internalID: 4376737666876015775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_53
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 659
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f485b11a028260800000000000000
+      internalID: 7098247033865434362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_54
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 691
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada0af88bcbafcc0800000000000000
+      internalID: -3676418644924912222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_55
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 689
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7947980c8149ae00800000000000000
+      internalID: 1056447657290451327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a3ca8c41db8b90800000000000000
+      internalID: -7238461849392144207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18144a04a5a9bf480800000000000000
+      internalID: -8864321729126448767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 675
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b5f5e111d568f0800000000000000
+      internalID: -547801904852911663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_59
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 677
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85114111fb83394b0800000000000000
+      internalID: -5434937932029619880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_60
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 667
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bd550d81e3d6db0800000000000000
+      internalID: -4797109751784285367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_61
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 675
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea36c34767cf240800000000000000
+      internalID: 4826863142235778785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158bd0d5613c21820800000000000000
+      internalID: 2887584811915786321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_63
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 683
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12601a2aa11401d0800000000000000
+      internalID: -3385561597327941092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_64
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 676
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b25360891e258d0800000000000000
+      internalID: -2858974770371417228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_65
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 677
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5657501346a8f5f0800000000000000
+      internalID: -722644933225785766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_66
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 661
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b428ae007a0bdf70800000000000000
+      internalID: 9212968939114996912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_67
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 682
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5f7dae764b2f40800000000000000
+      internalID: 5704730862885494156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_68
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 677
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d4b70c46180b90800000000000000
+      internalID: -7275540682214420393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_69
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 667
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ea0304ce8121f0800000000000000
+      internalID: -1071418263821687876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_70
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 683
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5918b649e827cf1a0800000000000000
+      internalID: -6774413782771072619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_71
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 668
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0faf5ce2391e5bb0800000000000000
+      internalID: -4945487634301473014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_72
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 667
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c096a97629b1e030800000000000000
+      internalID: 3522299958481293511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_73
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 663
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c3aa8897c353280800000000000000
+      internalID: -9064272182331687886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_74
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 671
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd61219aef433040800000000000000
+      internalID: 4626129111115460034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_75
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65aa66c079c0740800000000000000
+      internalID: 5119632955931252459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_76
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 679
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782d34fce9b76110800000000000000
+      internalID: 1254175448607041649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_77
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 675
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d9b32420fafedb0800000000000000
+      internalID: -4760393856871326327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 658
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad679c7e6a40c140800000000000000
+      internalID: 4737868646390918560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_79
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 659
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96631dee65e99840800000000000000
+      internalID: 5231464706754176671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_80
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 642
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9aac12471c7a90800000000000000
+      internalID: -7314946122040304048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_81
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac7ccc21cc6fca0800000000000000
+      internalID: -5983370673798002040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_82
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 661
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de18d5c1da2e6bf0800000000000000
+      internalID: -329278642295660845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_83
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 665
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14931a2f46826f630800000000000000
+      internalID: 3960397336351422785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_84
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 655
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b353703992194b0800000000000000
+      internalID: -5435517563801617620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_85
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 658
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa5ca07911e2010800000000000000
+      internalID: 1165888693953998722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_86
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 667
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0c1cab12fbeb30800000000000000
+      internalID: 4317810868430310332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_87
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 642
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265ad991eef3b2f10800000000000000
+      internalID: 2245959131038852450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_88
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 661
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fee7b1352500af0800000000000000
+      internalID: -432255047330500846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_89
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 659
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42091ba84f79a240800000000000000
+      internalID: 4803510427652260430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_90
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 651
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164b99a35b209410800000000000000
+      internalID: 1481731915732698641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_91
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 659
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a063b922716903390800000000000000
+      internalID: -7840601925143022070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_92
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 659
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59b243f79dc84a0800000000000000
+      internalID: -6589653014390532657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_93
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 659
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9732b7724e396d990800000000000000
+      internalID: -7361533932766289031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_94
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 668
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f3b99f7c179cf0800000000000000
+      internalID: -245696320303271175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_95
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 662
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f44437d680a4fa0800000000000000
+      internalID: -5815826702617260139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 655
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba985e077e4b21250800000000000000
+      internalID: 5913988166815418795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_97
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 651
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e29db7a99c6b2e0800000000000000
+      internalID: -2110277710036521314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_98
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 636
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329257be61ee2d350800000000000000
+      internalID: 6040151832464271651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_99
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 657
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03da373e506c720800000000000000
+      internalID: 2865984687324344520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_100
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 624
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b266d5acf35147c0800000000000000
+      internalID: -4088894642096545098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_101
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 626
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd76b6831f98020d0800000000000000
+      internalID: -3449605645439113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_102
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 657
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbaa0e0bae2b8840800000000000000
+      internalID: 5227323104703458293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_103
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da058b19d4957c0800000000000000
+      internalID: -4082146298976752263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_104
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 659
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00238dfaef3686ac0800000000000000
+      internalID: -3861726734947175936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_105
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 632
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ab7e2209778c20800000000000000
+      internalID: 3208666309801519277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_106
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 648
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7281bd045434689b0800000000000000
+      internalID: -5078297565093750745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_107
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 645
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eefb490f8c5267b0800000000000000
+      internalID: -5232518047645040921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 626
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f862a1d6b2a87010800000000000000
+      internalID: 1186877407896955125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1963aea154e7290800000000000000
+      internalID: -7890793515205619266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 5
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebd7682c898ddb50800000000000000
+      internalID: 6619598262370819049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 136
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c6dfab9c182f20800000000000000
+      internalID: 3397997373846636687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46855c6729d375180800000000000000
+      internalID: -9126758420575856540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_113
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac12eefc6d7ae11e0800000000000000
+      internalID: -2225156624821116470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_114
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 93
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2cc9553cf9b6d70800000000000000
+      internalID: 9037492738552808132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 100
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed2be57fd473e10800000000000000
+      internalID: 2177294669697965747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_116
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 96
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d3d4286c8767400800000000000000
+      internalID: 321577217388526937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_117
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d88bc61c087e20800000000000000
+      internalID: 3348439614993519332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_118
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f67c245d39dea0800000000000000
+      internalID: -5847575209431338061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_119
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 63
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b0b81d4d341d20800000000000000
+      internalID: 3248288632576981314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_120
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 78
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e53ff6955a08550800000000000000
+      internalID: 6161106093791731304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_121
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 63
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f5acd31f587fb0800000000000000
+      internalID: -4649862076349156318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_122
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 80
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6278812e86ba610800000000000000
+      internalID: 1633514610135344874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_123
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a478798bda9c66400800000000000000
+      internalID: 317162571739662154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_124
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8026c04a33288500800000000000000
+      internalID: 398607300124090510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_125
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06119cbe594c8c630800000000000000
+      internalID: 3947621221575233888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c33a579be082d4e0800000000000000
+      internalID: -1958361138607803450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_127
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8204b05a6eba70800000000000000
+      internalID: 8844623613052226906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_128
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 63
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eea9c1bc9069a2e0800000000000000
+      internalID: -2114052323959787806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_129
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d336f26eb915d260800000000000000
+      internalID: 7121626691251090390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_130
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 63
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ae84bed16aeba0800000000000000
+      internalID: -6058922739533700154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_131
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5ab4b1b1319820800000000000000
+      internalID: 2923172272451247549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_132
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f28677f4c4e660800000000000000
+      internalID: 7414267453682938802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_133
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9db3f1421b76d0800000000000000
+      internalID: -2991777452986098123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_134
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 45
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4439e4582d68a2590800000000000000
+      internalID: -7698192374298668220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_135
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 45
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797a216d9f412ed0800000000000000
+      internalID: -2440581985699464848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_136
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 47
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855328cc12274fe00800000000000000
+      internalID: 1077611700338963800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_137
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 49
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9181d6f64b14600800000000000000
+      internalID: 450839828378425783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_138
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 15
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5c2247185bf5df0800000000000000
+      internalID: -189233091722426957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_139
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 23
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea38fdb77cbd8a0800000000000000
+      internalID: -6279205920593170760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 33
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa82c60009556aa90800000000000000
+      internalID: -7303055668763940694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_141
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 15
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75853a9dae8643e0800000000000000
+      internalID: -2069810102462478982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_142
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 34
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ae73349d8746c0800000000000000
+      internalID: -4159200063194750314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_143
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e2f528441030fd0800000000000000
+      internalID: -2377054784564810203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_144
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811bdae1ec655fb80800000000000000
+      internalID: -8361681689865506536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_145
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 31
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9740ca415a7c60800000000000000
+      internalID: 7816649484750266060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_146
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 29
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5e73581d0506a40800000000000000
+      internalID: 5359372417384310229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_147
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 23
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d59c8e4c6937cf0800000000000000
+      internalID: -255694981366719123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_148
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a761c9ebe02ef30800000000000000
+      internalID: 4603257980951362095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_149
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 33
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6658b16310f861960800000000000000
+      internalID: 7572397058835580262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_150
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f854acd161fbd0800000000000000
+      internalID: -2598187909738072799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_151
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 17
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3cefa6325783120800000000000000
+      internalID: 2393791996926804927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_152
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58810a10bbabfd090800000000000000
+      internalID: -8007476300092532603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_153
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99783aa2267a569a0800000000000000
+      internalID: -6240397668587960423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_154
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 17
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376161f9aed6f6b30800000000000000
+      internalID: 4282762625111430771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_155
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a49670d93c65150800000000000000
+      internalID: 5861087044270901813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_156
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 29
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c5fd8c080a8290800000000000000
+      internalID: -7887482947371678594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_157
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1212523550f5fd0800000000000000
+      internalID: -2351154625800756749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_158
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2a092d53cbf670800000000000000
+      internalID: 8573661120517778674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_159
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd234a1167dcc9b00800000000000000
+      internalID: 836769537769878235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_160
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6985aaa9f33315260800000000000000
+      internalID: 7084500037101312150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_161
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2f12392d125000800000000000000
+      internalID: 23113010862041660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_162
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b69c17f0ec423150800000000000000
+      internalID: 5850823395009926833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_163
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07bcff20f268f8c0800000000000000
+      internalID: -3965310688162957557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_164
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345c8d6aef289cc0800000000000000
+      internalID: -3704158009605467084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_165
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a656439fe24be0800000000000000
+      internalID: -1494368710514268746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_inventario_166
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6625a245cf3f856d0800000000000000
+      internalID: -3001380886573067674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barra_inventario_0: -2374755766841608066
+      barra_inventario_1: -3072599463638582134
+      barra_inventario_10: 9098701252149093941
+      barra_inventario_100: -4088894642096545098
+      barra_inventario_101: -3449605645439113251
+      barra_inventario_102: 5227323104703458293
+      barra_inventario_103: -4082146298976752263
+      barra_inventario_104: -3861726734947175936
+      barra_inventario_105: 3208666309801519277
+      barra_inventario_106: -5078297565093750745
+      barra_inventario_107: -5232518047645040921
+      barra_inventario_108: 1186877407896955125
+      barra_inventario_109: -7890793515205619266
+      barra_inventario_11: 7167888938236952893
+      barra_inventario_110: 6619598262370819049
+      barra_inventario_111: 3397997373846636687
+      barra_inventario_112: -9126758420575856540
+      barra_inventario_113: -2225156624821116470
+      barra_inventario_114: 9037492738552808132
+      barra_inventario_115: 2177294669697965747
+      barra_inventario_116: 321577217388526937
+      barra_inventario_117: 3348439614993519332
+      barra_inventario_118: -5847575209431338061
+      barra_inventario_119: 3248288632576981314
+      barra_inventario_12: 1088195699442793602
+      barra_inventario_120: 6161106093791731304
+      barra_inventario_121: -4649862076349156318
+      barra_inventario_122: 1633514610135344874
+      barra_inventario_123: 317162571739662154
+      barra_inventario_124: 398607300124090510
+      barra_inventario_125: 3947621221575233888
+      barra_inventario_126: -1958361138607803450
+      barra_inventario_127: 8844623613052226906
+      barra_inventario_128: -2114052323959787806
+      barra_inventario_129: 7121626691251090390
+      barra_inventario_13: -3165256238113852018
+      barra_inventario_130: -6058922739533700154
+      barra_inventario_131: 2923172272451247549
+      barra_inventario_132: 7414267453682938802
+      barra_inventario_133: -2991777452986098123
+      barra_inventario_134: -7698192374298668220
+      barra_inventario_135: -2440581985699464848
+      barra_inventario_136: 1077611700338963800
+      barra_inventario_137: 450839828378425783
+      barra_inventario_138: -189233091722426957
+      barra_inventario_139: -6279205920593170760
+      barra_inventario_14: 9107153147445205317
+      barra_inventario_140: -7303055668763940694
+      barra_inventario_141: -2069810102462478982
+      barra_inventario_142: -4159200063194750314
+      barra_inventario_143: -2377054784564810203
+      barra_inventario_144: -8361681689865506536
+      barra_inventario_145: 7816649484750266060
+      barra_inventario_146: 5359372417384310229
+      barra_inventario_147: -255694981366719123
+      barra_inventario_148: 4603257980951362095
+      barra_inventario_149: 7572397058835580262
+      barra_inventario_15: -6041480988251117577
+      barra_inventario_150: -2598187909738072799
+      barra_inventario_151: 2393791996926804927
+      barra_inventario_152: -8007476300092532603
+      barra_inventario_153: -6240397668587960423
+      barra_inventario_154: 4282762625111430771
+      barra_inventario_155: 5861087044270901813
+      barra_inventario_156: -7887482947371678594
+      barra_inventario_157: -2351154625800756749
+      barra_inventario_158: 8573661120517778674
+      barra_inventario_159: 836769537769878235
+      barra_inventario_16: 6586776320231677157
+      barra_inventario_160: 7084500037101312150
+      barra_inventario_161: 23113010862041660
+      barra_inventario_162: 5850823395009926833
+      barra_inventario_163: -3965310688162957557
+      barra_inventario_164: -3704158009605467084
+      barra_inventario_165: -1494368710514268746
+      barra_inventario_166: -3001380886573067674
+      barra_inventario_17: 4464815988614880109
+      barra_inventario_18: 5586000922600930141
+      barra_inventario_19: 4265415084882961616
+      barra_inventario_2: -3336386140253795137
+      barra_inventario_20: 2734280389821803349
+      barra_inventario_21: -1355653486996542488
+      barra_inventario_22: -8759765180163414414
+      barra_inventario_23: -2049320396309778193
+      barra_inventario_24: 2046294770132094057
+      barra_inventario_25: 5780789300060877791
+      barra_inventario_26: 23295749694000134
+      barra_inventario_27: 4755150231884185969
+      barra_inventario_28: 7892647494039288845
+      barra_inventario_29: 7669095910454860608
+      barra_inventario_3: 1466676923452765671
+      barra_inventario_30: 6959598042067318146
+      barra_inventario_31: 6632242043331026340
+      barra_inventario_32: -6582919446739374263
+      barra_inventario_33: 478104425092729978
+      barra_inventario_34: -2725315072153817540
+      barra_inventario_35: 5985846749703663473
+      barra_inventario_36: 730987742525188841
+      barra_inventario_37: 3725043415530857077
+      barra_inventario_38: 4078458642412507415
+      barra_inventario_39: -6592317828958227638
+      barra_inventario_4: 1675948578184363196
+      barra_inventario_40: 9191113662339154460
+      barra_inventario_41: 1517269849385051563
+      barra_inventario_42: -6612488741565552744
+      barra_inventario_43: -4739918323184845343
+      barra_inventario_44: -206590942549583510
+      barra_inventario_45: 2769924708043326554
+      barra_inventario_46: -5557309878187071444
+      barra_inventario_47: 1272510623250859522
+      barra_inventario_48: -6233093263901795766
+      barra_inventario_49: 5848876704253574676
+      barra_inventario_5: 1247311490930853268
+      barra_inventario_50: -9057043829941537497
+      barra_inventario_51: 8783929718701271570
+      barra_inventario_52: 4376737666876015775
+      barra_inventario_53: 7098247033865434362
+      barra_inventario_54: -3676418644924912222
+      barra_inventario_55: 1056447657290451327
+      barra_inventario_56: -7238461849392144207
+      barra_inventario_57: -8864321729126448767
+      barra_inventario_58: -547801904852911663
+      barra_inventario_59: -5434937932029619880
+      barra_inventario_6: 3897094678862556937
+      barra_inventario_60: -4797109751784285367
+      barra_inventario_61: 4826863142235778785
+      barra_inventario_62: 2887584811915786321
+      barra_inventario_63: -3385561597327941092
+      barra_inventario_64: -2858974770371417228
+      barra_inventario_65: -722644933225785766
+      barra_inventario_66: 9212968939114996912
+      barra_inventario_67: 5704730862885494156
+      barra_inventario_68: -7275540682214420393
+      barra_inventario_69: -1071418263821687876
+      barra_inventario_7: 6625017101506330164
+      barra_inventario_70: -6774413782771072619
+      barra_inventario_71: -4945487634301473014
+      barra_inventario_72: 3522299958481293511
+      barra_inventario_73: -9064272182331687886
+      barra_inventario_74: 4626129111115460034
+      barra_inventario_75: 5119632955931252459
+      barra_inventario_76: 1254175448607041649
+      barra_inventario_77: -4760393856871326327
+      barra_inventario_78: 4737868646390918560
+      barra_inventario_79: 5231464706754176671
+      barra_inventario_8: -2897355514858218928
+      barra_inventario_80: -7314946122040304048
+      barra_inventario_81: -5983370673798002040
+      barra_inventario_82: -329278642295660845
+      barra_inventario_83: 3960397336351422785
+      barra_inventario_84: -5435517563801617620
+      barra_inventario_85: 1165888693953998722
+      barra_inventario_86: 4317810868430310332
+      barra_inventario_87: 2245959131038852450
+      barra_inventario_88: -432255047330500846
+      barra_inventario_89: 4803510427652260430
+      barra_inventario_9: 9102286016085042640
+      barra_inventario_90: 1481731915732698641
+      barra_inventario_91: -7840601925143022070
+      barra_inventario_92: -6589653014390532657
+      barra_inventario_93: -7361533932766289031
+      barra_inventario_94: -245696320303271175
+      barra_inventario_95: -5815826702617260139
+      barra_inventario_96: 5913988166815418795
+      barra_inventario_97: -2110277710036521314
+      barra_inventario_98: 6040151832464271651
+      barra_inventario_99: 2865984687324344520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

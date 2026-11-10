@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: ecc30395535135a44bb933a9d1648244
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3538359452502746253
+    second: HUD_inventario_rapido_0
+  - first:
+      213: -6810760288528408788
+    second: HUD_inventario_rapido_1
+  - first:
+      213: 7974367254617348944
+    second: HUD_inventario_rapido_2
+  - first:
+      213: 4843570491076657852
+    second: HUD_inventario_rapido_3
+  - first:
+      213: 3455896335149912893
+    second: HUD_inventario_rapido_4
+  - first:
+      213: 8909549332874121430
+    second: HUD_inventario_rapido_5
+  - first:
+      213: 2221468870823912710
+    second: HUD_inventario_rapido_6
+  - first:
+      213: 1826650672685091514
+    second: HUD_inventario_rapido_7
+  - first:
+      213: -1477255755151144700
+    second: HUD_inventario_rapido_8
+  - first:
+      213: 3227484481689540261
+    second: HUD_inventario_rapido_9
+  - first:
+      213: 7843552290049424169
+    second: HUD_inventario_rapido_10
+  - first:
+      213: 1647044629371963712
+    second: HUD_inventario_rapido_11
+  - first:
+      213: -7834853381036209124
+    second: HUD_inventario_rapido_12
+  - first:
+      213: -549944669148802789
+    second: HUD_inventario_rapido_13
+  - first:
+      213: 5648068553201382175
+    second: HUD_inventario_rapido_14
+  - first:
+      213: 3849296757525009310
+    second: HUD_inventario_rapido_15
+  - first:
+      213: -221352866959846279
+    second: HUD_inventario_rapido_16
+  - first:
+      213: -2269627160658938580
+    second: HUD_inventario_rapido_17
+  - first:
+      213: 3066065756866390285
+    second: HUD_inventario_rapido_18
+  - first:
+      213: -5278021010732716966
+    second: HUD_inventario_rapido_19
+  - first:
+      213: -4128698416890493393
+    second: HUD_inventario_rapido_20
+  - first:
+      213: 2238633709248842938
+    second: HUD_inventario_rapido_21
+  - first:
+      213: 5945551976300160849
+    second: HUD_inventario_rapido_22
+  - first:
+      213: -1417329545600022165
+    second: HUD_inventario_rapido_23
+  - first:
+      213: 5688021872167509130
+    second: HUD_inventario_rapido_24
+  - first:
+      213: -5088880247979342904
+    second: HUD_inventario_rapido_25
+  - first:
+      213: 2138189865684828939
+    second: HUD_inventario_rapido_26
+  - first:
+      213: -2246024391863466360
+    second: HUD_inventario_rapido_27
+  - first:
+      213: 7911453128533909352
+    second: HUD_inventario_rapido_28
+  - first:
+      213: -3454055057111583088
+    second: HUD_inventario_rapido_29
+  - first:
+      213: 8267717204848059876
+    second: HUD_inventario_rapido_30
+  - first:
+      213: 8540774142669231684
+    second: HUD_inventario_rapido_31
+  - first:
+      213: -1804381932887838208
+    second: HUD_inventario_rapido_32
+  - first:
+      213: -4449493753165185886
+    second: HUD_inventario_rapido_33
+  - first:
+      213: 7703053998975391025
+    second: HUD_inventario_rapido_34
+  - first:
+      213: -6701693508979782280
+    second: HUD_inventario_rapido_35
+  - first:
+      213: -2154311608155371849
+    second: HUD_inventario_rapido_36
+  - first:
+      213: 7944416132189697003
+    second: HUD_inventario_rapido_37
+  - first:
+      213: 4112812487480599195
+    second: HUD_inventario_rapido_38
+  - first:
+      213: -7061948462776416846
+    second: HUD_inventario_rapido_39
+  - first:
+      213: -7532532117777053250
+    second: HUD_inventario_rapido_40
+  - first:
+      213: 1651423085216098483
+    second: HUD_inventario_rapido_41
+  - first:
+      213: -7110337683275505100
+    second: HUD_inventario_rapido_42
+  - first:
+      213: -1647443969330124929
+    second: HUD_inventario_rapido_43
+  - first:
+      213: 1126325898712557650
+    second: HUD_inventario_rapido_44
+  - first:
+      213: 7320164069096919948
+    second: HUD_inventario_rapido_45
+  - first:
+      213: 1587037619901594723
+    second: HUD_inventario_rapido_46
+  - first:
+      213: -5541463395916943011
+    second: HUD_inventario_rapido_47
+  - first:
+      213: 957930634865432555
+    second: HUD_inventario_rapido_48
+  - first:
+      213: -7144099539274351167
+    second: HUD_inventario_rapido_49
+  - first:
+      213: -3209813729725317785
+    second: HUD_inventario_rapido_50
+  - first:
+      213: -5662291197330224871
+    second: HUD_inventario_rapido_51
+  - first:
+      213: 925823712001366288
+    second: HUD_inventario_rapido_52
+  - first:
+      213: -9044976835447826092
+    second: HUD_inventario_rapido_53
+  - first:
+      213: -3828912230529804095
+    second: HUD_inventario_rapido_54
+  - first:
+      213: -1959717112314547851
+    second: HUD_inventario_rapido_55
+  - first:
+      213: -1883276005000537426
+    second: HUD_inventario_rapido_56
+  - first:
+      213: -7488761056980250483
+    second: HUD_inventario_rapido_57
+  - first:
+      213: 9020479523744606340
+    second: HUD_inventario_rapido_58
+  - first:
+      213: 9065268299015343068
+    second: HUD_inventario_rapido_59
+  - first:
+      213: 1882438965611204235
+    second: HUD_inventario_rapido_60
+  - first:
+      213: -4478799017351671279
+    second: HUD_inventario_rapido_61
+  - first:
+      213: 5041485002845371925
+    second: HUD_inventario_rapido_62
+  - first:
+      213: -2127166052349730742
+    second: HUD_inventario_rapido_63
+  - first:
+      213: -7523044937740903370
+    second: HUD_inventario_rapido_64
+  - first:
+      213: 5139197056307587311
+    second: HUD_inventario_rapido_65
+  - first:
+      213: -5838449920322924778
+    second: HUD_inventario_rapido_66
+  - first:
+      213: 460708817073772307
+    second: HUD_inventario_rapido_67
+  - first:
+      213: 6606757051736899343
+    second: HUD_inventario_rapido_68
+  - first:
+      213: 7836642797968426729
+    second: HUD_inventario_rapido_69
+  - first:
+      213: -6785897191950145565
+    second: HUD_inventario_rapido_70
+  - first:
+      213: -5622152240798369254
+    second: HUD_inventario_rapido_71
+  - first:
+      213: 6034975055316706998
+    second: HUD_inventario_rapido_72
+  - first:
+      213: 1722848048421961928
+    second: HUD_inventario_rapido_73
+  - first:
+      213: 7822181731699090806
+    second: HUD_inventario_rapido_74
+  - first:
+      213: 7903013510591633136
+    second: HUD_inventario_rapido_75
+  - first:
+      213: -8852422054653196695
+    second: HUD_inventario_rapido_76
+  - first:
+      213: 5212549305050636343
+    second: HUD_inventario_rapido_77
+  - first:
+      213: 9028420100437211494
+    second: HUD_inventario_rapido_78
+  - first:
+      213: 5877854150730080435
+    second: HUD_inventario_rapido_79
+  - first:
+      213: 1777289844468758453
+    second: HUD_inventario_rapido_80
+  - first:
+      213: 4394203775354269475
+    second: HUD_inventario_rapido_81
+  - first:
+      213: 3510842343214808429
+    second: HUD_inventario_rapido_82
+  - first:
+      213: -7959273905660888923
+    second: HUD_inventario_rapido_83
+  - first:
+      213: 6863373939511966255
+    second: HUD_inventario_rapido_84
+  - first:
+      213: 4758638379704351539
+    second: HUD_inventario_rapido_85
+  - first:
+      213: 7629936572163451104
+    second: HUD_inventario_rapido_86
+  - first:
+      213: 4181223297311128316
+    second: HUD_inventario_rapido_87
+  - first:
+      213: 1202788205424143697
+    second: HUD_inventario_rapido_88
+  - first:
+      213: 1342891960978658469
+    second: HUD_inventario_rapido_89
+  - first:
+      213: -6680129678762947582
+    second: HUD_inventario_rapido_90
+  - first:
+      213: 3369629701691403160
+    second: HUD_inventario_rapido_91
+  - first:
+      213: 2337609537122182130
+    second: HUD_inventario_rapido_92
+  - first:
+      213: -6555319842932951936
+    second: HUD_inventario_rapido_93
+  - first:
+      213: 38905472675265712
+    second: HUD_inventario_rapido_94
+  - first:
+      213: 4010677883257507071
+    second: HUD_inventario_rapido_95
+  - first:
+      213: 2591295179546091613
+    second: HUD_inventario_rapido_96
+  - first:
+      213: -8956981100975876922
+    second: HUD_inventario_rapido_97
+  - first:
+      213: -1172938251674343882
+    second: HUD_inventario_rapido_98
+  - first:
+      213: -5590005963994819873
+    second: HUD_inventario_rapido_99
+  - first:
+      213: -8533614632731656357
+    second: HUD_inventario_rapido_100
+  - first:
+      213: 1619445678567117297
+    second: HUD_inventario_rapido_101
+  - first:
+      213: -3772680340625146323
+    second: HUD_inventario_rapido_102
+  - first:
+      213: -3142690770900441816
+    second: HUD_inventario_rapido_103
+  - first:
+      213: -5563440180990103425
+    second: HUD_inventario_rapido_104
+  - first:
+      213: 1549568853652097742
+    second: HUD_inventario_rapido_105
+  - first:
+      213: -6596320720347538259
+    second: HUD_inventario_rapido_106
+  - first:
+      213: 4687805152363768697
+    second: HUD_inventario_rapido_107
+  - first:
+      213: 1575950813631688580
+    second: HUD_inventario_rapido_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 919
+        width: 198
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b9de133d835eec0800000000000000
+      internalID: -3538359452502746253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 942
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5def3a915b71a0800000000000000
+      internalID: -6810760288528408788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 874
+        width: 147
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b59ff94c4aaae60800000000000000
+      internalID: 7974367254617348944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 991
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2403503b1d73340800000000000000
+      internalID: 4843570491076657852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 927
+        width: 145
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335f2d186fc5ff20800000000000000
+      internalID: 3455896335149912893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 980
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d7c6d9e315ab70800000000000000
+      internalID: 8909549332874121430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_6
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 955
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6052c0d0b2e34de10800000000000000
+      internalID: 2221468870823912710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_7
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 979
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8f1adb11995910800000000000000
+      internalID: 1826650672685091514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_8
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 963
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40980dfa7bbbf7be0800000000000000
+      internalID: -1477255755151144700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 869
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d03149045acc20800000000000000
+      internalID: 3227484481689540261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 943
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf8993045e9dc60800000000000000
+      internalID: 7843552290049424169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 939
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494eee2d5a7bd610800000000000000
+      internalID: 1647044629371963712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 949
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c811c5c52054390800000000000000
+      internalID: -7834853381036209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_13
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 952
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111445bc343e58f0800000000000000
+      internalID: -549944669148802789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_14
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 961
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f137f94ac68f16e40800000000000000
+      internalID: 5648068553201382175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 909
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93575ba1037b6530800000000000000
+      internalID: 3849296757525009310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 962
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97418d28db89decf0800000000000000
+      internalID: -221352866959846279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_17
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 973
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2578545f1aa080e0800000000000000
+      internalID: -2269627160658938580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_18
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 949
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a208af8adc8a20800000000000000
+      internalID: 3066065756866390285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_19
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 963
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6a3adad3b0c6b0800000000000000
+      internalID: -5278021010732716966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 927
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2646842aaae3b6c0800000000000000
+      internalID: -4128698416890493393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 927
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc0efd6f79311f10800000000000000
+      internalID: 2238633709248842938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_22
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 913
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572ef48508d28250800000000000000
+      internalID: 5945551976300160849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 949
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6948d0a942a45ce0800000000000000
+      internalID: -1417329545600022165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_24
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 850
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c523d91c9efee40800000000000000
+      internalID: 5688021872167509130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_25
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 912
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c380b2606aa069b0800000000000000
+      internalID: -5088880247979342904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 919
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b030c7eaa506cad10800000000000000
+      internalID: 2138189865684828939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_27
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 937
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8868d1e27b484d0e0800000000000000
+      internalID: -2246024391863466360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_28
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 927
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f9a6724b02bcd60800000000000000
+      internalID: 7911453128533909352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 901
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f836d93bb010d0800000000000000
+      internalID: -3454055057111583088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 893
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5aa5a5ef4dcb270800000000000000
+      internalID: 8267717204848059876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 909
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44614a0f4dce68670800000000000000
+      internalID: 8540774142669231684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_32
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 913
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002761b213c85f6e0800000000000000
+      internalID: -1804381932887838208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_33
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 924
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf44481093042c0800000000000000
+      internalID: -4449493753165185886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_34
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 870
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135949eacceb6ea60800000000000000
+      internalID: 7703053998975391025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_35
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 879
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d08bbb24dcef2a0800000000000000
+      internalID: -6701693508979782280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 873
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b60664a1095a12e0800000000000000
+      internalID: -2154311608155371849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_37
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 878
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bc03816c304e60800000000000000
+      internalID: 7944416132189697003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 869
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926210ba25a31930800000000000000
+      internalID: 4112812487480599195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_39
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 875
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b58816f94beefd90800000000000000
+      internalID: -7061948462776416846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_40
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 855
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98daca2f1177790800000000000000
+      internalID: -7532532117777053250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_41
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 886
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86f20eb880be610800000000000000
+      internalID: 1651423085216098483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_42
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 895
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4322a4b9c81035d90800000000000000
+      internalID: -7110337683275505100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 895
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e7bc307a1329e0800000000000000
+      internalID: -1647443969330124929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_44
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 881
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a516ff6381af00800000000000000
+      internalID: 1126325898712557650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_45
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 879
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83991cdf62769560800000000000000
+      internalID: 7320164069096919948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_46
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 881
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c7a6b8e4a460610800000000000000
+      internalID: 1587037619901594723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_47
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 879
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517a8eb664c813b0800000000000000
+      internalID: -5541463395916943011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_48
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 885
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75e9a46d04b4d00800000000000000
+      internalID: 957930634865432555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_49
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 895
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd3581f15f0bdc90800000000000000
+      internalID: -7144099539274351167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 411
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dfc8c4b637473d0800000000000000
+      internalID: -3209813729725317785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_51
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 215
+        width: 341
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198f48f7208b61b0800000000000000
+      internalID: -5662291197330224871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_52
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 873
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199976c2cf29dc00800000000000000
+      internalID: 925823712001366288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_53
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 863
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459de719d79c97280800000000000000
+      internalID: -9044976835447826092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_54
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 845
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85f1fdc98fcdac0800000000000000
+      internalID: -3828912230529804095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_55
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 869
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571bc3c5bafadc4e0800000000000000
+      internalID: -1959717112314547851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_56
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 865
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1de393724dd5e0800000000000000
+      internalID: -1883276005000537426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_57
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 856
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d9eeee73921890800000000000000
+      internalID: -7488761056980250483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 849
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886b74955e2f2d70800000000000000
+      internalID: 9020479523744606340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_59
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 848
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb4b64fc7d4ecd70800000000000000
+      internalID: 9065268299015343068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_60
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e0c900444cf1a10800000000000000
+      internalID: 1882438965611204235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_61
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 389
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112926ef50c18d1c0800000000000000
+      internalID: -4478799017351671279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_62
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 845
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ebe0f26e3f6f540800000000000000
+      internalID: 5041485002845371925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_63
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 155
+        width: 363
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ac6fdeb9ca72e0800000000000000
+      internalID: -2127166052349730742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_64
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 837
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c17a8ec76c89790800000000000000
+      internalID: -7523044937740903370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_65
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 825
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe862fb7e78125740800000000000000
+      internalID: 5139197056307587311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 820
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8e3c1bb8a9fea0800000000000000
+      internalID: -5838449920322924778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_67
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 797
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317929a6a34c46600800000000000000
+      internalID: 460708817073772307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_68
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 453
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fb512d88aefab50800000000000000
+      internalID: 6606757051736899343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_69
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 255
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6088cba1951cc60800000000000000
+      internalID: 7836642797968426729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_70
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 254
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7ad770576a3d1a0800000000000000
+      internalID: -6785897191950145565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 203
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1afb0e035a1af1b0800000000000000
+      internalID: -5622152240798369254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_72
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 84
+        width: 317
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6ee7096d980c350800000000000000
+      internalID: 6034975055316706998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_73
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c08a280c29c8e710800000000000000
+      internalID: 1722848048421961928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_74
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 201
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675697e57d8fd8c60800000000000000
+      internalID: 7822181731699090806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_75
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 193
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65de97ae42dad60800000000000000
+      internalID: 7903013510591633136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 69
+        width: 153
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966009e1b01e52580800000000000000
+      internalID: -8852422054653196695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_77
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 207
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730a0c5c9f1b65840800000000000000
+      internalID: 5212549305050636343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_78
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 185
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697e892f346b4d70800000000000000
+      internalID: 9028420100437211494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_79
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 79
+        width: 61
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b062d73535529150800000000000000
+      internalID: 5877854150730080435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_80
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 205
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7387272b33aa810800000000000000
+      internalID: 1777289844468758453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 165
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32febac5d095bfc30800000000000000
+      internalID: 4394203775354269475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 257
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df7b9828409b030800000000000000
+      internalID: 3510842343214808429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_83
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 157
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8fb078d8afa8190800000000000000
+      internalID: -7959273905660888923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_84
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 189
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab849fb3a9f3f50800000000000000
+      internalID: 6863373939511966255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_85
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 189
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b71dcd4641a0240800000000000000
+      internalID: 4758638379704351539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_86
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 133
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8609223eaf2e960800000000000000
+      internalID: 7629936572163451104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_87
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa31d29f60b60a30800000000000000
+      internalID: 4181223297311128316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_88
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 191
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15de55c008921b010800000000000000
+      internalID: 1202788205424143697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_89
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 175
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a45cd1af19e2a210800000000000000
+      internalID: 1342891960978658469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_90
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 175
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c4ac333796b43a0800000000000000
+      internalID: -6680129678762947582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 155
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bebe15c5453ce20800000000000000
+      internalID: 3369629701691403160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_92
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 145
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3abb32d7bd07020800000000000000
+      internalID: 2337609537122182130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_93
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 43
+        width: 211
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08479ec9553d605a0800000000000000
+      internalID: -6555319842932951936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_94
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 164
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb0ae32583a8000800000000000000
+      internalID: 38905472675265712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_95
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 167
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc441c094ac8a730800000000000000
+      internalID: 4010677883257507071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_96
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 119
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50e60d8c3126f320800000000000000
+      internalID: 2591295179546091613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_97
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 145
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c41270152962b380800000000000000
+      internalID: -8956981100975876922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_98
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 67
+        width: 198
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636ab75efd2e8bfe0800000000000000
+      internalID: -1172938251674343882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_99
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 133
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd216cf513f4c62b0800000000000000
+      internalID: -5590005963994819873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_100
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 141
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f34fd54b2829980800000000000000
+      internalID: -8533614632731656357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_101
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 125
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1d804b34d697610800000000000000
+      internalID: 1619445678567117297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_102
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 146
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e30fdf73fb4abc0800000000000000
+      internalID: -3772680340625146323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_103
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 123
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a491056be264d0800000000000000
+      internalID: -3142690770900441816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_104
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 111
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7033fab1a0bac2b0800000000000000
+      internalID: -5563440180990103425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_105
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 119
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca41f499ac218510800000000000000
+      internalID: 1549568853652097742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 75
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd22fe0492574a0800000000000000
+      internalID: -6596320720347538259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_107
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 79
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b63e2f2fd6e0140800000000000000
+      internalID: 4687805152363768697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_inventario_rapido_108
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 82
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f210e4ae6eed510800000000000000
+      internalID: 1575950813631688580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HUD_inventario_rapido_0: -3538359452502746253
+      HUD_inventario_rapido_1: -6810760288528408788
+      HUD_inventario_rapido_10: 7843552290049424169
+      HUD_inventario_rapido_100: -8533614632731656357
+      HUD_inventario_rapido_101: 1619445678567117297
+      HUD_inventario_rapido_102: -3772680340625146323
+      HUD_inventario_rapido_103: -3142690770900441816
+      HUD_inventario_rapido_104: -5563440180990103425
+      HUD_inventario_rapido_105: 1549568853652097742
+      HUD_inventario_rapido_106: -6596320720347538259
+      HUD_inventario_rapido_107: 4687805152363768697
+      HUD_inventario_rapido_108: 1575950813631688580
+      HUD_inventario_rapido_11: 1647044629371963712
+      HUD_inventario_rapido_12: -7834853381036209124
+      HUD_inventario_rapido_13: -549944669148802789
+      HUD_inventario_rapido_14: 5648068553201382175
+      HUD_inventario_rapido_15: 3849296757525009310
+      HUD_inventario_rapido_16: -221352866959846279
+      HUD_inventario_rapido_17: -2269627160658938580
+      HUD_inventario_rapido_18: 3066065756866390285
+      HUD_inventario_rapido_19: -5278021010732716966
+      HUD_inventario_rapido_2: 7974367254617348944
+      HUD_inventario_rapido_20: -4128698416890493393
+      HUD_inventario_rapido_21: 2238633709248842938
+      HUD_inventario_rapido_22: 5945551976300160849
+      HUD_inventario_rapido_23: -1417329545600022165
+      HUD_inventario_rapido_24: 5688021872167509130
+      HUD_inventario_rapido_25: -5088880247979342904
+      HUD_inventario_rapido_26: 2138189865684828939
+      HUD_inventario_rapido_27: -2246024391863466360
+      HUD_inventario_rapido_28: 7911453128533909352
+      HUD_inventario_rapido_29: -3454055057111583088
+      HUD_inventario_rapido_3: 4843570491076657852
+      HUD_inventario_rapido_30: 8267717204848059876
+      HUD_inventario_rapido_31: 8540774142669231684
+      HUD_inventario_rapido_32: -1804381932887838208
+      HUD_inventario_rapido_33: -4449493753165185886
+      HUD_inventario_rapido_34: 7703053998975391025
+      HUD_inventario_rapido_35: -6701693508979782280
+      HUD_inventario_rapido_36: -2154311608155371849
+      HUD_inventario_rapido_37: 7944416132189697003
+      HUD_inventario_rapido_38: 4112812487480599195
+      HUD_inventario_rapido_39: -7061948462776416846
+      HUD_inventario_rapido_4: 3455896335149912893
+      HUD_inventario_rapido_40: -7532532117777053250
+      HUD_inventario_rapido_41: 1651423085216098483
+      HUD_inventario_rapido_42: -7110337683275505100
+      HUD_inventario_rapido_43: -1647443969330124929
+      HUD_inventario_rapido_44: 1126325898712557650
+      HUD_inventario_rapido_45: 7320164069096919948
+      HUD_inventario_rapido_46: 1587037619901594723
+      HUD_inventario_rapido_47: -5541463395916943011
+      HUD_inventario_rapido_48: 957930634865432555
+      HUD_inventario_rapido_49: -7144099539274351167
+      HUD_inventario_rapido_5: 8909549332874121430
+      HUD_inventario_rapido_50: -3209813729725317785
+      HUD_inventario_rapido_51: -5662291197330224871
+      HUD_inventario_rapido_52: 925823712001366288
+      HUD_inventario_rapido_53: -9044976835447826092
+      HUD_inventario_rapido_54: -3828912230529804095
+      HUD_inventario_rapido_55: -1959717112314547851
+      HUD_inventario_rapido_56: -1883276005000537426
+      HUD_inventario_rapido_57: -7488761056980250483
+      HUD_inventario_rapido_58: 9020479523744606340
+      HUD_inventario_rapido_59: 9065268299015343068
+      HUD_inventario_rapido_6: 2221468870823912710
+      HUD_inventario_rapido_60: 1882438965611204235
+      HUD_inventario_rapido_61: -4478799017351671279
+      HUD_inventario_rapido_62: 5041485002845371925
+      HUD_inventario_rapido_63: -2127166052349730742
+      HUD_inventario_rapido_64: -7523044937740903370
+      HUD_inventario_rapido_65: 5139197056307587311
+      HUD_inventario_rapido_66: -5838449920322924778
+      HUD_inventario_rapido_67: 460708817073772307
+      HUD_inventario_rapido_68: 6606757051736899343
+      HUD_inventario_rapido_69: 7836642797968426729
+      HUD_inventario_rapido_7: 1826650672685091514
+      HUD_inventario_rapido_70: -6785897191950145565
+      HUD_inventario_rapido_71: -5622152240798369254
+      HUD_inventario_rapido_72: 6034975055316706998
+      HUD_inventario_rapido_73: 1722848048421961928
+      HUD_inventario_rapido_74: 7822181731699090806
+      HUD_inventario_rapido_75: 7903013510591633136
+      HUD_inventario_rapido_76: -8852422054653196695
+      HUD_inventario_rapido_77: 5212549305050636343
+      HUD_inventario_rapido_78: 9028420100437211494
+      HUD_inventario_rapido_79: 5877854150730080435
+      HUD_inventario_rapido_8: -1477255755151144700
+      HUD_inventario_rapido_80: 1777289844468758453
+      HUD_inventario_rapido_81: 4394203775354269475
+      HUD_inventario_rapido_82: 3510842343214808429
+      HUD_inventario_rapido_83: -7959273905660888923
+      HUD_inventario_rapido_84: 6863373939511966255
+      HUD_inventario_rapido_85: 4758638379704351539
+      HUD_inventario_rapido_86: 7629936572163451104
+      HUD_inventario_rapido_87: 4181223297311128316
+      HUD_inventario_rapido_88: 1202788205424143697
+      HUD_inventario_rapido_89: 1342891960978658469
+      HUD_inventario_rapido_9: 3227484481689540261
+      HUD_inventario_rapido_90: -6680129678762947582
+      HUD_inventario_rapido_91: 3369629701691403160
+      HUD_inventario_rapido_92: 2337609537122182130
+      HUD_inventario_rapido_93: -6555319842932951936
+      HUD_inventario_rapido_94: 38905472675265712
+      HUD_inventario_rapido_95: 4010677883257507071
+      HUD_inventario_rapido_96: 2591295179546091613
+      HUD_inventario_rapido_97: -8956981100975876922
+      HUD_inventario_rapido_98: -1172938251674343882
+      HUD_inventario_rapido_99: -5590005963994819873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

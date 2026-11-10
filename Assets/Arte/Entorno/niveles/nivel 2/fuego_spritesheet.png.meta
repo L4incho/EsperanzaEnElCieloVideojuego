@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: bf0559a4325454749b44c0e5f8d42a5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -39162328046714382
+    second: fuego_spritesheet_0
+  - first:
+      213: -6878388634385132044
+    second: fuego_spritesheet_1
+  - first:
+      213: 5851458558531276558
+    second: fuego_spritesheet_2
+  - first:
+      213: 1618433336979156231
+    second: fuego_spritesheet_3
+  - first:
+      213: 1101771602953572978
+    second: fuego_spritesheet_4
+  - first:
+      213: -3893651417657894085
+    second: fuego_spritesheet_5
+  - first:
+      213: 2890336062648643704
+    second: fuego_spritesheet_6
+  - first:
+      213: 2164035723570841742
+    second: fuego_spritesheet_7
+  - first:
+      213: 9203766548507486469
+    second: fuego_spritesheet_8
+  - first:
+      213: -4286086423828391513
+    second: fuego_spritesheet_9
+  - first:
+      213: 7951500228234696485
+    second: fuego_spritesheet_10
+  - first:
+      213: 8352814875024836525
+    second: fuego_spritesheet_11
+  - first:
+      213: -5277890557254786813
+    second: fuego_spritesheet_12
+  - first:
+      213: -6753897797325894957
+    second: fuego_spritesheet_13
+  - first:
+      213: 8242789263496256644
+    second: fuego_spritesheet_14
+  - first:
+      213: -2039004360703619304
+    second: fuego_spritesheet_15
+  - first:
+      213: -1267576974566430037
+    second: fuego_spritesheet_16
+  - first:
+      213: 8508660912364333107
+    second: fuego_spritesheet_17
+  - first:
+      213: 8577829032104090517
+    second: fuego_spritesheet_18
+  - first:
+      213: 4321995043064982581
+    second: fuego_spritesheet_19
+  - first:
+      213: 5978791084032346518
+    second: fuego_spritesheet_20
+  - first:
+      213: 6344004204741237152
+    second: fuego_spritesheet_21
+  - first:
+      213: -8851952045178009911
+    second: fuego_spritesheet_22
+  - first:
+      213: -4710035998094364924
+    second: fuego_spritesheet_23
+  - first:
+      213: -8039026916883579812
+    second: fuego_spritesheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: n2_fuego_00
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1751
+        width: 182
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21487603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612cd0b080be9e747b2a4bb8b5e19007
+      internalID: 868052466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n2_fuego_01
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1298
+        width: 182
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071cc3ba3fa928438e85d762a68f3d6
+      internalID: 1234937551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n2_fuego_02
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 835
+        width: 182
+        height: 434
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac3faf335179248855993b30a2d5c9
+      internalID: -1373300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n2_fuego_03
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 399
+        width: 182
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb12fa3af0584f4d91acf895ae75a96
+      internalID: 664823829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n2_fuego_04
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 182
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2234957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a99f9c8d51fa64d9d97a8c786391dc
+      internalID: 1836502312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e93d05563086664faca21d1bdfb6c6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fuego_0: -1579905160
+      fuego_1: -1024846786
+      fuego_2: 763892796
+      fuego_3: -1740295220
+      fuego_4: 876085581
+      n2_fuego_00: 868052466
+      n2_fuego_01: 1234937551
+      n2_fuego_02: -1373300274
+      n2_fuego_03: 664823829
+      n2_fuego_04: 1836502312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

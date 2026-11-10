@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: e0d25f52a587f1c47b03227f0283dbad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8376589134286072095
+    second: venda_0
+  - first:
+      213: 7390136723937990010
+    second: venda_1
+  - first:
+      213: 1816493712644303571
+    second: venda_2
+  - first:
+      213: 8087675285750508610
+    second: venda_3
+  - first:
+      213: -7660705112643604160
+    second: venda_4
+  - first:
+      213: 2853495949627217594
+    second: venda_5
+  - first:
+      213: -629778564894087647
+    second: venda_6
+  - first:
+      213: 911347175922043772
+    second: venda_7
+  - first:
+      213: -5227674855361607105
+    second: venda_8
+  - first:
+      213: -3026533178468716486
+    second: venda_9
+  - first:
+      213: 7029327390843166570
+    second: venda_10
+  - first:
+      213: 1806617715662183691
+    second: venda_11
+  - first:
+      213: -1677582892478993948
+    second: venda_12
+  - first:
+      213: 5056327018306933872
+    second: venda_13
+  - first:
+      213: -3664267464459161858
+    second: venda_14
+  - first:
+      213: -6396374399823778032
+    second: venda_15
+  - first:
+      213: -3642898549661257831
+    second: venda_16
+  - first:
+      213: 287596753896408156
+    second: venda_17
+  - first:
+      213: -421153097408248389
+    second: venda_18
+  - first:
+      213: -1304799595301427803
+    second: venda_19
+  - first:
+      213: -8197224200692798151
+    second: venda_20
+  - first:
+      213: 7364549244757413084
+    second: venda_21
+  - first:
+      213: 4987963079003059183
+    second: venda_22
+  - first:
+      213: -596649720507817239
+    second: venda_23
+  - first:
+      213: -6157257193009671884
+    second: venda_24
+  - first:
+      213: -5464340832020288060
+    second: venda_25
+  - first:
+      213: 8434324612757448437
+    second: venda_26
+  - first:
+      213: -5699076096982080489
+    second: venda_27
+  - first:
+      213: 1713453945995679001
+    second: venda_28
+  - first:
+      213: -3660509562919623172
+    second: venda_29
+  - first:
+      213: -2255387886904980554
+    second: venda_30
+  - first:
+      213: 4494564526428077973
+    second: venda_31
+  - first:
+      213: 6425216210979169601
+    second: venda_32
+  - first:
+      213: 2737170204412176786
+    second: venda_33
+  - first:
+      213: -4113781689008173170
+    second: venda_34
+  - first:
+      213: -7790386811811222507
+    second: venda_35
+  - first:
+      213: 6846309060097343837
+    second: venda_36
+  - first:
+      213: 815762653092238671
+    second: venda_37
+  - first:
+      213: 191838430216667190
+    second: venda_38
+  - first:
+      213: -8027273200543345023
+    second: venda_39
+  - first:
+      213: 5765156974990339616
+    second: venda_40
+  - first:
+      213: -1055012889811092328
+    second: venda_41
+  - first:
+      213: 6732843202802245252
+    second: venda_42
+  - first:
+      213: -8462679758897530087
+    second: venda_43
+  - first:
+      213: 4364993263320028680
+    second: venda_44
+  - first:
+      213: -6288756287620002961
+    second: venda_45
+  - first:
+      213: 5865303838466715460
+    second: venda_46
+  - first:
+      213: 3082621617363732131
+    second: venda_47
+  - first:
+      213: 2957273352382225831
+    second: venda_48
+  - first:
+      213: 3357743428213820833
+    second: venda_49
+  - first:
+      213: 7776456097277905105
+    second: venda_50
+  - first:
+      213: 371845941007891929
+    second: venda_51
+  - first:
+      213: 2873595932754766142
+    second: venda_52
+  - first:
+      213: -2915159298468762678
+    second: venda_53
+  - first:
+      213: -8433059991458717970
+    second: venda_54
+  - first:
+      213: 3615910185141691531
+    second: venda_55
+  - first:
+      213: -4664698571170547314
+    second: venda_56
+  - first:
+      213: 5558132749741028917
+    second: venda_57
+  - first:
+      213: 4978503531603826423
+    second: venda_58
+  - first:
+      213: 2021720014336072667
+    second: venda_59
+  - first:
+      213: -803667403094482448
+    second: venda_60
+  - first:
+      213: 8524185789910075347
+    second: venda_61
+  - first:
+      213: 6254959999326561838
+    second: venda_62
+  - first:
+      213: 7907422284869231605
+    second: venda_63
+  - first:
+      213: -2772155755267682751
+    second: venda_64
+  - first:
+      213: -5016466339317154541
+    second: venda_65
+  - first:
+      213: 8290158733241879272
+    second: venda_66
+  - first:
+      213: -4856925187735694991
+    second: venda_67
+  - first:
+      213: -7458063799009811418
+    second: venda_68
+  - first:
+      213: 6624979799232027799
+    second: venda_69
+  - first:
+      213: 1345269360560967237
+    second: venda_70
+  - first:
+      213: 5166641077512760
+    second: venda_71
+  - first:
+      213: -837369311956756762
+    second: venda_72
+  - first:
+      213: -3512637679481215031
+    second: venda_73
+  - first:
+      213: 5417322574771816984
+    second: venda_74
+  - first:
+      213: -3959913903567506263
+    second: venda_75
+  - first:
+      213: 4286090455112279614
+    second: venda_76
+  - first:
+      213: -2313799651104332111
+    second: venda_77
+  - first:
+      213: -6064683359572125986
+    second: venda_78
+  - first:
+      213: 4695337600390852540
+    second: venda_79
+  - first:
+      213: 1514442669199647403
+    second: venda_80
+  - first:
+      213: -3477297685148580980
+    second: venda_81
+  - first:
+      213: -6705939373924853370
+    second: venda_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: venda_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1019
+        width: 194
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a482cf6f9f3470800000000000000
+      internalID: 8376589134286072095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1098
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7594ef123a0f8660800000000000000
+      internalID: 7390136723937990010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae4ee486b753910800000000000000
+      internalID: 1816493712644303571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1027
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6dd172d13d3070800000000000000
+      internalID: 8087675285750508610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041fbd7c945bfa590800000000000000
+      internalID: -7660705112643604160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1106
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6db8d9277a99720800000000000000
+      internalID: 2853495949627217594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1122
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12625506bb39247f0800000000000000
+      internalID: -629778564894087647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1114
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b83ef8d61c5ac00800000000000000
+      internalID: 911347175922043772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1065
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a0eec9a619377b0800000000000000
+      internalID: -5227674855361607105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3030740c189ff5d0800000000000000
+      internalID: -3026533178468716486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1049
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f512dd4003d8160800000000000000
+      internalID: 7029327390843166570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1102
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd8f29d35621910800000000000000
+      internalID: 1806617715662183691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1066
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9648c5f3708b8e0800000000000000
+      internalID: -1677582892478993948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1075
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074156232aeab2640800000000000000
+      internalID: 5056327018306933872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1041
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efee3eab728e52dc0800000000000000
+      internalID: -3664267464459161858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1060
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe9107f538b37a0800000000000000
+      internalID: -6396374399823778032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1043
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fa7aae113d17dc0800000000000000
+      internalID: -3642898549661257831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1027
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c540d8259bfbdf300800000000000000
+      internalID: 287596753896408156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1035
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50de04d73c72af0800000000000000
+      internalID: -421153097408248389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1030
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52cf26eab64ede0800000000000000
+      internalID: -1304799595301427803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 1189
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d687d250c9d3e80800000000000000
+      internalID: -8197224200692798151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1019
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc03a0e482243660800000000000000
+      internalID: 7364549244757413084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 969
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3bdb43efdc83540800000000000000
+      internalID: 4987963079003059183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 923
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2abc98d3648b7f0800000000000000
+      internalID: -596649720507817239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 858
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43190fb94370d8aa0800000000000000
+      internalID: -6157257193009671884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 872
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cda4cfe6f2ca24b0800000000000000
+      internalID: -5464340832020288060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 846
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6edbf5c8dbc0570800000000000000
+      internalID: 8434324612757448437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 727
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a67b1c70d8e0b0800000000000000
+      internalID: -5699076096982080489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915501e194967c710800000000000000
+      internalID: 1713453945995679001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 270
+        width: 6
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5614d52f1433dc0800000000000000
+      internalID: -3660509562919623172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4f4a9aa043b0e0800000000000000
+      internalID: -2255387886904980554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 642
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f31d1af96ef5e30800000000000000
+      internalID: 4494564526428077973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 612
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145ae740a14fa2950800000000000000
+      internalID: 6425216210979169601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 537
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29965cb7cc16cf520800000000000000
+      internalID: 2737170204412176786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 581
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f492f7959e8e6c0800000000000000
+      internalID: -4113781689008173170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 579
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51caa1b487cf2e390800000000000000
+      internalID: -7790386811811222507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5104ad11d9f20f50800000000000000
+      internalID: 6846309060097343837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_37
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 583
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d7969fcb225b00800000000000000
+      internalID: 815762653092238671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630455f290c89a200800000000000000
+      internalID: 191838430216667190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 511
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d99eed85699090800000000000000
+      internalID: -8027273200543345023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_40
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 521
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2aa049b3f10050800000000000000
+      internalID: 5765156974990339616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cf95dcd57db51f0800000000000000
+      internalID: -1055012889811092328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 493
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e5e67883ddf6d50800000000000000
+      internalID: 6732843202802245252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_43
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 481
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b3603b8958e8a80800000000000000
+      internalID: -8462679758897530087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 438
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d92b0f32939c30800000000000000
+      internalID: 4364993263320028680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 461
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc765c979d9b8a0800000000000000
+      internalID: -6288756287620002961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_46
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 440
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2b8fe3ceb56150800000000000000
+      internalID: 5865303838466715460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 397
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c7ef470ca7ca20800000000000000
+      internalID: 3082621617363732131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_48
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 392
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad987812785a0920800000000000000
+      internalID: 2957273352382225831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_49
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 400
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad469d9bd9199e20800000000000000
+      internalID: 3357743428213820833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88ba97e958beb60800000000000000
+      internalID: 7776456097277905105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 323
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd32f8c9ef092500800000000000000
+      internalID: 371845941007891929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_52
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 324
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39eadf964011e720800000000000000
+      internalID: 2873595932754766142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba71f20164b87d0800000000000000
+      internalID: -2915159298468762678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 294
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5b873e90c7fa80800000000000000
+      internalID: -8433059991458717970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_55
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 256
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84661dc72b4e2230800000000000000
+      internalID: 3615910185141691531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e897b193d59a34fb0800000000000000
+      internalID: -4664698571170547314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53677c2a944722d40800000000000000
+      internalID: 5558132749741028917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_58
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 227
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f61642b592371540800000000000000
+      internalID: 4978503531603826423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9cc934a79e0c10800000000000000
+      internalID: 2021720014336072667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12ef041ccc8d4f0800000000000000
+      internalID: -803667403094482448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_61
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 111
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c50710ddfb4670800000000000000
+      internalID: 8524185789910075347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_62
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 117
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26232caaf41ec650800000000000000
+      internalID: 6254959999326561838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_63
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 117
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f363aa3caeccbd60800000000000000
+      internalID: 7907422284869231605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_64
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 79
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e073137035789d0800000000000000
+      internalID: -2772155755267682751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_65
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 63
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dfb49517ee16ab0800000000000000
+      internalID: -5016466339317154541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_66
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 89
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea0c7ad17f8c0370800000000000000
+      internalID: 8290158733241879272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171dd5c564cb89cb0800000000000000
+      internalID: -4856925187735694991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 73
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624e1d34d72af7890800000000000000
+      internalID: -7458063799009811418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_69
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 53
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c1d59d608a0fb50800000000000000
+      internalID: 6624979799232027799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 39
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e047b1b5b5ba210800000000000000
+      internalID: 1345269360560967237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a6b1e580b521000800000000000000
+      internalID: 5166641077512760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_72
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6110f1c011164f0800000000000000
+      internalID: -837369311956756762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_73
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 47
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7aed924aa904fc0800000000000000
+      internalID: -3512637679481215031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_74
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 49
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a8af6fd223e2b40800000000000000
+      internalID: 5417322574771816984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_75
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 44
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a47ab4094f8b09c0800000000000000
+      internalID: -3959913903567506263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 39
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e82c6f804b7b30800000000000000
+      internalID: 4286090455112279614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_77
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e082f97bb3efd0800000000000000
+      internalID: -2313799651104332111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed61b75dd9ae5dba0800000000000000
+      internalID: -6064683359572125986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 31
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe4dbaba0392140800000000000000
+      internalID: 4695337600390852540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_80
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 39
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e6527591640510800000000000000
+      internalID: 1514442669199647403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_81
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 17
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c834e6acd282ebfc0800000000000000
+      internalID: -3477297685148580980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venda_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68957e34ba7bfe2a0800000000000000
+      internalID: -6705939373924853370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      venda_0: 8376589134286072095
+      venda_1: 7390136723937990010
+      venda_10: 7029327390843166570
+      venda_11: 1806617715662183691
+      venda_12: -1677582892478993948
+      venda_13: 5056327018306933872
+      venda_14: -3664267464459161858
+      venda_15: -6396374399823778032
+      venda_16: -3642898549661257831
+      venda_17: 287596753896408156
+      venda_18: -421153097408248389
+      venda_19: -1304799595301427803
+      venda_2: 1816493712644303571
+      venda_20: -8197224200692798151
+      venda_21: 7364549244757413084
+      venda_22: 4987963079003059183
+      venda_23: -596649720507817239
+      venda_24: -6157257193009671884
+      venda_25: -5464340832020288060
+      venda_26: 8434324612757448437
+      venda_27: -5699076096982080489
+      venda_28: 1713453945995679001
+      venda_29: -3660509562919623172
+      venda_3: 8087675285750508610
+      venda_30: -2255387886904980554
+      venda_31: 4494564526428077973
+      venda_32: 6425216210979169601
+      venda_33: 2737170204412176786
+      venda_34: -4113781689008173170
+      venda_35: -7790386811811222507
+      venda_36: 6846309060097343837
+      venda_37: 815762653092238671
+      venda_38: 191838430216667190
+      venda_39: -8027273200543345023
+      venda_4: -7660705112643604160
+      venda_40: 5765156974990339616
+      venda_41: -1055012889811092328
+      venda_42: 6732843202802245252
+      venda_43: -8462679758897530087
+      venda_44: 4364993263320028680
+      venda_45: -6288756287620002961
+      venda_46: 5865303838466715460
+      venda_47: 3082621617363732131
+      venda_48: 2957273352382225831
+      venda_49: 3357743428213820833
+      venda_5: 2853495949627217594
+      venda_50: 7776456097277905105
+      venda_51: 371845941007891929
+      venda_52: 2873595932754766142
+      venda_53: -2915159298468762678
+      venda_54: -8433059991458717970
+      venda_55: 3615910185141691531
+      venda_56: -4664698571170547314
+      venda_57: 5558132749741028917
+      venda_58: 4978503531603826423
+      venda_59: 2021720014336072667
+      venda_6: -629778564894087647
+      venda_60: -803667403094482448
+      venda_61: 8524185789910075347
+      venda_62: 6254959999326561838
+      venda_63: 7907422284869231605
+      venda_64: -2772155755267682751
+      venda_65: -5016466339317154541
+      venda_66: 8290158733241879272
+      venda_67: -4856925187735694991
+      venda_68: -7458063799009811418
+      venda_69: 6624979799232027799
+      venda_7: 911347175922043772
+      venda_70: 1345269360560967237
+      venda_71: 5166641077512760
+      venda_72: -837369311956756762
+      venda_73: -3512637679481215031
+      venda_74: 5417322574771816984
+      venda_75: -3959913903567506263
+      venda_76: 4286090455112279614
+      venda_77: -2313799651104332111
+      venda_78: -6064683359572125986
+      venda_79: 4695337600390852540
+      venda_8: -5227674855361607105
+      venda_80: 1514442669199647403
+      venda_81: -3477297685148580980
+      venda_82: -6705939373924853370
+      venda_9: -3026533178468716486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+# Texto normalizado
+* text=auto
+
+# Archivos de Unity (YAML) como texto
+*.cs text diff=csharp
+*.unity text merge=unityyamlmerge eol=lf
+*.prefab text merge=unityyamlmerge eol=lf
+*.asset text merge=unityyamlmerge eol=lf
+*.meta text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+
+# Binarios
+*.png binary
+*.jpg binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.dll binary
+*.exe binary

@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 85135422d3bcd0043a8511eefc6054a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3827732193355878871
+    second: acido_derecha_spritesheet_0
+  - first:
+      213: -7812156974676529814
+    second: acido_derecha_spritesheet_1
+  - first:
+      213: 448923934827513054
+    second: acido_derecha_spritesheet_2
+  - first:
+      213: 4475315814901884417
+    second: acido_derecha_spritesheet_3
+  - first:
+      213: -1981369190365043434
+    second: acido_derecha_spritesheet_4
+  - first:
+      213: -8649568742815341149
+    second: acido_derecha_spritesheet_5
+  - first:
+      213: 7227900622826714939
+    second: acido_derecha_spritesheet_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acido_derecha_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d88db56173d8f148977d5827d81d1f6
+      internalID: 991534914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145911a25d2708408d7a6e86d188c6b
+      internalID: 335947067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f924ed0b47de147980aec79fffcf11
+      internalID: -1999004569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a557466def8704fadf23f43844447b
+      internalID: 1376352229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0b6eedde19e54eb59ed248cb453af
+      internalID: -2103026084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a1027dcaf0be44a74163248db8861
+      internalID: -1928423580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido_derecha_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7111111, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342d4e99c117dc4e8749e6d371236a8
+      internalID: -1251874630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e8a89c923f447b649915d89e82cc183b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      acido_derecha_0: 991534914
+      acido_derecha_1: 335947067
+      acido_derecha_2: -1999004569
+      acido_derecha_3: 1376352229
+      acido_derecha_4: -2103026084
+      acido_derecha_5: -1928423580
+      acido_derecha_6: -1251874630
+      acido_derecha_spritesheet_0: 3827732193355878871
+      acido_derecha_spritesheet_1: -7812156974676529814
+      acido_derecha_spritesheet_2: 448923934827513054
+      acido_derecha_spritesheet_3: 4475315814901884417
+      acido_derecha_spritesheet_4: -1981369190365043434
+      acido_derecha_spritesheet_5: -8649568742815341149
+      acido_derecha_spritesheet_6: 7227900622826714939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: a84e55142882bcf4f84f448adc552730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1198545670627117528
+    second: electricidad_N3_0
+  - first:
+      213: 8000489786711892746
+    second: electricidad_N3_1
+  - first:
+      213: -972895812525373210
+    second: electricidad_N3_2
+  - first:
+      213: -1896955942209302434
+    second: electricidad_N3_3
+  - first:
+      213: -413207406056128634
+    second: electricidad_N3_4
+  - first:
+      213: -4034969822519564107
+    second: electricidad_N3_5
+  - first:
+      213: -5028330808660060865
+    second: electricidad_N3_6
+  - first:
+      213: 9099238866264582648
+    second: electricidad_N3_7
+  - first:
+      213: -3400784714479944898
+    second: electricidad_N3_8
+  - first:
+      213: -6584023033028127976
+    second: electricidad_N3_9
+  - first:
+      213: -2724748626988549905
+    second: electricidad_N3_10
+  - first:
+      213: 6233397879058355944
+    second: electricidad_N3_11
+  - first:
+      213: -1144735819458947562
+    second: electricidad_N3_12
+  - first:
+      213: 6461477070668604012
+    second: electricidad_N3_13
+  - first:
+      213: 9210318410623730392
+    second: electricidad_N3_14
+  - first:
+      213: 62516947209782278
+    second: electricidad_N3_15
+  - first:
+      213: -6581483771287414269
+    second: electricidad_N3_16
+  - first:
+      213: -7074115873369954812
+    second: electricidad_N3_17
+  - first:
+      213: 3457162518861616889
+    second: electricidad_N3_18
+  - first:
+      213: -5023398676413729969
+    second: electricidad_N3_19
+  - first:
+      213: 5799571328448749410
+    second: electricidad_N3_20
+  - first:
+      213: -3128679442069118128
+    second: electricidad_N3_21
+  - first:
+      213: -2031364788525717252
+    second: electricidad_N3_22
+  - first:
+      213: -7890042740335802138
+    second: electricidad_N3_23
+  - first:
+      213: 6321559601918530607
+    second: electricidad_N3_24
+  - first:
+      213: 4372370187973615884
+    second: electricidad_N3_25
+  - first:
+      213: -6271133808720017517
+    second: electricidad_N3_26
+  - first:
+      213: 3052062045648961756
+    second: electricidad_N3_27
+  - first:
+      213: 5964947119673798836
+    second: electricidad_N3_28
+  - first:
+      213: -5394829281603473857
+    second: electricidad_N3_29
+  - first:
+      213: 3379913294391797244
+    second: electricidad_N3_30
+  - first:
+      213: 642888370512494462
+    second: electricidad_N3_31
+  - first:
+      213: -8610352885694956434
+    second: electricidad_N3_32
+  - first:
+      213: 140032904478029498
+    second: electricidad_N3_33
+  - first:
+      213: -8548257635043882457
+    second: electricidad_N3_34
+  - first:
+      213: 7353284219145217557
+    second: electricidad_N3_35
+  - first:
+      213: -8971118366616402731
+    second: electricidad_N3_36
+  - first:
+      213: 5440079586211540240
+    second: electricidad_N3_37
+  - first:
+      213: -1944335133191283530
+    second: electricidad_N3_38
+  - first:
+      213: -7616977459367289427
+    second: electricidad_N3_39
+  - first:
+      213: -2196355497695367348
+    second: electricidad_N3_40
+  - first:
+      213: 1029865358049570341
+    second: electricidad_N3_41
+  - first:
+      213: -8097067395430975920
+    second: electricidad_N3_42
+  - first:
+      213: 5879904698117016602
+    second: electricidad_N3_43
+  - first:
+      213: 7952576824690533787
+    second: electricidad_N3_44
+  - first:
+      213: -4100635620834591821
+    second: electricidad_N3_45
+  - first:
+      213: 4728007671258866722
+    second: electricidad_N3_46
+  - first:
+      213: -4900530374277185168
+    second: electricidad_N3_47
+  - first:
+      213: -8689404044110403817
+    second: electricidad_N3_48
+  - first:
+      213: 8131947939228744923
+    second: electricidad_N3_49
+  - first:
+      213: -7443693457739310451
+    second: electricidad_N3_50
+  - first:
+      213: -1378517222881157899
+    second: electricidad_N3_51
+  - first:
+      213: -7866413142658237328
+    second: electricidad_N3_52
+  - first:
+      213: -740943259874695360
+    second: electricidad_N3_53
+  - first:
+      213: 2655088295652162624
+    second: electricidad_N3_54
+  - first:
+      213: 1057570588195088994
+    second: electricidad_N3_55
+  - first:
+      213: 3585035004046371809
+    second: electricidad_N3_56
+  - first:
+      213: -6245975488839254906
+    second: electricidad_N3_57
+  - first:
+      213: 6529085574076898050
+    second: electricidad_N3_58
+  - first:
+      213: -1803896568839988682
+    second: electricidad_N3_59
+  - first:
+      213: -7260849416053229888
+    second: electricidad_N3_60
+  - first:
+      213: 6862937200829555623
+    second: electricidad_N3_61
+  - first:
+      213: -348174298106753203
+    second: electricidad_N3_62
+  - first:
+      213: -4970955951025018697
+    second: electricidad_N3_63
+  - first:
+      213: 6759382495933674033
+    second: electricidad_N3_64
+  - first:
+      213: -2598405842283723301
+    second: electricidad_N3_65
+  - first:
+      213: 7635505561015151275
+    second: electricidad_N3_66
+  - first:
+      213: 1729855747445197728
+    second: electricidad_N3_67
+  - first:
+      213: -1986800084437829930
+    second: electricidad_N3_68
+  - first:
+      213: 7802549329968622823
+    second: electricidad_N3_69
+  - first:
+      213: -108235299697685142
+    second: electricidad_N3_70
+  - first:
+      213: 6768265798755377372
+    second: electricidad_N3_71
+  - first:
+      213: 6825144672207817884
+    second: electricidad_N3_72
+  - first:
+      213: 1664468453249300879
+    second: electricidad_N3_73
+  - first:
+      213: -1422926602624535545
+    second: electricidad_N3_74
+  - first:
+      213: 6620491655925102538
+    second: electricidad_N3_75
+  - first:
+      213: -7118105336854253217
+    second: electricidad_N3_76
+  - first:
+      213: 212498061086206768
+    second: electricidad_N3_77
+  - first:
+      213: -5554481909075000812
+    second: electricidad_N3_78
+  - first:
+      213: 4230583445085093365
+    second: electricidad_N3_79
+  - first:
+      213: -4628515387598562016
+    second: electricidad_N3_80
+  - first:
+      213: 8924299640793802683
+    second: electricidad_N3_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricidad_N3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 694
+        height: 2170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826303f0019ed5fe0800000000000000
+      internalID: -1198545670627117528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2097
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a036a169213770f60800000000000000
+      internalID: 8000489786711892746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2089
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c5f2c9649f72f0800000000000000
+      internalID: -972895812525373210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1935
+        width: 68
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505c0efe98aca5e0800000000000000
+      internalID: -1896955942209302434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2046
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb67fad0ef34af0800000000000000
+      internalID: -413207406056128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2070
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ec491358e008c0800000000000000
+      internalID: -4034969822519564107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1878
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351aa055c7c73ab0800000000000000
+      internalID: -5028330808660060865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1875
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e02ef98df64e70800000000000000
+      internalID: 9099238866264582648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1888
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b38dff15cfdc0d0800000000000000
+      internalID: -3400784714479944898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1855
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8135e536fe9d0a4a0800000000000000
+      internalID: -6584023033028127976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1878
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83d126f8fbf2ad0800000000000000
+      internalID: -2724748626988549905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1894
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e652f4585a718650800000000000000
+      internalID: 6233397879058355944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616db7756d41d10f0800000000000000
+      internalID: -1144735819458947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1855
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62a8815927cba950800000000000000
+      internalID: 6461477070668604012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1621
+        width: 167
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c77dcbcf91df70800000000000000
+      internalID: 9210318410623730392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1837
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60481ee05da1ed000800000000000000
+      internalID: 62516947209782278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1835
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a5a65516fd9a4a0800000000000000
+      internalID: -6581483771287414269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1759
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406e4dbe711b3dd90800000000000000
+      internalID: -7074115873369954812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_18
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1687
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f69a8b7efe4aff20800000000000000
+      internalID: 3457162518861616889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1428
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f433137d48d494ab0800000000000000
+      internalID: -5023398676413729969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1345
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5ab155673c7050800000000000000
+      internalID: 5799571328448749410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1353
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0532767bf92b494d0800000000000000
+      internalID: -3128679442069118128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf820bacc742fc3e0800000000000000
+      internalID: -2031364788525717252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e882af4eefe08290800000000000000
+      internalID: -7890042740335802138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2450d207f0bab750800000000000000
+      internalID: 6321559601918530607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01eca82587cdac30800000000000000
+      internalID: 4372370187973615884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970d40e60578f8a0800000000000000
+      internalID: -6271133808720017517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1280
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0cb5f824a1b5a20800000000000000
+      internalID: 3052062045648961756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1279
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0752c3dcfb7c250800000000000000
+      internalID: 5964947119673798836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1243
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2626f957b125b0800000000000000
+      internalID: -5394829281603473857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1241
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e7d3db3dd7ee20800000000000000
+      internalID: 3379913294391797244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1211
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f70aa119ffbe800800000000000000
+      internalID: 642888370512494462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_32
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1226
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c74698ba1e18880800000000000000
+      internalID: -8610352885694956434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1163
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab677484f2f71f100800000000000000
+      internalID: 140032904478029498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1158
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a40b6b8fc7e5980800000000000000
+      internalID: -8548257635043882457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1162
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e2a6b90d1c0660800000000000000
+      internalID: 7353284219145217557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1096
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c8d7606f208380800000000000000
+      internalID: -8971118366616402731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1076
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2ef59f8b0f7b40800000000000000
+      internalID: 5440079586211540240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1072
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc52d57f755405e0800000000000000
+      internalID: -1944335133191283530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1058
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad51407b5f0b4690800000000000000
+      internalID: -7616977459367289427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_40
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1046
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2467cf4af481e0800000000000000
+      internalID: -2196355497695367348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1046
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e66013611da4e00800000000000000
+      internalID: 1029865358049570341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1028
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05670fc9a1071af80800000000000000
+      internalID: -8097067395430975920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1006
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c4a6c7b2e999150800000000000000
+      internalID: 5879904698117016602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_44
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 971
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95eeaccc7a3d5e60800000000000000
+      internalID: 7952576824690533787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_45
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 899
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb37d201ad9717c0800000000000000
+      internalID: -4100635620834591821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 867
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e4bc4de14d9140800000000000000
+      internalID: 4728007671258866722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 867
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714236b691ddfbb0800000000000000
+      internalID: -4900530374277185168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 862
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717e4f07f09096780800000000000000
+      internalID: -8689404044110403817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf2b9d09b7ad070800000000000000
+      internalID: 8131947939228744923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_50
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 789
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a9c821d30b2b890800000000000000
+      internalID: -7443693457739310451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_51
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 763
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc1965b3e58edce0800000000000000
+      internalID: -1378517222881157899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_52
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c346fbce2e4d290800000000000000
+      internalID: -7866413142658237328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_53
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 762
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047e274e704a7b5f0800000000000000
+      internalID: -740943259874695360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 728
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf4a5dcb4c8d420800000000000000
+      internalID: 2655088295652162624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 737
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae442c8de3dae00800000000000000
+      internalID: 1057570588195088994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 708
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6683875a90c130800000000000000
+      internalID: 3585035004046371809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 700
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c70ffa266d159a0800000000000000
+      internalID: -6245975488839254906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 666
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b1bfeacb8fb9a50800000000000000
+      internalID: 6529085574076898050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 630
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a1fbac0a547f6e0800000000000000
+      internalID: -1803896568839988682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_60
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 505
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67b8cfce74c3b90800000000000000
+      internalID: -7260849416053229888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 464
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a36243d50d0e3f50800000000000000
+      internalID: 6862937200829555623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 467
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f0d6112590b2bf0800000000000000
+      internalID: -348174298106753203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 401
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b82a0956ed930bb0800000000000000
+      internalID: -4970955951025018697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 363
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132be1b31962ecd50800000000000000
+      internalID: 6759382495933674033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5016447ab90fbd0800000000000000
+      internalID: -2598405842283723301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 344
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae3d46ad3c6f960800000000000000
+      internalID: 7635505561015151275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab832b13aea10810800000000000000
+      internalID: 1729855747445197728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 355
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6fd5789d77d64e0800000000000000
+      internalID: -1986800084437829930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 357
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eced33a649384c60800000000000000
+      internalID: 7802549329968622823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_70
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 323
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8c5181987f7ef0800000000000000
+      internalID: -108235299697685142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06d3852e5bded50800000000000000
+      internalID: 6768265798755377372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 296
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc89f0be8c7be50800000000000000
+      internalID: 6825144672207817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b4cf4d31691710800000000000000
+      internalID: 1664468453249300879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_74
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 256
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047c1d3bcfb04ce0800000000000000
+      internalID: -1422926602624535545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac77add8516b0eb50800000000000000
+      internalID: 6620491655925102538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_76
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 246
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517df2d8e8673d90800000000000000
+      internalID: -7118105336854253217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_77
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 214
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ba0865cd1f2f200800000000000000
+      internalID: 212498061086206768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_78
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 222
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4124042f1248ae2b0800000000000000
+      internalID: -5554481909075000812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_79
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 212
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdf1fc8a3d06ba30800000000000000
+      internalID: 4230583445085093365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_80
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 65
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d12c427c534cfb0800000000000000
+      internalID: -4628515387598562016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricidad_N3_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 72
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb729a68d3b79db70800000000000000
+      internalID: 8924299640793802683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      electricidad_N3_0: -1198545670627117528
+      electricidad_N3_1: 8000489786711892746
+      electricidad_N3_10: -2724748626988549905
+      electricidad_N3_11: 6233397879058355944
+      electricidad_N3_12: -1144735819458947562
+      electricidad_N3_13: 6461477070668604012
+      electricidad_N3_14: 9210318410623730392
+      electricidad_N3_15: 62516947209782278
+      electricidad_N3_16: -6581483771287414269
+      electricidad_N3_17: -7074115873369954812
+      electricidad_N3_18: 3457162518861616889
+      electricidad_N3_19: -5023398676413729969
+      electricidad_N3_2: -972895812525373210
+      electricidad_N3_20: 5799571328448749410
+      electricidad_N3_21: -3128679442069118128
+      electricidad_N3_22: -2031364788525717252
+      electricidad_N3_23: -7890042740335802138
+      electricidad_N3_24: 6321559601918530607
+      electricidad_N3_25: 4372370187973615884
+      electricidad_N3_26: -6271133808720017517
+      electricidad_N3_27: 3052062045648961756
+      electricidad_N3_28: 5964947119673798836
+      electricidad_N3_29: -5394829281603473857
+      electricidad_N3_3: -1896955942209302434
+      electricidad_N3_30: 3379913294391797244
+      electricidad_N3_31: 642888370512494462
+      electricidad_N3_32: -8610352885694956434
+      electricidad_N3_33: 140032904478029498
+      electricidad_N3_34: -8548257635043882457
+      electricidad_N3_35: 7353284219145217557
+      electricidad_N3_36: -8971118366616402731
+      electricidad_N3_37: 5440079586211540240
+      electricidad_N3_38: -1944335133191283530
+      electricidad_N3_39: -7616977459367289427
+      electricidad_N3_4: -413207406056128634
+      electricidad_N3_40: -2196355497695367348
+      electricidad_N3_41: 1029865358049570341
+      electricidad_N3_42: -8097067395430975920
+      electricidad_N3_43: 5879904698117016602
+      electricidad_N3_44: 7952576824690533787
+      electricidad_N3_45: -4100635620834591821
+      electricidad_N3_46: 4728007671258866722
+      electricidad_N3_47: -4900530374277185168
+      electricidad_N3_48: -8689404044110403817
+      electricidad_N3_49: 8131947939228744923
+      electricidad_N3_5: -4034969822519564107
+      electricidad_N3_50: -7443693457739310451
+      electricidad_N3_51: -1378517222881157899
+      electricidad_N3_52: -7866413142658237328
+      electricidad_N3_53: -740943259874695360
+      electricidad_N3_54: 2655088295652162624
+      electricidad_N3_55: 1057570588195088994
+      electricidad_N3_56: 3585035004046371809
+      electricidad_N3_57: -6245975488839254906
+      electricidad_N3_58: 6529085574076898050
+      electricidad_N3_59: -1803896568839988682
+      electricidad_N3_6: -5028330808660060865
+      electricidad_N3_60: -7260849416053229888
+      electricidad_N3_61: 6862937200829555623
+      electricidad_N3_62: -348174298106753203
+      electricidad_N3_63: -4970955951025018697
+      electricidad_N3_64: 6759382495933674033
+      electricidad_N3_65: -2598405842283723301
+      electricidad_N3_66: 7635505561015151275
+      electricidad_N3_67: 1729855747445197728
+      electricidad_N3_68: -1986800084437829930
+      electricidad_N3_69: 7802549329968622823
+      electricidad_N3_7: 9099238866264582648
+      electricidad_N3_70: -108235299697685142
+      electricidad_N3_71: 6768265798755377372
+      electricidad_N3_72: 6825144672207817884
+      electricidad_N3_73: 1664468453249300879
+      electricidad_N3_74: -1422926602624535545
+      electricidad_N3_75: 6620491655925102538
+      electricidad_N3_76: -7118105336854253217
+      electricidad_N3_77: 212498061086206768
+      electricidad_N3_78: -5554481909075000812
+      electricidad_N3_79: 4230583445085093365
+      electricidad_N3_8: -3400784714479944898
+      electricidad_N3_80: -4628515387598562016
+      electricidad_N3_81: 8924299640793802683
+      electricidad_N3_9: -6584023033028127976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

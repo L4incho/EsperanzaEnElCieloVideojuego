@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: adbf28b6324e8ee4daaf621a39b109f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7797436912862395733
+    second: retrato_v_azul_0
+  - first:
+      213: -4840856781596891810
+    second: retrato_v_azul_1
+  - first:
+      213: -7920112966761561823
+    second: retrato_v_azul_2
+  - first:
+      213: 1201933932210179614
+    second: retrato_v_azul_3
+  - first:
+      213: -8076303455421110707
+    second: retrato_v_azul_4
+  - first:
+      213: -7501279176790648751
+    second: retrato_v_azul_5
+  - first:
+      213: 5161995608250661889
+    second: retrato_v_azul_6
+  - first:
+      213: 3843826096610789497
+    second: retrato_v_azul_7
+  - first:
+      213: 1909921386942486956
+    second: retrato_v_azul_8
+  - first:
+      213: 441726181847891287
+    second: retrato_v_azul_9
+  - first:
+      213: 6090910525453367976
+    second: retrato_v_azul_10
+  - first:
+      213: 5192008690200526432
+    second: retrato_v_azul_11
+  - first:
+      213: -357444850247547562
+    second: retrato_v_azul_12
+  - first:
+      213: 654715212092712290
+    second: retrato_v_azul_13
+  - first:
+      213: 1923601778714134673
+    second: retrato_v_azul_14
+  - first:
+      213: -1211661484794035676
+    second: retrato_v_azul_15
+  - first:
+      213: 8582533828744180208
+    second: retrato_v_azul_16
+  - first:
+      213: 2045954181817409275
+    second: retrato_v_azul_17
+  - first:
+      213: -1455281693890748408
+    second: retrato_v_azul_18
+  - first:
+      213: -6573504798977197409
+    second: retrato_v_azul_19
+  - first:
+      213: 7800523069536949897
+    second: retrato_v_azul_20
+  - first:
+      213: -1966875740188925707
+    second: retrato_v_azul_21
+  - first:
+      213: -6008908049030773444
+    second: retrato_v_azul_22
+  - first:
+      213: 5709422922726091049
+    second: retrato_v_azul_23
+  - first:
+      213: -3704726600793525158
+    second: retrato_v_azul_24
+  - first:
+      213: -48292245843655018
+    second: retrato_v_azul_25
+  - first:
+      213: 370866604615283329
+    second: retrato_v_azul_26
+  - first:
+      213: 7230789084207446493
+    second: retrato_v_azul_27
+  - first:
+      213: -1712480446384565031
+    second: retrato_v_azul_28
+  - first:
+      213: -3925455151880311244
+    second: retrato_v_azul_29
+  - first:
+      213: -98558656981014477
+    second: retrato_v_azul_30
+  - first:
+      213: -8776467218277427679
+    second: retrato_v_azul_31
+  - first:
+      213: -621378012153670122
+    second: retrato_v_azul_32
+  - first:
+      213: 7780973810206377153
+    second: retrato_v_azul_33
+  - first:
+      213: -637253968101632749
+    second: retrato_v_azul_34
+  - first:
+      213: -4399491173609868351
+    second: retrato_v_azul_35
+  - first:
+      213: 4245296487083088089
+    second: retrato_v_azul_36
+  - first:
+      213: 6169917443385882725
+    second: retrato_v_azul_37
+  - first:
+      213: -8240747989328581350
+    second: retrato_v_azul_38
+  - first:
+      213: -4291234929025213017
+    second: retrato_v_azul_39
+  - first:
+      213: -6849610221769249758
+    second: retrato_v_azul_40
+  - first:
+      213: -7281366018647162605
+    second: retrato_v_azul_41
+  - first:
+      213: -4105122440038987463
+    second: retrato_v_azul_42
+  - first:
+      213: -1330603303504459541
+    second: retrato_v_azul_43
+  - first:
+      213: 7725430835014369195
+    second: retrato_v_azul_44
+  - first:
+      213: 4180555224798587377
+    second: retrato_v_azul_45
+  - first:
+      213: -1042502261084627991
+    second: retrato_v_azul_46
+  - first:
+      213: 7334395572109805656
+    second: retrato_v_azul_47
+  - first:
+      213: 2388829985108512881
+    second: retrato_v_azul_48
+  - first:
+      213: 2421833443426921293
+    second: retrato_v_azul_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retrato_v_azul_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 684
+        width: 60
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7ea54f8f063c60800000000000000
+      internalID: 7797436912862395733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 692
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e556064b762d1dcb0800000000000000
+      internalID: -4840856781596891810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 679
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214633283b161290800000000000000
+      internalID: -7920112966761561823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 678
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e40e01b802ea010800000000000000
+      internalID: 1201933932210179614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 661
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d466d512cc43bef80800000000000000
+      internalID: -8076303455421110707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 651
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158db5a055a16e790800000000000000
+      internalID: -7501279176790648751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 692
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c38e108a713a740800000000000000
+      internalID: 5161995608250661889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978ccda2873085530800000000000000
+      internalID: 3843826096610789497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 676
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d0a9d167618a10800000000000000
+      internalID: 1909921386942486956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 690
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d780d3f93512600800000000000000
+      internalID: 441726181847891287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_10
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 682
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf5541ad2478450800000000000000
+      internalID: 6090910525453367976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 674
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eb4223568bd0840800000000000000
+      internalID: 5192008690200526432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_12
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 688
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655c3327dc91a0bf0800000000000000
+      internalID: -357444850247547562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 690
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a4dd3404061900800000000000000
+      internalID: 654715212092712290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 670
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c09540a102ba10800000000000000
+      internalID: 1923601778714134673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 694
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42244da9c405f2fe0800000000000000
+      internalID: -1211661484794035676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 692
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f1178b094b1770800000000000000
+      internalID: 8582533828744180208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_17
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 674
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe93f90d70b46c10800000000000000
+      internalID: 2045954181817409275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_18
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 619
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8006383820dcdcbe0800000000000000
+      internalID: -1455281693890748408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 696
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a73a7963836c4a0800000000000000
+      internalID: -6573504798977197409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_20
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 651
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865dfd1766014c60800000000000000
+      internalID: 7800523069536949897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_21
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 676
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a4bc6fe044b4e0800000000000000
+      internalID: -1966875740188925707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_22
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 680
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35098947f11c9ca0800000000000000
+      internalID: -6008908049030773444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_23
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 676
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929af8df5e1fb3f40800000000000000
+      internalID: 5709422922726091049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_24
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 692
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f2c9f8ca269cc0800000000000000
+      internalID: -3704726600793525158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 678
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964511557e645ff0800000000000000
+      internalID: -48292245843655018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 676
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18236234635952500800000000000000
+      internalID: 370866604615283329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 676
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f4f99c5ce85460800000000000000
+      internalID: 7230789084207446493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 676
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4127c6b1c0c38e0800000000000000
+      internalID: -1712480446384565031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 676
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e627a565bf589c0800000000000000
+      internalID: -3925455151880311244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 678
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3386b157c69d1aef0800000000000000
+      internalID: -98558656981014477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12696bf8099b33680800000000000000
+      internalID: -8776467218277427679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_32
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 676
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616975a7dfb6067f0800000000000000
+      internalID: -621378012153670122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_33
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 676
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c408fb74729bfb60800000000000000
+      internalID: 7780973810206377153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_34
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 678
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315189f64e40827f0800000000000000
+      internalID: -637253968101632749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_35
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 675
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3748c461ed1f2c0800000000000000
+      internalID: -4399491173609868351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_36
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 682
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81dc699a25aea30800000000000000
+      internalID: 4245296487083088089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_37
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 674
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687082a933ff9550800000000000000
+      internalID: 6169917443385882725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_38
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 679
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d2e847d5bf2ad80800000000000000
+      internalID: -8240747989328581350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_39
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 663
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad14b761987274c0800000000000000
+      internalID: -4291234929025213017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_40
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 676
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2f894bcb41f0a0800000000000000
+      internalID: -6849610221769249758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_41
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 677
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118fe23f2463fa90800000000000000
+      internalID: -7281366018647162605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_42
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 676
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cdf104eca707c0800000000000000
+      internalID: -4105122440038987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_43
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 677
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c7a5685fb88de0800000000000000
+      internalID: -1330603303504459541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_44
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 676
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf71e1d96e363b60800000000000000
+      internalID: 7725430835014369195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_45
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 651
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e502d3d0540a30800000000000000
+      internalID: 4180555224798587377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 2108
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb528a87b94881f0800000000000000
+      internalID: -1042502261084627991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 593
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588dcdd9e109c560800000000000000
+      internalID: 7334395572109805656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d1330734d62120800000000000000
+      internalID: 2388829985108512881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_azul_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b6f947fa41c9120800000000000000
+      internalID: 2421833443426921293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retrato_v_azul_0: 7797436912862395733
+      retrato_v_azul_1: -4840856781596891810
+      retrato_v_azul_10: 6090910525453367976
+      retrato_v_azul_11: 5192008690200526432
+      retrato_v_azul_12: -357444850247547562
+      retrato_v_azul_13: 654715212092712290
+      retrato_v_azul_14: 1923601778714134673
+      retrato_v_azul_15: -1211661484794035676
+      retrato_v_azul_16: 8582533828744180208
+      retrato_v_azul_17: 2045954181817409275
+      retrato_v_azul_18: -1455281693890748408
+      retrato_v_azul_19: -6573504798977197409
+      retrato_v_azul_2: -7920112966761561823
+      retrato_v_azul_20: 7800523069536949897
+      retrato_v_azul_21: -1966875740188925707
+      retrato_v_azul_22: -6008908049030773444
+      retrato_v_azul_23: 5709422922726091049
+      retrato_v_azul_24: -3704726600793525158
+      retrato_v_azul_25: -48292245843655018
+      retrato_v_azul_26: 370866604615283329
+      retrato_v_azul_27: 7230789084207446493
+      retrato_v_azul_28: -1712480446384565031
+      retrato_v_azul_29: -3925455151880311244
+      retrato_v_azul_3: 1201933932210179614
+      retrato_v_azul_30: -98558656981014477
+      retrato_v_azul_31: -8776467218277427679
+      retrato_v_azul_32: -621378012153670122
+      retrato_v_azul_33: 7780973810206377153
+      retrato_v_azul_34: -637253968101632749
+      retrato_v_azul_35: -4399491173609868351
+      retrato_v_azul_36: 4245296487083088089
+      retrato_v_azul_37: 6169917443385882725
+      retrato_v_azul_38: -8240747989328581350
+      retrato_v_azul_39: -4291234929025213017
+      retrato_v_azul_4: -8076303455421110707
+      retrato_v_azul_40: -6849610221769249758
+      retrato_v_azul_41: -7281366018647162605
+      retrato_v_azul_42: -4105122440038987463
+      retrato_v_azul_43: -1330603303504459541
+      retrato_v_azul_44: 7725430835014369195
+      retrato_v_azul_45: 4180555224798587377
+      retrato_v_azul_46: -1042502261084627991
+      retrato_v_azul_47: 7334395572109805656
+      retrato_v_azul_48: 2388829985108512881
+      retrato_v_azul_49: 2421833443426921293
+      retrato_v_azul_5: -7501279176790648751
+      retrato_v_azul_6: 5161995608250661889
+      retrato_v_azul_7: 3843826096610789497
+      retrato_v_azul_8: 1909921386942486956
+      retrato_v_azul_9: 441726181847891287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

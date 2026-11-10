@@ -1,0 +1,2175 @@
+fileFormatVersion: 2
+guid: 78a69d1926140774d947fff0089ba556
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1489847293388701032
+    second: laboratorio_spritesheet_0
+  - first:
+      213: 7429256379634783981
+    second: laboratorio_spritesheet_1
+  - first:
+      213: 421992560702972420
+    second: laboratorio_spritesheet_2
+  - first:
+      213: 3148701522061760218
+    second: laboratorio_spritesheet_3
+  - first:
+      213: -8750086271601337736
+    second: laboratorio_spritesheet_4
+  - first:
+      213: -3336370924204465709
+    second: laboratorio_spritesheet_5
+  - first:
+      213: -4166470012309989175
+    second: laboratorio_spritesheet_6
+  - first:
+      213: -3372834531162711758
+    second: laboratorio_spritesheet_7
+  - first:
+      213: 2567047199103821002
+    second: laboratorio_spritesheet_8
+  - first:
+      213: -6201300463039201380
+    second: laboratorio_spritesheet_9
+  - first:
+      213: 2569403943075614494
+    second: laboratorio_spritesheet_10
+  - first:
+      213: -5792450862570321174
+    second: laboratorio_spritesheet_11
+  - first:
+      213: -3725550712724223954
+    second: laboratorio_spritesheet_12
+  - first:
+      213: 1644059949122107539
+    second: laboratorio_spritesheet_13
+  - first:
+      213: -122624168234349679
+    second: laboratorio_spritesheet_14
+  - first:
+      213: 3564402684597821999
+    second: laboratorio_spritesheet_15
+  - first:
+      213: -8401554516025006482
+    second: laboratorio_spritesheet_16
+  - first:
+      213: -5431092895785566627
+    second: laboratorio_spritesheet_17
+  - first:
+      213: -3412920996369126270
+    second: laboratorio_spritesheet_18
+  - first:
+      213: -8118369650157827194
+    second: laboratorio_spritesheet_19
+  - first:
+      213: 8547434646567682931
+    second: laboratorio_spritesheet_20
+  - first:
+      213: -419535640844159753
+    second: laboratorio_spritesheet_21
+  - first:
+      213: -8099436114721034776
+    second: laboratorio_spritesheet_22
+  - first:
+      213: -321877716098967014
+    second: laboratorio_spritesheet_23
+  - first:
+      213: -4999363218494410171
+    second: laboratorio_spritesheet_24
+  - first:
+      213: 3346853498602926562
+    second: laboratorio_spritesheet_25
+  - first:
+      213: 5414800388233638656
+    second: laboratorio_spritesheet_26
+  - first:
+      213: -9192779818654141611
+    second: laboratorio_spritesheet_27
+  - first:
+      213: 4611850238351396819
+    second: laboratorio_spritesheet_28
+  - first:
+      213: 7461121988367836146
+    second: laboratorio_spritesheet_29
+  - first:
+      213: -2776259315986125460
+    second: laboratorio_spritesheet_30
+  - first:
+      213: -168247902826419776
+    second: laboratorio_spritesheet_31
+  - first:
+      213: -8527508836443024047
+    second: laboratorio_spritesheet_32
+  - first:
+      213: 7886317869632179111
+    second: laboratorio_spritesheet_33
+  - first:
+      213: 8639644273009374320
+    second: laboratorio_spritesheet_34
+  - first:
+      213: 1490472488474194200
+    second: laboratorio_spritesheet_35
+  - first:
+      213: 4513599532713841941
+    second: laboratorio_spritesheet_36
+  - first:
+      213: -8118748057091112341
+    second: laboratorio_spritesheet_37
+  - first:
+      213: -8366942826666240971
+    second: laboratorio_spritesheet_38
+  - first:
+      213: 5109969407684277491
+    second: laboratorio_spritesheet_39
+  - first:
+      213: 1595884762331419654
+    second: laboratorio_spritesheet_40
+  - first:
+      213: 7833523433881462358
+    second: laboratorio_spritesheet_41
+  - first:
+      213: 8422647201609331196
+    second: laboratorio_spritesheet_42
+  - first:
+      213: -6582031014484174198
+    second: laboratorio_spritesheet_43
+  - first:
+      213: 5978415525545302449
+    second: laboratorio_spritesheet_44
+  - first:
+      213: -1547517790811887349
+    second: laboratorio_spritesheet_45
+  - first:
+      213: 7329370890384190751
+    second: laboratorio_spritesheet_46
+  - first:
+      213: -7562231158019888655
+    second: laboratorio_spritesheet_47
+  - first:
+      213: 280524602134164491
+    second: laboratorio_spritesheet_48
+  - first:
+      213: -5532763858388349158
+    second: laboratorio_spritesheet_49
+  - first:
+      213: -298706997531677337
+    second: laboratorio_spritesheet_50
+  - first:
+      213: -8208086485818682922
+    second: laboratorio_spritesheet_51
+  - first:
+      213: 4776472612116823160
+    second: laboratorio_spritesheet_52
+  - first:
+      213: -2405629368269749767
+    second: laboratorio_spritesheet_53
+  - first:
+      213: 583290368309559821
+    second: laboratorio_spritesheet_54
+  - first:
+      213: -1959546050044641217
+    second: laboratorio_spritesheet_55
+  - first:
+      213: -6945992273189831360
+    second: laboratorio_spritesheet_56
+  - first:
+      213: 8416765512858949080
+    second: laboratorio_spritesheet_57
+  - first:
+      213: -6420762185539688088
+    second: laboratorio_spritesheet_58
+  - first:
+      213: 6990060096049402897
+    second: laboratorio_spritesheet_59
+  - first:
+      213: 9181293946894135821
+    second: laboratorio_spritesheet_60
+  - first:
+      213: 4820117882526744426
+    second: laboratorio_spritesheet_61
+  - first:
+      213: 8051436064886159983
+    second: laboratorio_spritesheet_62
+  - first:
+      213: 6364716509092922093
+    second: laboratorio_spritesheet_63
+  - first:
+      213: -5817552980780629535
+    second: laboratorio_spritesheet_64
+  - first:
+      213: -7777482271518314408
+    second: laboratorio_spritesheet_65
+  - first:
+      213: 5078942111783286664
+    second: laboratorio_spritesheet_66
+  - first:
+      213: 872080784716196409
+    second: laboratorio_spritesheet_67
+  - first:
+      213: 4905577540102140201
+    second: laboratorio_spritesheet_68
+  - first:
+      213: 3088400723242754408
+    second: laboratorio_spritesheet_69
+  - first:
+      213: 3222496088888844033
+    second: laboratorio_spritesheet_70
+  - first:
+      213: 1697816814370420233
+    second: laboratorio_spritesheet_71
+  - first:
+      213: -1751721860738191689
+    second: laboratorio_spritesheet_72
+  - first:
+      213: -4381283240069369795
+    second: laboratorio_spritesheet_73
+  - first:
+      213: -4311669129338949438
+    second: laboratorio_spritesheet_74
+  - first:
+      213: -1884266404586072380
+    second: laboratorio_spritesheet_75
+  - first:
+      213: -9074201128628960700
+    second: laboratorio_spritesheet_76
+  - first:
+      213: 2669006832349047120
+    second: laboratorio_spritesheet_77
+  - first:
+      213: -1577819248785545384
+    second: laboratorio_spritesheet_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db20448300da410800000000000000
+      internalID: 1489847293388701032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de69f6db0550a1760800000000000000
+      internalID: 7429256379634783981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ee868ff73bd500800000000000000
+      internalID: 421992560702972420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6193e0a5f62bb20800000000000000
+      internalID: 3148701522061760218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 474
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1e2b55e2719680800000000000000
+      internalID: -8750086271601337736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e9df3254d2b1d0800000000000000
+      internalID: -3336370924204465709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c812f44999bd26c0800000000000000
+      internalID: -4166470012309989175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 435
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23910eb2dd84131d0800000000000000
+      internalID: -3372834531162711758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 435
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ae38a3dbff9320800000000000000
+      internalID: 2567047199103821002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 435
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3513b51e80f9a0800000000000000
+      internalID: -6201300463039201380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f828fd54b58a320800000000000000
+      internalID: 2569403943075614494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea479551a41d9fa0800000000000000
+      internalID: -5792450862570321174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 368
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288e579d5f2c4cc0800000000000000
+      internalID: -3725550712724223954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 446
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398bed820dfd0d610800000000000000
+      internalID: 1644059949122107539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b838bf7f95c4ef0800000000000000
+      internalID: -122624168234349679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e6eb4b5d477130800000000000000
+      internalID: 3564402684597821999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6620475eaea76b80800000000000000
+      internalID: -8401554516025006482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ebd8459c1e0a4b0800000000000000
+      internalID: -5431092895785566627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 417
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c22fcaf6ed2a0d0800000000000000
+      internalID: -3412920996369126270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 363
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bc70fe0d1c55f80800000000000000
+      internalID: -8118369650157827194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 363
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373888956869e9670800000000000000
+      internalID: 8547434646567682931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 395
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43ed4be828d2af0800000000000000
+      internalID: -419535640844159753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 395
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed251d24c5099f80800000000000000
+      internalID: -8099436114721034776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9ece2ce5788bf0800000000000000
+      internalID: -321877716098967014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bc7af3a1be9ab0800000000000000
+      internalID: -4999363218494410171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 389
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1308b4689627e20800000000000000
+      internalID: 3346853498602926562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 358
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0033056a34c352b40800000000000000
+      internalID: 5414800388233638656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537dbad57fac6080800000000000000
+      internalID: -9192779818654141611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4c3e6b55900040800000000000000
+      internalID: 4611850238351396819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3658eeaea3b8760800000000000000
+      internalID: 7461121988367836146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d27428cdeb879d0800000000000000
+      internalID: -2776259315986125460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a3dd7c634aadf0800000000000000
+      internalID: -168247902826419776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1551fc8d4e338a980800000000000000
+      internalID: -8527508836443024047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 347
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcd35a154d17d60800000000000000
+      internalID: 7886317869632179111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 315
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074367601be26e770800000000000000
+      internalID: 8639644273009374320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 323
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8113ff6d4d83fa410800000000000000
+      internalID: 1490472488474194200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 316
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51517c56cd683ae30800000000000000
+      internalID: 4513599532713841941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62013438a9645f80800000000000000
+      internalID: -8118748057091112341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 320
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5345e8044d5a2eb80800000000000000
+      internalID: -8366942826666240971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 310
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4722e3a124ae640800000000000000
+      internalID: 5109969407684277491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 310
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60419396cb8b52610800000000000000
+      internalID: 1595884762331419654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e3303f0446bc60800000000000000
+      internalID: 7833523433881462358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1bc58310143e470800000000000000
+      internalID: 8422647201609331196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a11195aade7a4a0800000000000000
+      internalID: -6582031014484174198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9dec7de3997f250800000000000000
+      internalID: 5978415525545302449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 257
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b096f03b4cc168ae0800000000000000
+      internalID: -1547517790811887349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d207cfdf727b560800000000000000
+      internalID: 7329370890384190751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 257
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f965d404de8d0790800000000000000
+      internalID: -7562231158019888655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f6fca3af94e300800000000000000
+      internalID: 280524602134164491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 244
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f84aaa59ca733b0800000000000000
+      internalID: -5532763858388349158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 283
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d63308197cadbf0800000000000000
+      internalID: -298706997531677337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 286
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d71754d4071e80800000000000000
+      internalID: -8208086485818682922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 244
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cfa9ca880794240800000000000000
+      internalID: 4776472612116823160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 236
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c80bc5dc7d9ed0800000000000000
+      internalID: -2405629368269749767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 235
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d028ff3ef73481800800000000000000
+      internalID: 583290368309559821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 244
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c116ef3b4ec4e0800000000000000
+      internalID: -1959546050044641217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d79e734d0ea9f90800000000000000
+      internalID: -6945992273189831360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d557b7d3ab5ec470800000000000000
+      internalID: 8416765512858949080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86965a79fced4e6a0800000000000000
+      internalID: -6420762185539688088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11458a75f9ea10160800000000000000
+      internalID: 6990060096049402897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b11b33328a6f70800000000000000
+      internalID: 9181293946894135821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb3831daf74e240800000000000000
+      internalID: 4820117882526744426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 196
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6afe4351727cbf60800000000000000
+      internalID: 8051436064886159983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 196
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de24c8c71f3045850800000000000000
+      internalID: 6364716509092922093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 212
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14e8ef266e34fa0800000000000000
+      internalID: -5817552980780629535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 213
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b047b415d01490800000000000000
+      internalID: -7777482271518314408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 212
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877d97f0f60c7640800000000000000
+      internalID: 5078942111783286664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d8b523a332f44eb503ad058eabc54
+      internalID: 1759461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e390a5f1bc3642a56af90a7469a8d
+      internalID: 767221374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759e97d3fd47074fad9c14dd199b0b0
+      internalID: -983766658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 108
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6353bba0254f964baa6eb230e542700
+      internalID: 99127164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 114
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc5566450963043b0bebc110379825
+      internalID: 643672757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 114
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a24b5a3d3f7e4ea21160d2d1c967f
+      internalID: 573706265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 114
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0f99ffe78c3c48a714e08cddd2904
+      internalID: 2143352095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 114
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4112a079c48b41b474bd363f1c232
+      internalID: 1886620920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 114
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df390a661e0b4794daa024bca160753e
+      internalID: -460547093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 136
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b07845af128bd40a099f92554b6ff1
+      internalID: -728556902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 13
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4638e864805d4491fecf8951d948a
+      internalID: -1399983888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db939e7760fdbc1468b64537e3ecba01
+      internalID: 1481213743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ae702f1194d7c04aa02dffd66b78fc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      laboratorio_spritesheet_0: 1489847293388701032
+      laboratorio_spritesheet_1: 7429256379634783981
+      laboratorio_spritesheet_10: 2569403943075614494
+      laboratorio_spritesheet_11: -5792450862570321174
+      laboratorio_spritesheet_12: -3725550712724223954
+      laboratorio_spritesheet_13: 1644059949122107539
+      laboratorio_spritesheet_14: -122624168234349679
+      laboratorio_spritesheet_15: 3564402684597821999
+      laboratorio_spritesheet_16: -8401554516025006482
+      laboratorio_spritesheet_17: -5431092895785566627
+      laboratorio_spritesheet_18: -3412920996369126270
+      laboratorio_spritesheet_19: -8118369650157827194
+      laboratorio_spritesheet_2: 421992560702972420
+      laboratorio_spritesheet_20: 8547434646567682931
+      laboratorio_spritesheet_21: -419535640844159753
+      laboratorio_spritesheet_22: -8099436114721034776
+      laboratorio_spritesheet_23: -321877716098967014
+      laboratorio_spritesheet_24: -4999363218494410171
+      laboratorio_spritesheet_25: 3346853498602926562
+      laboratorio_spritesheet_26: 5414800388233638656
+      laboratorio_spritesheet_27: -9192779818654141611
+      laboratorio_spritesheet_28: 4611850238351396819
+      laboratorio_spritesheet_29: 7461121988367836146
+      laboratorio_spritesheet_3: 3148701522061760218
+      laboratorio_spritesheet_30: -2776259315986125460
+      laboratorio_spritesheet_31: -168247902826419776
+      laboratorio_spritesheet_32: -8527508836443024047
+      laboratorio_spritesheet_33: 7886317869632179111
+      laboratorio_spritesheet_34: 8639644273009374320
+      laboratorio_spritesheet_35: 1490472488474194200
+      laboratorio_spritesheet_36: 4513599532713841941
+      laboratorio_spritesheet_37: -8118748057091112341
+      laboratorio_spritesheet_38: -8366942826666240971
+      laboratorio_spritesheet_39: 5109969407684277491
+      laboratorio_spritesheet_4: -8750086271601337736
+      laboratorio_spritesheet_40: 1595884762331419654
+      laboratorio_spritesheet_41: 7833523433881462358
+      laboratorio_spritesheet_42: 8422647201609331196
+      laboratorio_spritesheet_43: -6582031014484174198
+      laboratorio_spritesheet_44: 5978415525545302449
+      laboratorio_spritesheet_45: -1547517790811887349
+      laboratorio_spritesheet_46: 7329370890384190751
+      laboratorio_spritesheet_47: -7562231158019888655
+      laboratorio_spritesheet_48: 280524602134164491
+      laboratorio_spritesheet_49: -5532763858388349158
+      laboratorio_spritesheet_5: -3336370924204465709
+      laboratorio_spritesheet_50: -298706997531677337
+      laboratorio_spritesheet_51: -8208086485818682922
+      laboratorio_spritesheet_52: 4776472612116823160
+      laboratorio_spritesheet_53: -2405629368269749767
+      laboratorio_spritesheet_54: 583290368309559821
+      laboratorio_spritesheet_55: -1959546050044641217
+      laboratorio_spritesheet_56: -6945992273189831360
+      laboratorio_spritesheet_57: 8416765512858949080
+      laboratorio_spritesheet_58: -6420762185539688088
+      laboratorio_spritesheet_59: 6990060096049402897
+      laboratorio_spritesheet_6: -4166470012309989175
+      laboratorio_spritesheet_60: 9181293946894135821
+      laboratorio_spritesheet_61: 4820117882526744426
+      laboratorio_spritesheet_62: 8051436064886159983
+      laboratorio_spritesheet_63: 6364716509092922093
+      laboratorio_spritesheet_64: -5817552980780629535
+      laboratorio_spritesheet_65: -7777482271518314408
+      laboratorio_spritesheet_66: 5078942111783286664
+      laboratorio_spritesheet_67: 1759461299
+      laboratorio_spritesheet_68: 767221374
+      laboratorio_spritesheet_69: -983766658
+      laboratorio_spritesheet_7: -3372834531162711758
+      laboratorio_spritesheet_70: 99127164
+      laboratorio_spritesheet_71: 643672757
+      laboratorio_spritesheet_72: 573706265
+      laboratorio_spritesheet_73: 2143352095
+      laboratorio_spritesheet_74: 1886620920
+      laboratorio_spritesheet_75: -460547093
+      laboratorio_spritesheet_76: -728556902
+      laboratorio_spritesheet_77: -1399983888
+      laboratorio_spritesheet_78: 1481213743
+      laboratorio_spritesheet_8: 2567047199103821002
+      laboratorio_spritesheet_9: -6201300463039201380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

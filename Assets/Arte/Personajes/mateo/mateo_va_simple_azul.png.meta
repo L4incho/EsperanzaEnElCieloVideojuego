@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 04940596f72859446a27db6feb2bd755
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5320303205328907740
+    second: mateo_va_simple_azul_0
+  - first:
+      213: -7764399707927729277
+    second: mateo_va_simple_azul_1
+  - first:
+      213: -6147417760652640165
+    second: mateo_va_simple_azul_2
+  - first:
+      213: -1112749836509042102
+    second: mateo_va_simple_azul_3
+  - first:
+      213: -2558761996377112275
+    second: mateo_va_simple_azul_4
+  - first:
+      213: -4948102219518787210
+    second: mateo_va_simple_azul_5
+  - first:
+      213: 4336379757280109169
+    second: mateo_va_simple_azul_6
+  - first:
+      213: 5643519229899531786
+    second: mateo_va_simple_azul_7
+  - first:
+      213: -4359343094701244761
+    second: mateo_va_simple_azul_8
+  - first:
+      213: 5456874321640090178
+    second: mateo_va_simple_azul_9
+  - first:
+      213: 1870975286690178344
+    second: mateo_va_simple_azul_10
+  - first:
+      213: -2791892163982871730
+    second: mateo_va_simple_azul_11
+  - first:
+      213: -1172799682618300878
+    second: mateo_va_simple_azul_12
+  - first:
+      213: 4796419680000767880
+    second: mateo_va_simple_azul_13
+  - first:
+      213: -8162840864703484629
+    second: mateo_va_simple_azul_14
+  - first:
+      213: 3704203740946032772
+    second: mateo_va_simple_azul_15
+  - first:
+      213: -6726687669536448849
+    second: mateo_va_simple_azul_16
+  - first:
+      213: 1356814324384641107
+    second: mateo_va_simple_azul_17
+  - first:
+      213: 4446084163817078938
+    second: mateo_va_simple_azul_18
+  - first:
+      213: 2780800436412456287
+    second: mateo_va_simple_azul_19
+  - first:
+      213: 8775305257772329267
+    second: mateo_va_simple_azul_20
+  - first:
+      213: 6557414878886049147
+    second: mateo_va_simple_azul_21
+  - first:
+      213: -8110955605325461567
+    second: mateo_va_simple_azul_22
+  - first:
+      213: 2305921298478407583
+    second: mateo_va_simple_azul_23
+  - first:
+      213: 9009165046837771052
+    second: mateo_va_simple_azul_24
+  - first:
+      213: 4787850083911961403
+    second: mateo_va_simple_azul_25
+  - first:
+      213: -4282983671805001415
+    second: mateo_va_simple_azul_26
+  - first:
+      213: 591941039417921283
+    second: mateo_va_simple_azul_27
+  - first:
+      213: -8989778697753320610
+    second: mateo_va_simple_azul_28
+  - first:
+      213: 6554475125545028944
+    second: mateo_va_simple_azul_29
+  - first:
+      213: 1789419244293235232
+    second: mateo_va_simple_azul_30
+  - first:
+      213: 4361625485380778435
+    second: mateo_va_simple_azul_31
+  - first:
+      213: -6896550840195243349
+    second: mateo_va_simple_azul_32
+  - first:
+      213: 1867298912911253554
+    second: mateo_va_simple_azul_33
+  - first:
+      213: -3040524712576459250
+    second: mateo_va_simple_azul_34
+  - first:
+      213: 104497710480946486
+    second: mateo_va_simple_azul_35
+  - first:
+      213: 4316167820872817917
+    second: mateo_va_simple_azul_36
+  - first:
+      213: -5972935579120008982
+    second: mateo_va_simple_azul_37
+  - first:
+      213: 8214905398491031675
+    second: mateo_va_simple_azul_38
+  - first:
+      213: -6685986912441080964
+    second: mateo_va_simple_azul_39
+  - first:
+      213: 7544214763944282542
+    second: mateo_va_simple_azul_40
+  - first:
+      213: 8563415751500410918
+    second: mateo_va_simple_azul_41
+  - first:
+      213: -4684117393355838655
+    second: mateo_va_simple_azul_42
+  - first:
+      213: -7006770021904295959
+    second: mateo_va_simple_azul_43
+  - first:
+      213: -5001612120202502008
+    second: mateo_va_simple_azul_44
+  - first:
+      213: 7573214581793813717
+    second: mateo_va_simple_azul_45
+  - first:
+      213: 2913551072231005041
+    second: mateo_va_simple_azul_46
+  - first:
+      213: -5122722636142354219
+    second: mateo_va_simple_azul_47
+  - first:
+      213: -8510592617149403810
+    second: mateo_va_simple_azul_48
+  - first:
+      213: -5892327153981152662
+    second: mateo_va_simple_azul_49
+  - first:
+      213: 6510629541848576861
+    second: mateo_va_simple_azul_50
+  - first:
+      213: 8684390602985483856
+    second: mateo_va_simple_azul_51
+  - first:
+      213: -7769542879287433777
+    second: mateo_va_simple_azul_52
+  - first:
+      213: 2749369039861632212
+    second: mateo_va_simple_azul_53
+  - first:
+      213: 4220604008885729244
+    second: mateo_va_simple_azul_54
+  - first:
+      213: 2205121538548726191
+    second: mateo_va_simple_azul_55
+  - first:
+      213: 2111521021238158736
+    second: mateo_va_simple_azul_56
+  - first:
+      213: -852364429506701215
+    second: mateo_va_simple_azul_57
+  - first:
+      213: -4940947736881997179
+    second: mateo_va_simple_azul_58
+  - first:
+      213: 921335720080665465
+    second: mateo_va_simple_azul_59
+  - first:
+      213: -1663277776928225708
+    second: mateo_va_simple_azul_60
+  - first:
+      213: -5050627511672908180
+    second: mateo_va_simple_azul_61
+  - first:
+      213: 1912504216002251430
+    second: mateo_va_simple_azul_62
+  - first:
+      213: 7888099975558842844
+    second: mateo_va_simple_azul_63
+  - first:
+      213: -3575569713129362827
+    second: mateo_va_simple_azul_64
+  - first:
+      213: 3233228623273871280
+    second: mateo_va_simple_azul_65
+  - first:
+      213: 753477537514973814
+    second: mateo_va_simple_azul_66
+  - first:
+      213: -4905282778844782233
+    second: mateo_va_simple_azul_67
+  - first:
+      213: 1168081513437586144
+    second: mateo_va_simple_azul_68
+  - first:
+      213: 1278714786208919150
+    second: mateo_va_simple_azul_69
+  - first:
+      213: 4191393424167626323
+    second: mateo_va_simple_azul_70
+  - first:
+      213: 8019712931195856906
+    second: mateo_va_simple_azul_71
+  - first:
+      213: -5764323768075809030
+    second: mateo_va_simple_azul_72
+  - first:
+      213: -8071606097369100983
+    second: mateo_va_simple_azul_73
+  - first:
+      213: -2029360661491198212
+    second: mateo_va_simple_azul_74
+  - first:
+      213: 9094847708008320501
+    second: mateo_va_simple_azul_75
+  - first:
+      213: 5450936830633368857
+    second: mateo_va_simple_azul_76
+  - first:
+      213: 1211941515501297428
+    second: mateo_va_simple_azul_77
+  - first:
+      213: 6367535552456126165
+    second: mateo_va_simple_azul_78
+  - first:
+      213: 4431575028108831977
+    second: mateo_va_simple_azul_79
+  - first:
+      213: 1119806712798578204
+    second: mateo_va_simple_azul_80
+  - first:
+      213: -4953605261297863941
+    second: mateo_va_simple_azul_81
+  - first:
+      213: -8895278413442027802
+    second: mateo_va_simple_azul_82
+  - first:
+      213: 6283397349255314332
+    second: mateo_va_simple_azul_83
+  - first:
+      213: -4338878250638180534
+    second: mateo_va_simple_azul_84
+  - first:
+      213: 2244260329710987127
+    second: mateo_va_simple_azul_85
+  - first:
+      213: -2480753422737139949
+    second: mateo_va_simple_azul_86
+  - first:
+      213: -2479868299800053940
+    second: mateo_va_simple_azul_87
+  - first:
+      213: -1211738206901562827
+    second: mateo_va_simple_azul_88
+  - first:
+      213: -5401479821534740950
+    second: mateo_va_simple_azul_89
+  - first:
+      213: 1271024522679156730
+    second: mateo_va_simple_azul_90
+  - first:
+      213: 3831313888861307406
+    second: mateo_va_simple_azul_91
+  - first:
+      213: -3153828759877313590
+    second: mateo_va_simple_azul_92
+  - first:
+      213: -8233953287191832190
+    second: mateo_va_simple_azul_93
+  - first:
+      213: -2978761362271613109
+    second: mateo_va_simple_azul_94
+  - first:
+      213: 6585849690251404957
+    second: mateo_va_simple_azul_95
+  - first:
+      213: -3504856440874962930
+    second: mateo_va_simple_azul_96
+  - first:
+      213: -1770477523351862382
+    second: mateo_va_simple_azul_97
+  - first:
+      213: 5132823758528266052
+    second: mateo_va_simple_azul_98
+  - first:
+      213: -9166364131375198135
+    second: mateo_va_simple_azul_99
+  - first:
+      213: 3476899437516676913
+    second: mateo_va_simple_azul_100
+  - first:
+      213: 491495210144739261
+    second: mateo_va_simple_azul_101
+  - first:
+      213: 256996446477318351
+    second: mateo_va_simple_azul_102
+  - first:
+      213: -8556692896686897895
+    second: mateo_va_simple_azul_103
+  - first:
+      213: 4732630414483766116
+    second: mateo_va_simple_azul_104
+  - first:
+      213: -7237278954701865483
+    second: mateo_va_simple_azul_105
+  - first:
+      213: -3868846819372951971
+    second: mateo_va_simple_azul_106
+  - first:
+      213: -7283311006149241389
+    second: mateo_va_simple_azul_107
+  - first:
+      213: -3011245818903705242
+    second: mateo_va_simple_azul_108
+  - first:
+      213: 7272333965373723771
+    second: mateo_va_simple_azul_109
+  - first:
+      213: -2095614561356602241
+    second: mateo_va_simple_azul_110
+  - first:
+      213: 9182668711740968162
+    second: mateo_va_simple_azul_111
+  - first:
+      213: 2581691374566456045
+    second: mateo_va_simple_azul_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e66d7b44abd344aa1264f65480191
+      internalID: 5320303205328907740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d982280262592c4438636fc4d74d88c3
+      internalID: -7764399707927729277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107275e9ca9a92489e98b6cad581204
+      internalID: -6147417760652640165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc24901abe3d2a41ade7a4714f07dfa
+      internalID: -1112749836509042102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cac984359eb764cb6d7d816d131f6b
+      internalID: -2558761996377112275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a1375e7b726c429e6ed22f4e1a058
+      internalID: -4948102219518787210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6296cbd3e774f5444b1297626202a7b8
+      internalID: 4336379757280109169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cf874207804a439bb4de9bc16d769
+      internalID: 5643519229899531786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 629
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd2b492e3dcc849ab9efc6876aedfc
+      internalID: -4359343094701244761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321408f845180b4f8460db1aa3ec4b6
+      internalID: 5456874321640090178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170877a41dcff0f4ca3d1cd7c57ce6be
+      internalID: 1870975286690178344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a123a3cfe7fa42a83c046e88704f8
+      internalID: -2791892163982871730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456636bdb565c34ea86e2b0326c184e
+      internalID: -1172799682618300878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd227769f548ea4fbb3b8bbffd65a52
+      internalID: 4796419680000767880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a066677ba46eb145b981b02e1a09965
+      internalID: -8162840864703484629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7bb60694c6737429a07a2dd12d14a4
+      internalID: 3704203740946032772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa892e6d5d54e4a8e293cae15963f2
+      internalID: -6726687669536448849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 425
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7fedd4d9d98a648a4c9fe5e18e8ec1
+      internalID: 1356814324384641107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 422
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aac255e18283e48915f22d828eb97d
+      internalID: 4446084163817078938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78650fe3e68065469fd14daca1359be
+      internalID: 2780800436412456287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e29278332c3a3f45af4bd5cfa7ef80f
+      internalID: 8775305257772329267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 415
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e679a45e6fcc419311b82c0ea77aa
+      internalID: 6557414878886049147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 417
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76898406aa7aa5949a7cdb210fa34bd1
+      internalID: -8110955605325461567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 412
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708492faf72580341aa158f38b01062c
+      internalID: 2305921298478407583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354ee3137be03a4c87fd05e6481eff5
+      internalID: 9009165046837771052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc26aa73df7174e93feba051ec101d
+      internalID: 4787850083911961403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a6b5190acdbc49b17098e1a728393
+      internalID: -4282983671805001415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4503dd9c66ea4ea96cc6ca2eb627c
+      internalID: 591941039417921283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 221
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a4c89b51c42f4db79a82675372461
+      internalID: -8989778697753320610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 216
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc14ca05bb0e04cad348526c9c84c3
+      internalID: 6554475125545028944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 218
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356e5eb11abbe645a3fc955ead1547a
+      internalID: 1789419244293235232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10f920ffab0504a9f803bf5676fda1
+      internalID: 4361625485380778435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e0db27bf5c8542b8a6b1a71cac073
+      internalID: -6896550840195243349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049efe6961b39b545b026b70f6db1c1b
+      internalID: 1867298912911253554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51a9f2e2834be4fa673f3e39710b0d
+      internalID: -3040524712576459250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9153a47b8e8fbe41b738a96d5a0c201
+      internalID: 104497710480946486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b7cef18399a246b7f5bb8096dad55
+      internalID: 4316167820872817917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe76d35dff4274f9c7284c89f39ca9
+      internalID: -5972935579120008982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c4cf2eddda1847bde643ecd8efdd7
+      internalID: 8214905398491031675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69380fab2d3064f4eb78365e18e76e25
+      internalID: -6685986912441080964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_c34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57843137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3ddc30c768f74da8aad6862575e49
+      internalID: 1116296120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_c35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6519608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656cabe5fc4ad74483582a06ab15415
+      internalID: -116746960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_c36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b2e3694cf66434f967cdff101aa228
+      internalID: -1917875685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_c37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a59d2e8bb51a4aadd5e1683a4698b
+      internalID: 1033902995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_azul_c38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6127451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9eb7e6e8bb7a47851a58415616e22
+      internalID: -165510584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6812244fc5639784f91b7a6e6b23fafa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mateo_va_simple_azul_0: 5320303205328907740
+      mateo_va_simple_azul_1: -7764399707927729277
+      mateo_va_simple_azul_10: 1870975286690178344
+      mateo_va_simple_azul_11: -2791892163982871730
+      mateo_va_simple_azul_12: -1172799682618300878
+      mateo_va_simple_azul_13: 4796419680000767880
+      mateo_va_simple_azul_14: -8162840864703484629
+      mateo_va_simple_azul_15: 3704203740946032772
+      mateo_va_simple_azul_16: -6726687669536448849
+      mateo_va_simple_azul_17: 1356814324384641107
+      mateo_va_simple_azul_18: 4446084163817078938
+      mateo_va_simple_azul_19: 2780800436412456287
+      mateo_va_simple_azul_2: -6147417760652640165
+      mateo_va_simple_azul_20: 8775305257772329267
+      mateo_va_simple_azul_21: 6557414878886049147
+      mateo_va_simple_azul_22: -8110955605325461567
+      mateo_va_simple_azul_23: 2305921298478407583
+      mateo_va_simple_azul_24: 9009165046837771052
+      mateo_va_simple_azul_25: 4787850083911961403
+      mateo_va_simple_azul_26: -4282983671805001415
+      mateo_va_simple_azul_27: 591941039417921283
+      mateo_va_simple_azul_28: -8989778697753320610
+      mateo_va_simple_azul_29: 6554475125545028944
+      mateo_va_simple_azul_3: -1112749836509042102
+      mateo_va_simple_azul_30: 1789419244293235232
+      mateo_va_simple_azul_31: 4361625485380778435
+      mateo_va_simple_azul_32: -6896550840195243349
+      mateo_va_simple_azul_33: 1867298912911253554
+      mateo_va_simple_azul_34: -3040524712576459250
+      mateo_va_simple_azul_35: 104497710480946486
+      mateo_va_simple_azul_36: 4316167820872817917
+      mateo_va_simple_azul_37: -5972935579120008982
+      mateo_va_simple_azul_38: 8214905398491031675
+      mateo_va_simple_azul_39: -6685986912441080964
+      mateo_va_simple_azul_4: -2558761996377112275
+      mateo_va_simple_azul_5: -4948102219518787210
+      mateo_va_simple_azul_6: 4336379757280109169
+      mateo_va_simple_azul_7: 5643519229899531786
+      mateo_va_simple_azul_8: -4359343094701244761
+      mateo_va_simple_azul_9: 5456874321640090178
+      mateo_va_simple_azul_c34: 1116296120
+      mateo_va_simple_azul_c35: -116746960
+      mateo_va_simple_azul_c36: -1917875685
+      mateo_va_simple_azul_c37: 1033902995
+      mateo_va_simple_azul_c38: -165510584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

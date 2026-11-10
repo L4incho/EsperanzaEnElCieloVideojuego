@@ -1,0 +1,1493 @@
+fileFormatVersion: 2
+guid: 927b9676deca88e469504529660add42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 796175851419152111
+    second: mateo_va_simple_0
+  - first:
+      213: -8355199753795210933
+    second: mateo_va_simple_1
+  - first:
+      213: -4252343583933926280
+    second: mateo_va_simple_2
+  - first:
+      213: 4601054050515239324
+    second: mateo_va_simple_3
+  - first:
+      213: -7583858031498128121
+    second: mateo_va_simple_4
+  - first:
+      213: 2807120036238609562
+    second: mateo_va_simple_5
+  - first:
+      213: 1046373677817787403
+    second: mateo_va_simple_6
+  - first:
+      213: 1233303649109329807
+    second: mateo_va_simple_7
+  - first:
+      213: -8841594874004341363
+    second: mateo_va_simple_8
+  - first:
+      213: -3684199375276704953
+    second: mateo_va_simple_9
+  - first:
+      213: -1446367446343261112
+    second: mateo_va_simple_10
+  - first:
+      213: 8257409448799328236
+    second: mateo_va_simple_11
+  - first:
+      213: -9152094066502911737
+    second: mateo_va_simple_12
+  - first:
+      213: 8134915425410935155
+    second: mateo_va_simple_13
+  - first:
+      213: 988897632246483091
+    second: mateo_va_simple_14
+  - first:
+      213: 8333422089904440498
+    second: mateo_va_simple_15
+  - first:
+      213: 611487397717436271
+    second: mateo_va_simple_16
+  - first:
+      213: 3078584464972003456
+    second: mateo_va_simple_17
+  - first:
+      213: 4253653707489318703
+    second: mateo_va_simple_18
+  - first:
+      213: 585873347655177773
+    second: mateo_va_simple_19
+  - first:
+      213: 525543621998188973
+    second: mateo_va_simple_20
+  - first:
+      213: -3066184680031232703
+    second: mateo_va_simple_21
+  - first:
+      213: 5285488071967049884
+    second: mateo_va_simple_22
+  - first:
+      213: -2425005420910742191
+    second: mateo_va_simple_23
+  - first:
+      213: 851923885750491497
+    second: mateo_va_simple_24
+  - first:
+      213: 988091257035538343
+    second: mateo_va_simple_25
+  - first:
+      213: -4125989095242696793
+    second: mateo_va_simple_26
+  - first:
+      213: -6067366049306969349
+    second: mateo_va_simple_27
+  - first:
+      213: -5274716028018090160
+    second: mateo_va_simple_28
+  - first:
+      213: -6966564186692255974
+    second: mateo_va_simple_29
+  - first:
+      213: -3289042078961006712
+    second: mateo_va_simple_30
+  - first:
+      213: -4888046744212869864
+    second: mateo_va_simple_31
+  - first:
+      213: 7653480400680320719
+    second: mateo_va_simple_32
+  - first:
+      213: -3331568262832213426
+    second: mateo_va_simple_33
+  - first:
+      213: -4392784906397587023
+    second: mateo_va_simple_34
+  - first:
+      213: -3263350759171298755
+    second: mateo_va_simple_35
+  - first:
+      213: 4018781428074321303
+    second: mateo_va_simple_36
+  - first:
+      213: 2234940195970309606
+    second: mateo_va_simple_37
+  - first:
+      213: -4328052485376943741
+    second: mateo_va_simple_38
+  - first:
+      213: -7658140871568231120
+    second: mateo_va_simple_39
+  - first:
+      213: 8686867530125467576
+    second: mateo_va_simple_40
+  - first:
+      213: 7519765951068340469
+    second: mateo_va_simple_41
+  - first:
+      213: -7626798461527317660
+    second: mateo_va_simple_42
+  - first:
+      213: -1423726703165722612
+    second: mateo_va_simple_43
+  - first:
+      213: 5708858049830749662
+    second: mateo_va_simple_44
+  - first:
+      213: -3665345191589435007
+    second: mateo_va_simple_45
+  - first:
+      213: 6445765885057800927
+    second: mateo_va_simple_46
+  - first:
+      213: -5483395939245888072
+    second: mateo_va_simple_47
+  - first:
+      213: -6226877852025036388
+    second: mateo_va_simple_48
+  - first:
+      213: 3993625444255316560
+    second: mateo_va_simple_49
+  - first:
+      213: 3811454084000856677
+    second: mateo_va_simple_50
+  - first:
+      213: -8876322245586361083
+    second: mateo_va_simple_51
+  - first:
+      213: 4712333296664306199
+    second: mateo_va_simple_52
+  - first:
+      213: 3174123456893609329
+    second: mateo_va_simple_53
+  - first:
+      213: -970421791780235763
+    second: mateo_va_simple_54
+  - first:
+      213: -5468064069593197309
+    second: mateo_va_simple_55
+  - first:
+      213: -8905866759411975974
+    second: mateo_va_simple_56
+  - first:
+      213: 7998029469306036529
+    second: mateo_va_simple_57
+  - first:
+      213: -2752637212056955832
+    second: mateo_va_simple_58
+  - first:
+      213: 8512897268770054703
+    second: mateo_va_simple_59
+  - first:
+      213: 157928438592369974
+    second: mateo_va_simple_60
+  - first:
+      213: 2329337347536669116
+    second: mateo_va_simple_61
+  - first:
+      213: 3905692699160852532
+    second: mateo_va_simple_62
+  - first:
+      213: -3298777366888337959
+    second: mateo_va_simple_63
+  - first:
+      213: 6304786943272011206
+    second: mateo_va_simple_64
+  - first:
+      213: -3659450109401856546
+    second: mateo_va_simple_65
+  - first:
+      213: 6038581653988951077
+    second: mateo_va_simple_66
+  - first:
+      213: -5589573560411120447
+    second: mateo_va_simple_67
+  - first:
+      213: 6779013932442540967
+    second: mateo_va_simple_68
+  - first:
+      213: -4119204368564486239
+    second: mateo_va_simple_69
+  - first:
+      213: -6711393218758755354
+    second: mateo_va_simple_70
+  - first:
+      213: -6458327706347857091
+    second: mateo_va_simple_71
+  - first:
+      213: 5765029600752238496
+    second: mateo_va_simple_72
+  - first:
+      213: 1563384665331340859
+    second: mateo_va_simple_73
+  - first:
+      213: 4712608931540678514
+    second: mateo_va_simple_74
+  - first:
+      213: -8969425382416991784
+    second: mateo_va_simple_75
+  - first:
+      213: 7516701081631336939
+    second: mateo_va_simple_76
+  - first:
+      213: 652903783784793444
+    second: mateo_va_simple_77
+  - first:
+      213: 8307462437522900216
+    second: mateo_va_simple_78
+  - first:
+      213: 1008402155429203252
+    second: mateo_va_simple_79
+  - first:
+      213: -636841773101548436
+    second: mateo_va_simple_80
+  - first:
+      213: 5427478596425455393
+    second: mateo_va_simple_81
+  - first:
+      213: -3661914279479777510
+    second: mateo_va_simple_82
+  - first:
+      213: -8463329983171112292
+    second: mateo_va_simple_83
+  - first:
+      213: 5044576109325391681
+    second: mateo_va_simple_84
+  - first:
+      213: 1772569979303468890
+    second: mateo_va_simple_85
+  - first:
+      213: 8973237254178711885
+    second: mateo_va_simple_86
+  - first:
+      213: -5175480883332119597
+    second: mateo_va_simple_87
+  - first:
+      213: -1650479599804007415
+    second: mateo_va_simple_88
+  - first:
+      213: 3978980403167174298
+    second: mateo_va_simple_89
+  - first:
+      213: 4357163101738610405
+    second: mateo_va_simple_90
+  - first:
+      213: -5796425730990834406
+    second: mateo_va_simple_91
+  - first:
+      213: 8979543869756850406
+    second: mateo_va_simple_92
+  - first:
+      213: -2615922941541318539
+    second: mateo_va_simple_93
+  - first:
+      213: 7810059838959755401
+    second: mateo_va_simple_94
+  - first:
+      213: 114699733473113532
+    second: mateo_va_simple_95
+  - first:
+      213: -8290010573538666963
+    second: mateo_va_simple_96
+  - first:
+      213: -1485145357527383306
+    second: mateo_va_simple_97
+  - first:
+      213: -2688295735451695534
+    second: mateo_va_simple_98
+  - first:
+      213: 276938195968907565
+    second: mateo_va_simple_99
+  - first:
+      213: 4817757126975671874
+    second: mateo_va_simple_100
+  - first:
+      213: -3361475771837324846
+    second: mateo_va_simple_101
+  - first:
+      213: -2406493418077757520
+    second: mateo_va_simple_102
+  - first:
+      213: 3808927950111044012
+    second: mateo_va_simple_103
+  - first:
+      213: -8840423652057743912
+    second: mateo_va_simple_104
+  - first:
+      213: -838938098184002859
+    second: mateo_va_simple_105
+  - first:
+      213: 5051838974888702762
+    second: mateo_va_simple_106
+  - first:
+      213: 185309793950415847
+    second: mateo_va_simple_107
+  - first:
+      213: 8244144181595719399
+    second: mateo_va_simple_108
+  - first:
+      213: -3753111561685153688
+    second: mateo_va_simple_109
+  - first:
+      213: 6050715527033790235
+    second: mateo_va_simple_110
+  - first:
+      213: 5051189312678436416
+    second: mateo_va_simple_111
+  - first:
+      213: 7356127179808108290
+    second: mateo_va_simple_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mateo_va_simple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee2592f7b59c0b00800000000000000
+      internalID: 796175851419152111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41fa97771e5c0c80800000000000000
+      internalID: -8355199753795210933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f4b05a04acf4c0800000000000000
+      internalID: -4252343583933926280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c914551184a3adf30800000000000000
+      internalID: 4601054050515239324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7059f852d49b0c690800000000000000
+      internalID: -7583858031498128121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c42e9dcc4e4f620800000000000000
+      internalID: 2807120036238609562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f5a8e057758e00800000000000000
+      internalID: 1046373677817787403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 820
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ca5172239d1110800000000000000
+      internalID: 1233303649109329807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 629
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7e0f8e485c4580800000000000000
+      internalID: -8841594874004341363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7aea10381fdcc0800000000000000
+      internalID: -3684199375276704953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844650288787debe0800000000000000
+      internalID: -1446367446343261112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce753a0e426389270800000000000000
+      internalID: 8257409448799328236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093227bfea3df080800000000000000
+      internalID: -9152094066502911737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e6719a7605e070800000000000000
+      internalID: 8134915425410935155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398c649382549bd00800000000000000
+      internalID: 988897632246483091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 616
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4c5280d3346a370800000000000000
+      internalID: 8333422089904440498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6763956c807c7800800000000000000
+      internalID: 611487397717436271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 425
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08831b5824459ba20800000000000000
+      internalID: 3078584464972003456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 422
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279c689283080b30800000000000000
+      internalID: 4253653707489318703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261b52a4b0712800800000000000000
+      internalID: 585873347655177773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 427
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da99c27c32b1b4700800000000000000
+      internalID: 525543621998188973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 415
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5ef26749b275d0800000000000000
+      internalID: -3066184680031232703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 417
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c980922d563d95940800000000000000
+      internalID: 5285488071967049884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 412
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f73cfa66a85ed0800000000000000
+      internalID: -2425005420910742191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96914d9a244a2db00800000000000000
+      internalID: 851923885750491497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb54d53c766bd00800000000000000
+      internalID: 988091257035538343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a77cee37ca8db6c0800000000000000
+      internalID: -4125989095242696793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfafac479b26ccba0800000000000000
+      internalID: -6067366049306969349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 221
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1cea18b17cc6b0800000000000000
+      internalID: -5274716028018090160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 216
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fff3b58cac15f90800000000000000
+      internalID: -6966564186692255974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 218
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878730c7a9fa52d0800000000000000
+      internalID: -3289042078961006712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 223
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81defa5526b2a2cb0800000000000000
+      internalID: -4888046744212869864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef6f1efdf963a60800000000000000
+      internalID: 7653480400680320719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42bbecf054e3c1d0800000000000000
+      internalID: -3331568262832213426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9697fc661b903c0800000000000000
+      internalID: -4392784906397587023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae71646cf36b2d0800000000000000
+      internalID: -3263350759171298755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959e4a9a6495c730800000000000000
+      internalID: 4018781428074321303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5d0b544a140f10800000000000000
+      internalID: 2234940195970309606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3895cdf023bafe3c0800000000000000
+      internalID: -4328052485376943741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035764ea371d8b590800000000000000
+      internalID: -7658140871568231120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_c34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57843137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80216f633a2bcb04cb5b0e160387c89d
+      internalID: 125107933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_c35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6519608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4283fb0a92eb0a49835fbc84c0db1fb
+      internalID: 1120328030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_c36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91a398f145549146a65110d57494906
+      internalID: -751839266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_c37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426ea048b1a4524fb4a1a783da7e248
+      internalID: -925523580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mateo_va_simple_c38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4
+        width: 192
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6127451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2946cd791ba6b4c9d14738c7ac67a5
+      internalID: 972305698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44e20b9b75adc7a4495efad54837c280
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":5.0},"gridSpriteSize":{"x":192.0,"y":204.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mateo_va_simple_0: 796175851419152111
+      mateo_va_simple_1: -8355199753795210933
+      mateo_va_simple_10: -1446367446343261112
+      mateo_va_simple_11: 8257409448799328236
+      mateo_va_simple_12: -9152094066502911737
+      mateo_va_simple_13: 8134915425410935155
+      mateo_va_simple_14: 988897632246483091
+      mateo_va_simple_15: 8333422089904440498
+      mateo_va_simple_16: 611487397717436271
+      mateo_va_simple_17: 3078584464972003456
+      mateo_va_simple_18: 4253653707489318703
+      mateo_va_simple_19: 585873347655177773
+      mateo_va_simple_2: -4252343583933926280
+      mateo_va_simple_20: 525543621998188973
+      mateo_va_simple_21: -3066184680031232703
+      mateo_va_simple_22: 5285488071967049884
+      mateo_va_simple_23: -2425005420910742191
+      mateo_va_simple_24: 851923885750491497
+      mateo_va_simple_25: 988091257035538343
+      mateo_va_simple_26: -4125989095242696793
+      mateo_va_simple_27: -6067366049306969349
+      mateo_va_simple_28: -5274716028018090160
+      mateo_va_simple_29: -6966564186692255974
+      mateo_va_simple_3: 4601054050515239324
+      mateo_va_simple_30: -3289042078961006712
+      mateo_va_simple_31: -4888046744212869864
+      mateo_va_simple_32: 7653480400680320719
+      mateo_va_simple_33: -3331568262832213426
+      mateo_va_simple_34: -4392784906397587023
+      mateo_va_simple_35: -3263350759171298755
+      mateo_va_simple_36: 4018781428074321303
+      mateo_va_simple_37: 2234940195970309606
+      mateo_va_simple_38: -4328052485376943741
+      mateo_va_simple_39: -7658140871568231120
+      mateo_va_simple_4: -7583858031498128121
+      mateo_va_simple_5: 2807120036238609562
+      mateo_va_simple_6: 1046373677817787403
+      mateo_va_simple_7: 1233303649109329807
+      mateo_va_simple_8: -8841594874004341363
+      mateo_va_simple_9: -3684199375276704953
+      mateo_va_simple_c34: 125107933
+      mateo_va_simple_c35: 1120328030
+      mateo_va_simple_c36: -751839266
+      mateo_va_simple_c37: -925523580
+      mateo_va_simple_c38: 972305698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: dc93b61874cbb6c4286f145e464a3ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7572796952420686217
+    second: retrato_v_verde_0
+  - first:
+      213: 1929708163237469629
+    second: retrato_v_verde_1
+  - first:
+      213: -5167055676620316969
+    second: retrato_v_verde_2
+  - first:
+      213: 5591639882035613101
+    second: retrato_v_verde_3
+  - first:
+      213: 6867708888216457513
+    second: retrato_v_verde_4
+  - first:
+      213: 5151308408980875389
+    second: retrato_v_verde_5
+  - first:
+      213: 8100643511746255996
+    second: retrato_v_verde_6
+  - first:
+      213: 7174834184121321505
+    second: retrato_v_verde_7
+  - first:
+      213: 547051828005952032
+    second: retrato_v_verde_8
+  - first:
+      213: 807598797606421280
+    second: retrato_v_verde_9
+  - first:
+      213: 6369330376380571398
+    second: retrato_v_verde_10
+  - first:
+      213: -1507435615531120677
+    second: retrato_v_verde_11
+  - first:
+      213: -8919178308367701510
+    second: retrato_v_verde_12
+  - first:
+      213: -2920420081877487279
+    second: retrato_v_verde_13
+  - first:
+      213: -437837364353629638
+    second: retrato_v_verde_14
+  - first:
+      213: 9129905203509067282
+    second: retrato_v_verde_15
+  - first:
+      213: 7042597700924582515
+    second: retrato_v_verde_16
+  - first:
+      213: 1672165033142455937
+    second: retrato_v_verde_17
+  - first:
+      213: 646880323478930788
+    second: retrato_v_verde_18
+  - first:
+      213: -4551828090594449200
+    second: retrato_v_verde_19
+  - first:
+      213: 6798924138504793172
+    second: retrato_v_verde_20
+  - first:
+      213: -5462292501921068619
+    second: retrato_v_verde_21
+  - first:
+      213: 9096248647045311169
+    second: retrato_v_verde_22
+  - first:
+      213: -2520515180541521992
+    second: retrato_v_verde_23
+  - first:
+      213: -757463523225147852
+    second: retrato_v_verde_24
+  - first:
+      213: -7698273130531266797
+    second: retrato_v_verde_25
+  - first:
+      213: 1181180996631469852
+    second: retrato_v_verde_26
+  - first:
+      213: -2508018879296134847
+    second: retrato_v_verde_27
+  - first:
+      213: -3499856840832147602
+    second: retrato_v_verde_28
+  - first:
+      213: -4161482203022397439
+    second: retrato_v_verde_29
+  - first:
+      213: -6965194723391403964
+    second: retrato_v_verde_30
+  - first:
+      213: 3753373774830537385
+    second: retrato_v_verde_31
+  - first:
+      213: -4891956779077474748
+    second: retrato_v_verde_32
+  - first:
+      213: -850694408999232106
+    second: retrato_v_verde_33
+  - first:
+      213: -5334101195201300759
+    second: retrato_v_verde_34
+  - first:
+      213: -6144050494857005
+    second: retrato_v_verde_35
+  - first:
+      213: -2370169943919903564
+    second: retrato_v_verde_36
+  - first:
+      213: 1336921354396750865
+    second: retrato_v_verde_37
+  - first:
+      213: 7608257422361771821
+    second: retrato_v_verde_38
+  - first:
+      213: 1003029841731638059
+    second: retrato_v_verde_39
+  - first:
+      213: -2234327240593196646
+    second: retrato_v_verde_40
+  - first:
+      213: -3064079153392967534
+    second: retrato_v_verde_41
+  - first:
+      213: -976539375572369674
+    second: retrato_v_verde_42
+  - first:
+      213: 2313441707501716934
+    second: retrato_v_verde_43
+  - first:
+      213: -1124716473130849507
+    second: retrato_v_verde_44
+  - first:
+      213: 8064795814289579842
+    second: retrato_v_verde_45
+  - first:
+      213: -2940858269600664543
+    second: retrato_v_verde_46
+  - first:
+      213: 6473189723672887921
+    second: retrato_v_verde_47
+  - first:
+      213: -4456452403598006583
+    second: retrato_v_verde_48
+  - first:
+      213: -2193965726660299549
+    second: retrato_v_verde_49
+  - first:
+      213: -1792607609491877043
+    second: retrato_v_verde_50
+  - first:
+      213: 7877277604967019949
+    second: retrato_v_verde_51
+  - first:
+      213: 9105915998978303036
+    second: retrato_v_verde_52
+  - first:
+      213: -8898710211650504233
+    second: retrato_v_verde_53
+  - first:
+      213: 7313343175070225004
+    second: retrato_v_verde_54
+  - first:
+      213: 5014101905247770334
+    second: retrato_v_verde_55
+  - first:
+      213: -6834930398796558571
+    second: retrato_v_verde_56
+  - first:
+      213: 8438679637073213902
+    second: retrato_v_verde_57
+  - first:
+      213: -4154960386783549542
+    second: retrato_v_verde_58
+  - first:
+      213: 8866324896334892295
+    second: retrato_v_verde_59
+  - first:
+      213: 412066052145832780
+    second: retrato_v_verde_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retrato_v_verde_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 660
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9891231b4baf71960800000000000000
+      internalID: 7572796952420686217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 666
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd0f5b953b7ca10800000000000000
+      internalID: 1929708163237469629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 668
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de51640d3eea48b0800000000000000
+      internalID: -5167055676620316969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 661
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc3a0d8de799d40800000000000000
+      internalID: 5591639882035613101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 710
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215feed8d00f4f50800000000000000
+      internalID: 6867708888216457513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 668
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78a9c584bf1d7740800000000000000
+      internalID: 5151308408980875389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 690
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c55b9da544b6070800000000000000
+      internalID: 8100643511746255996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 672
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12881e23da1229360800000000000000
+      internalID: 7174834184121321505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 666
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad50a3db4879700800000000000000
+      internalID: 547051828005952032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 706
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230d5cd3da253b00800000000000000
+      internalID: 807598797606421280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 692
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd44d2b38646850800000000000000
+      internalID: 6369330376380571398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 692
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ce7e5b43841be0800000000000000
+      internalID: -1507435615531120677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 620
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9af599596b83480800000000000000
+      internalID: -8919178308367701510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 672
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15176c898659877d0800000000000000
+      internalID: -2920420081877487279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 694
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a320f44ac3d7ce9f0800000000000000
+      internalID: -437837364353629638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 692
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ef5280960f3be70800000000000000
+      internalID: 9129905203509067282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 619
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa793bb455cb160800000000000000
+      internalID: 7042597700924582515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 691
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0946fc39b43710800000000000000
+      internalID: 1672165033142455937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 680
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c6251a3e2af800800000000000000
+      internalID: 646880323478930788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 708
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8297dd778a4d0c0800000000000000
+      internalID: -4551828090594449200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 692
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c28625b71aa5e50800000000000000
+      internalID: 6798924138504793172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_21
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 690
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b907b3f8e90234b0800000000000000
+      internalID: -5462292501921068619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_22
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 659
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca63c353fd5c3e70800000000000000
+      internalID: 9096248647045311169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_23
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 668
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc7dc2cc4550dd0800000000000000
+      internalID: -2520515180541521992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_24
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 676
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43669d750f2fc75f0800000000000000
+      internalID: -757463523225147852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_25
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 690
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdfbeff5d3a2590800000000000000
+      internalID: -7698273130531266797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_26
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 676
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f19a7bbd5646010800000000000000
+      internalID: 1181180996631469852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_27
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a4990e1ab13dd0800000000000000
+      internalID: -2508018879296134847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_28
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 670
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f9a7d0fb20e6fc0800000000000000
+      internalID: -3499856840832147602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_29
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 690
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007dbd1cf17f36c0800000000000000
+      internalID: -4161482203022397439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_30
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 661
+        width: 117
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44884d06d48a65f90800000000000000
+      internalID: -6965194723391403964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 668
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa8a0edf89a61430800000000000000
+      internalID: 3753373774830537385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_32
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 678
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446e5866a374c1cb0800000000000000
+      internalID: -4891956779077474748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_33
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 677
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d903331f9b134f0800000000000000
+      internalID: -850694408999232106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_34
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 692
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63a08693779f5b0800000000000000
+      internalID: -5334101195201300759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_35
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 655
+        width: 160
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a5c4c40c2aeff0800000000000000
+      internalID: -6144050494857005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_36
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 668
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcb8536ef67b1fd0800000000000000
+      internalID: -2370169943919903564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_37
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 668
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d37573e2bd8210800000000000000
+      internalID: 1336921354396750865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_38
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 678
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3a9bb0d5f59960800000000000000
+      internalID: 7608257422361771821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_39
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 680
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d787a35a7bed00800000000000000
+      internalID: 1003029841731638059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 672
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b67076331ef0e0800000000000000
+      internalID: -2234327240593196646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_41
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 676
+        width: 115
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29025528e343a75d0800000000000000
+      internalID: -3064079153392967534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_42
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 686
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb3d1ac92a272f0800000000000000
+      internalID: -976539375572369674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_43
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 679
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c58630d9fefa1020800000000000000
+      internalID: 2313441707501716934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_44
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 676
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6102a3543460f0800000000000000
+      internalID: -1124716473130849507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_45
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 709
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f99c06019ebef60800000000000000
+      internalID: 8064795814289579842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_46
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 676
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124bea13cf8ff27d0800000000000000
+      internalID: -2940858269600664543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_47
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 692
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724b3bd1c365d950800000000000000
+      internalID: 6473189723672887921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_48
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 692
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6ea1576208722c0800000000000000
+      internalID: -4456452403598006583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_49
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 687
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f705bbc77d81e0800000000000000
+      internalID: -2193965726660299549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_50
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 661
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43139670e06f17e0800000000000000
+      internalID: -1792607609491877043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_51
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 678
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5f2310f36b15d60800000000000000
+      internalID: 7877277604967019949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_52
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 657
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e5a91b56be5e70800000000000000
+      internalID: 9105915998978303036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_53
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 659
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d93e6bb53e618480800000000000000
+      internalID: -8898710211650504233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_54
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 661
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c629696bed63e7560800000000000000
+      internalID: 7313343175070225004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 2071
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed617e1fd1ba59540800000000000000
+      internalID: 5014101905247770334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f463be3037521a0800000000000000
+      internalID: -6834930398796558571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9321d7b663c1570800000000000000
+      internalID: 8438679637073213902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_58
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 49
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9762f9ca8d9656c0800000000000000
+      internalID: -4154960386783549542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_59
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 144
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4e3574838b0b70800000000000000
+      internalID: 8866324896334892295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrato_v_verde_60
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 63
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43662624e3f7b500800000000000000
+      internalID: 412066052145832780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retrato_v_verde_0: 7572796952420686217
+      retrato_v_verde_1: 1929708163237469629
+      retrato_v_verde_10: 6369330376380571398
+      retrato_v_verde_11: -1507435615531120677
+      retrato_v_verde_12: -8919178308367701510
+      retrato_v_verde_13: -2920420081877487279
+      retrato_v_verde_14: -437837364353629638
+      retrato_v_verde_15: 9129905203509067282
+      retrato_v_verde_16: 7042597700924582515
+      retrato_v_verde_17: 1672165033142455937
+      retrato_v_verde_18: 646880323478930788
+      retrato_v_verde_19: -4551828090594449200
+      retrato_v_verde_2: -5167055676620316969
+      retrato_v_verde_20: 6798924138504793172
+      retrato_v_verde_21: -5462292501921068619
+      retrato_v_verde_22: 9096248647045311169
+      retrato_v_verde_23: -2520515180541521992
+      retrato_v_verde_24: -757463523225147852
+      retrato_v_verde_25: -7698273130531266797
+      retrato_v_verde_26: 1181180996631469852
+      retrato_v_verde_27: -2508018879296134847
+      retrato_v_verde_28: -3499856840832147602
+      retrato_v_verde_29: -4161482203022397439
+      retrato_v_verde_3: 5591639882035613101
+      retrato_v_verde_30: -6965194723391403964
+      retrato_v_verde_31: 3753373774830537385
+      retrato_v_verde_32: -4891956779077474748
+      retrato_v_verde_33: -850694408999232106
+      retrato_v_verde_34: -5334101195201300759
+      retrato_v_verde_35: -6144050494857005
+      retrato_v_verde_36: -2370169943919903564
+      retrato_v_verde_37: 1336921354396750865
+      retrato_v_verde_38: 7608257422361771821
+      retrato_v_verde_39: 1003029841731638059
+      retrato_v_verde_4: 6867708888216457513
+      retrato_v_verde_40: -2234327240593196646
+      retrato_v_verde_41: -3064079153392967534
+      retrato_v_verde_42: -976539375572369674
+      retrato_v_verde_43: 2313441707501716934
+      retrato_v_verde_44: -1124716473130849507
+      retrato_v_verde_45: 8064795814289579842
+      retrato_v_verde_46: -2940858269600664543
+      retrato_v_verde_47: 6473189723672887921
+      retrato_v_verde_48: -4456452403598006583
+      retrato_v_verde_49: -2193965726660299549
+      retrato_v_verde_5: 5151308408980875389
+      retrato_v_verde_50: -1792607609491877043
+      retrato_v_verde_51: 7877277604967019949
+      retrato_v_verde_52: 9105915998978303036
+      retrato_v_verde_53: -8898710211650504233
+      retrato_v_verde_54: 7313343175070225004
+      retrato_v_verde_55: 5014101905247770334
+      retrato_v_verde_56: -6834930398796558571
+      retrato_v_verde_57: 8438679637073213902
+      retrato_v_verde_58: -4154960386783549542
+      retrato_v_verde_59: 8866324896334892295
+      retrato_v_verde_6: 8100643511746255996
+      retrato_v_verde_60: 412066052145832780
+      retrato_v_verde_7: 7174834184121321505
+      retrato_v_verde_8: 547051828005952032
+      retrato_v_verde_9: 807598797606421280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

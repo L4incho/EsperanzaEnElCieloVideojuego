@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8885068247474753244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1697503435565567295}
+  - component: {fileID: 788810082908956219}
+  m_Layer: 0
+  m_Name: EfectoImpulso
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1697503435565567295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8885068247474753244}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &788810082908956219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8885068247474753244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73af8a4a1c3305247a4cf8d1d55007a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EfectoGema
+  modo: 0
+  paletas:
+  - nombre: verde
+    referencia: {r: 0.25, g: 1, b: 0.45, a: 1}
+    chispas:
+    - {fileID: 21300000, guid: e3e9664c43f32814a8fb1060184643ed, type: 3}
+    - {fileID: 21300000, guid: f754eaf2c318070419a604e6b06abc3d, type: 3}
+    - {fileID: 21300000, guid: 05ba44bdb5cf7374b883b2c15e4a1e87, type: 3}
+    - {fileID: 21300000, guid: 8508731d2bf78cc4ab93cd75efaf8d8f, type: 3}
+    - {fileID: 21300000, guid: 80f7e331375139b42bc766595b4584f4, type: 3}
+    - {fileID: 21300000, guid: 268992111c19ca84287ce4a200d2ce2a, type: 3}
+    - {fileID: 21300000, guid: eb6ea9e0c95129e488c2b8abf9e79c0b, type: 3}
+    - {fileID: 21300000, guid: 120cf3c2cff02c24986482b7df8d35fc, type: 3}
+    estallido:
+    - {fileID: 21300000, guid: 6ba4771d389f3de47848bbb6ef434736, type: 3}
+    - {fileID: 21300000, guid: b6f74c0a190a1e5499c5e8e0053fd722, type: 3}
+    - {fileID: 21300000, guid: a2a251d22f6a21c4da30fff7c1a67d07, type: 3}
+    - {fileID: 21300000, guid: fec702d8307e6a14aa634d32921ba6ba, type: 3}
+    - {fileID: 21300000, guid: 0b7b53f8c40a34c4e967964a84b6426f, type: 3}
+    - {fileID: 21300000, guid: d2f9a05f1e3e1ad438ec87cdd8bfa41e, type: 3}
+    - {fileID: 21300000, guid: 00924256dc7812248b68d39380da85ee, type: 3}
+    - {fileID: 21300000, guid: cc758fe9b7c3b4741bcfb29229f69337, type: 3}
+  - nombre: azul
+    referencia: {r: 0.2, g: 0.5, b: 1, a: 1}
+    chispas:
+    - {fileID: 21300000, guid: b8026306c37b9774cbffc826f04c601d, type: 3}
+    - {fileID: 21300000, guid: 299f47f819d40d540a611ca02d234cf3, type: 3}
+    - {fileID: 21300000, guid: d978bfe1cd7b43d4db49712ec7df60b8, type: 3}
+    - {fileID: 21300000, guid: 5d1b00fefee422c4a928794854ff6de0, type: 3}
+    - {fileID: 21300000, guid: efa46f66c9bb02c41acdc6243dbeff04, type: 3}
+    - {fileID: 21300000, guid: ace7d5d452d3c114b9d237459a41a698, type: 3}
+    - {fileID: 21300000, guid: 95bce52b3bbb46f498f66a3960b3fa1f, type: 3}
+    - {fileID: 21300000, guid: b8d3e759b6cbd634ea5241c5680201d7, type: 3}
+    estallido:
+    - {fileID: 21300000, guid: 7a5b568fa02e91848b4ebd6c2340d521, type: 3}
+    - {fileID: 21300000, guid: f727e116c5d85994e9774d1bfa71b0df, type: 3}
+    - {fileID: 21300000, guid: 3c4f45685e9edf842ac53a674f943806, type: 3}
+    - {fileID: 21300000, guid: 9da453971483eb142851872ec8fff1f1, type: 3}
+    - {fileID: 21300000, guid: eef7b22c2d73a3e4e9672a4264848ed9, type: 3}
+    - {fileID: 21300000, guid: 227760de7cd43c7449a52da020e8722f, type: 3}
+    - {fileID: 21300000, guid: 12ab79c274ac9474f84baee209732d3e, type: 3}
+    - {fileID: 21300000, guid: 6cd417234e5b5444cad33f82c71127b3, type: 3}
+  - nombre: roja
+    referencia: {r: 1, g: 0.3, b: 0.3, a: 1}
+    chispas:
+    - {fileID: 21300000, guid: 0a4558a0f627722428afc49a37e36e7a, type: 3}
+    - {fileID: 21300000, guid: b8bc34862122c6641917649468e52cb6, type: 3}
+    - {fileID: 21300000, guid: 67f56b8e27cbcf142b3d5b7dfefda608, type: 3}
+    - {fileID: 21300000, guid: 28fade615c8641d4c818715704c58521, type: 3}
+    - {fileID: 21300000, guid: f30331871315c3b4e85005289332b01b, type: 3}
+    - {fileID: 21300000, guid: 38d85198f89019a4ca328f10fa9cc77a, type: 3}
+    - {fileID: 21300000, guid: 6b2ca6ea15d50b5459b7d6dd76b2a968, type: 3}
+    - {fileID: 21300000, guid: ab03d545fdc7ea64fa3b8f9757a49c4e, type: 3}
+    estallido:
+    - {fileID: 21300000, guid: f5cb863986484b045a3c496a64a33266, type: 3}
+    - {fileID: 21300000, guid: f942dde67b125e442a5684d5bde12626, type: 3}
+    - {fileID: 21300000, guid: 17c3f793bd5dfb54d947ba308e5551a2, type: 3}
+    - {fileID: 21300000, guid: 6830deabdffbbbb4b9a64b7682ad938a, type: 3}
+    - {fileID: 21300000, guid: c406c7479501fdb46a946c0d2431ee95, type: 3}
+    - {fileID: 21300000, guid: c5ec631560176e6429027725e0f4d7d6, type: 3}
+    - {fileID: 21300000, guid: 0f5d6552818cc7a42ab8feeb0d62fd70, type: 3}
+    - {fileID: 21300000, guid: ecf510232951f2e41b1d164846d10945, type: 3}
+  fps: 16
+  destruirDespues: 0
+  ordenDibujo: 20
+  escalaEstallido: 4
+  escalaChispa: 4
+  chispasAlInicio: 24
+  chispasPorSegundo: 80
+  duracionEmision: 0.3
+  centroCuerpo: 0.85
+  vidaChispa: {x: 0.35, y: 0.7}

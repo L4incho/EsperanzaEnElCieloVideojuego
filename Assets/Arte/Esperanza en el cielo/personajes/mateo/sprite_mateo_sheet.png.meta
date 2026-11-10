@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: a154e30bdee45a948b4bf02f285d7f5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5401394346423525814
+    second: sprite_mateo_sheet_0
+  - first:
+      213: -1066869576046749687
+    second: sprite_mateo_sheet_1
+  - first:
+      213: -4239501202517060769
+    second: sprite_mateo_sheet_2
+  - first:
+      213: -2790031561023635363
+    second: sprite_mateo_sheet_3
+  - first:
+      213: 428932672926556229
+    second: sprite_mateo_sheet_4
+  - first:
+      213: -8519477895204635802
+    second: sprite_mateo_sheet_5
+  - first:
+      213: -5700125364879755409
+    second: sprite_mateo_sheet_6
+  - first:
+      213: 3649258270093210561
+    second: sprite_mateo_sheet_7
+  - first:
+      213: -7882956725603902098
+    second: sprite_mateo_sheet_8
+  - first:
+      213: -5536611901555646754
+    second: sprite_mateo_sheet_9
+  - first:
+      213: 156571655686120671
+    second: sprite_mateo_sheet_10
+  - first:
+      213: -5250654097160177703
+    second: sprite_mateo_sheet_11
+  - first:
+      213: 9145352989980826853
+    second: sprite_mateo_sheet_12
+  - first:
+      213: 6678002371182783914
+    second: sprite_mateo_sheet_13
+  - first:
+      213: 5754786854975089485
+    second: sprite_mateo_sheet_14
+  - first:
+      213: 6067952472313772214
+    second: sprite_mateo_sheet_15
+  - first:
+      213: -211079509396141434
+    second: sprite_mateo_sheet_16
+  - first:
+      213: -296321580305084292
+    second: sprite_mateo_sheet_17
+  - first:
+      213: -3799265368161611441
+    second: sprite_mateo_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 201
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a06e4a8b95fa40800000000000000
+      internalID: 5401394346423525814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908df0ae5c7b131f0800000000000000
+      internalID: -1066869576046749687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 205
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53112f3e144a25c0800000000000000
+      internalID: -4239501202517060769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 201
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ce05d311d749d0800000000000000
+      internalID: -2790031561023635363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 201
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540a8525effd3f500800000000000000
+      internalID: 428932672926556229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 201
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bf8801efbb4c980800000000000000
+      internalID: -8519477895204635802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 201
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67f5236e2615e0b0800000000000000
+      internalID: -5700125364879755409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 201
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ff82ef05c4a230800000000000000
+      internalID: 3649258270093210561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 105
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5a9eaf9c1a9290800000000000000
+      internalID: -7882956725603902098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede539c4fc00a23b0800000000000000
+      internalID: -5536611901555646754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e01f57114c2200800000000000000
+      internalID: 156571655686120671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 105
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d77154faede127b0800000000000000
+      internalID: -5250654097160177703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1d591712daee70800000000000000
+      internalID: 9145352989980826853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 105
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade09766c70dac50800000000000000
+      internalID: 6678002371182783914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 105
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba0e8872c1ddf40800000000000000
+      internalID: 5754786854975089485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 105
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8373acf92b53450800000000000000
+      internalID: 6067952472313772214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a4417fd48121df0800000000000000
+      internalID: -211079509396141434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7012aab71143ebf0800000000000000
+      internalID: -296321580305084292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 7
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41984be64c464bc0800000000000000
+      internalID: -3799265368161611441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_mateo_sheet_0: 5401394346423525814
+      sprite_mateo_sheet_1: -1066869576046749687
+      sprite_mateo_sheet_10: 156571655686120671
+      sprite_mateo_sheet_11: -5250654097160177703
+      sprite_mateo_sheet_12: 9145352989980826853
+      sprite_mateo_sheet_13: 6678002371182783914
+      sprite_mateo_sheet_14: 5754786854975089485
+      sprite_mateo_sheet_15: 6067952472313772214
+      sprite_mateo_sheet_16: -211079509396141434
+      sprite_mateo_sheet_17: -296321580305084292
+      sprite_mateo_sheet_18: -3799265368161611441
+      sprite_mateo_sheet_2: -4239501202517060769
+      sprite_mateo_sheet_3: -2790031561023635363
+      sprite_mateo_sheet_4: 428932672926556229
+      sprite_mateo_sheet_5: -8519477895204635802
+      sprite_mateo_sheet_6: -5700125364879755409
+      sprite_mateo_sheet_7: 3649258270093210561
+      sprite_mateo_sheet_8: -7882956725603902098
+      sprite_mateo_sheet_9: -5536611901555646754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

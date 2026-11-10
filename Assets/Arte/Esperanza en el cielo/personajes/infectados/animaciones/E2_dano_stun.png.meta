@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: bedaba439e1a0434b89b215e1fa0d896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7312635150640926939
+    second: E2_dano_stun_0
+  - first:
+      213: -2059185553352719160
+    second: E2_dano_stun_1
+  - first:
+      213: 5618596457081255499
+    second: E2_dano_stun_2
+  - first:
+      213: 6363192553905907372
+    second: E2_dano_stun_3
+  - first:
+      213: -7816930271657029390
+    second: E2_dano_stun_4
+  - first:
+      213: -7988968281003180836
+    second: E2_dano_stun_5
+  - first:
+      213: 1944344983461281761
+    second: E2_dano_stun_6
+  - first:
+      213: -650301163753435607
+    second: E2_dano_stun_7
+  - first:
+      213: -8403215453023446941
+    second: E2_dano_stun_8
+  - first:
+      213: -2804854023444182540
+    second: E2_dano_stun_9
+  - first:
+      213: -1409427619305960761
+    second: E2_dano_stun_10
+  - first:
+      213: -1606447544148550674
+    second: E2_dano_stun_11
+  - first:
+      213: -4796047396556441469
+    second: E2_dano_stun_12
+  - first:
+      213: -236293739029127460
+    second: E2_dano_stun_13
+  - first:
+      213: 8130865652572206130
+    second: E2_dano_stun_14
+  - first:
+      213: 165096081890431032
+    second: E2_dano_stun_15
+  - first:
+      213: 5987892986912178235
+    second: E2_dano_stun_16
+  - first:
+      213: 1627368489886252082
+    second: E2_dano_stun_17
+  - first:
+      213: -3376428350125425329
+    second: E2_dano_stun_18
+  - first:
+      213: 3160531198191833965
+    second: E2_dano_stun_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E2_dano_stun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee223a304d8aa4e4786446c20ea082c8
+      internalID: 7312635150640926939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f8768e75c44a04791687e649ca16b7
+      internalID: -2059185553352719160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233e2d977e91494788d7b5b8b79a137
+      internalID: 5618596457081255499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef2ef04d48ea940bd9e68a7ef06d55
+      internalID: 6363192553905907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573eb19e04b617c47866e82bf51feabd
+      internalID: -7816930271657029390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd5b26044ba6d418f4c867dc0b2791
+      internalID: -7988968281003180836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0d4aefab9eb64b82621553e572668
+      internalID: 1944344983461281761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2_dano_stun_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 130
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2e0abc101e1984780b59cb552f759f
+      internalID: -650301163753435607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33ea4a47f79f19747a247af79febeb3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      E2_dano_stun_0: 7312635150640926939
+      E2_dano_stun_1: -2059185553352719160
+      E2_dano_stun_2: 5618596457081255499
+      E2_dano_stun_3: 6363192553905907372
+      E2_dano_stun_4: -7816930271657029390
+      E2_dano_stun_5: -7988968281003180836
+      E2_dano_stun_6: 1944344983461281761
+      E2_dano_stun_7: -650301163753435607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

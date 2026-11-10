@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: ebbda834108a49b4d8883ea03798d0ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6188929253561297626
+    second: sprite_mateo_sheet_verde_0
+  - first:
+      213: -539990915891971577
+    second: sprite_mateo_sheet_verde_1
+  - first:
+      213: 6474745186786836401
+    second: sprite_mateo_sheet_verde_2
+  - first:
+      213: 6284282284852440045
+    second: sprite_mateo_sheet_verde_3
+  - first:
+      213: -4497165484033181522
+    second: sprite_mateo_sheet_verde_4
+  - first:
+      213: 640502228092922836
+    second: sprite_mateo_sheet_verde_5
+  - first:
+      213: -4495069128924447296
+    second: sprite_mateo_sheet_verde_6
+  - first:
+      213: -6788064709903180420
+    second: sprite_mateo_sheet_verde_7
+  - first:
+      213: -698955648260633563
+    second: sprite_mateo_sheet_verde_8
+  - first:
+      213: -6874009398862440660
+    second: sprite_mateo_sheet_verde_9
+  - first:
+      213: 8866924190464744468
+    second: sprite_mateo_sheet_verde_10
+  - first:
+      213: 529893225653037598
+    second: sprite_mateo_sheet_verde_11
+  - first:
+      213: 136945937910654559
+    second: sprite_mateo_sheet_verde_12
+  - first:
+      213: 6539833708766576747
+    second: sprite_mateo_sheet_verde_13
+  - first:
+      213: -2576990158391528266
+    second: sprite_mateo_sheet_verde_14
+  - first:
+      213: 7768234250650982052
+    second: sprite_mateo_sheet_verde_15
+  - first:
+      213: 1584467120294085349
+    second: sprite_mateo_sheet_verde_16
+  - first:
+      213: 803801199174721416
+    second: sprite_mateo_sheet_verde_17
+  - first:
+      213: -6547257347378349924
+    second: sprite_mateo_sheet_verde_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 201
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625947d52a18c1aa0800000000000000
+      internalID: -6188929253561297626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a325c7f119188f0800000000000000
+      internalID: -539990915891971577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 205
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7995517aead950800000000000000
+      internalID: 6474745186786836401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 201
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe8e84171463750800000000000000
+      internalID: 6284282284852440045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 201
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fd0cb1dbd691c0800000000000000
+      internalID: -4497165484033181522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 201
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2357026583e800800000000000000
+      internalID: 640502228092922836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 201
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd32a1717e4e91c0800000000000000
+      internalID: -4495069128924447296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 201
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1bdd6c13fbc1a0800000000000000
+      internalID: -6788064709903180420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 105
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c0ca78a8fcc46f0800000000000000
+      internalID: -698955648260633563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c279b1e2fdc9a90a0800000000000000
+      internalID: -6874009398862440660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 109
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c18fe7294ad0b70800000000000000
+      internalID: 8866924190464744468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 105
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6febc41f8a5700800000000000000
+      internalID: 529893225653037598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56e89eda9786e100800000000000000
+      internalID: 136945937910654559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 105
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60482dcb1822ca50800000000000000
+      internalID: 6539833708766576747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 105
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4356bba11bc3cd0800000000000000
+      internalID: -2576990158391528266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 105
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a61312a4ef4ecb60800000000000000
+      internalID: 7768234250650982052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24a6773782df510800000000000000
+      internalID: 1584467120294085349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f97d29eeca72b00800000000000000
+      internalID: 803801199174721416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_mateo_sheet_verde_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987274a1287325a0800000000000000
+      internalID: -6547257347378349924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_mateo_sheet_verde_0: -6188929253561297626
+      sprite_mateo_sheet_verde_1: -539990915891971577
+      sprite_mateo_sheet_verde_10: 8866924190464744468
+      sprite_mateo_sheet_verde_11: 529893225653037598
+      sprite_mateo_sheet_verde_12: 136945937910654559
+      sprite_mateo_sheet_verde_13: 6539833708766576747
+      sprite_mateo_sheet_verde_14: -2576990158391528266
+      sprite_mateo_sheet_verde_15: 7768234250650982052
+      sprite_mateo_sheet_verde_16: 1584467120294085349
+      sprite_mateo_sheet_verde_17: 803801199174721416
+      sprite_mateo_sheet_verde_18: -6547257347378349924
+      sprite_mateo_sheet_verde_2: 6474745186786836401
+      sprite_mateo_sheet_verde_3: 6284282284852440045
+      sprite_mateo_sheet_verde_4: -4497165484033181522
+      sprite_mateo_sheet_verde_5: 640502228092922836
+      sprite_mateo_sheet_verde_6: -4495069128924447296
+      sprite_mateo_sheet_verde_7: -6788064709903180420
+      sprite_mateo_sheet_verde_8: -698955648260633563
+      sprite_mateo_sheet_verde_9: -6874009398862440660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
