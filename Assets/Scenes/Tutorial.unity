@@ -7182,6 +7182,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1724997463914285887, guid: d78513809098e32439fd1eaa75c4ea8e, type: 3}
+      propertyPath: sonido
+      value: 
+      objectReference: {fileID: 8300000, guid: d55a0256dc6f28c4ba70d0ffdd871a0b, type: 3}
     - target: {fileID: 2653762676434857484, guid: d78513809098e32439fd1eaa75c4ea8e, type: 3}
       propertyPath: m_Name
       value: Microchip_01

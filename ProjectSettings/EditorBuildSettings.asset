@@ -8,27 +8,30 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-    path: Assets/Scenes/MenuPrincipal.unity
+  - enabled: 0
+    path: Assets/Scenes/MenuPrincipalprueba.unity
     guid: 685eeaa14d4ce4e48bd849db641aa6dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SeleccionModo.unity
     guid: 50e2ad4e0c7ad93438f655609caec53d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SeleccionNiveles.unity
     guid: 071a7e8be326ef247ba5c49cc28e3ad0
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 7966bd238e444824f8dd481d3db19889
   - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 3f243adb9e189c34589abdce1588ec58
   - enabled: 1
     path: Assets/Scenes/Nivel4Jefe.unity
-    guid: 969f6bf8fa99e7e47abafbe0b83ddcd8
+    guid: f02131d438a642948ba4328f0273754a
   - enabled: 1
     path: Assets/Scenes/Nivel3.unity
-    guid: df118bc295abe9a4ba7ab55ba6c475e4
+    guid: 3099b8b85e8f2254b9f7b51bbb3b3484
   - enabled: 1
     path: Assets/Scenes/Nivel2.unity
-    guid: 74444e0a98612a64fa5b8d2c684cd9f9
+    guid: 217713093449e0e4d8fd53e79b18e1cd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

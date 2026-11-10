@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 70c41476e238e464687f995726e06aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8280780764966966180
+    second: "Interruptor futurista S\xCD _ NO_0"
+  - first:
+      213: 1581395749543530994
+    second: "Interruptor futurista S\xCD _ NO_1"
+  - first:
+      213: 8608789598102992756
+    second: "Interruptor futurista S\xCD _ NO_2"
+  - first:
+      213: -2688481264596978836
+    second: "Interruptor futurista S\xCD _ NO_3"
+  - first:
+      213: 9052462072387270388
+    second: "Interruptor futurista S\xCD _ NO_4"
+  - first:
+      213: -9144642525257114320
+    second: "Interruptor futurista S\xCD _ NO_5"
+  - first:
+      213: 8723716351557107565
+    second: "Interruptor futurista S\xCD _ NO_6"
+  - first:
+      213: 6129251004254700856
+    second: "Interruptor futurista S\xCD _ NO_7"
+  - first:
+      213: 5516358250322063381
+    second: "Interruptor futurista S\xCD _ NO_8"
+  - first:
+      213: -2195855515210674952
+    second: "Interruptor futurista S\xCD _ NO_9"
+  - first:
+      213: -3557787519781115124
+    second: "Interruptor futurista S\xCD _ NO_10"
+  - first:
+      213: 3877544845978149047
+    second: "Interruptor futurista S\xCD _ NO_11"
+  - first:
+      213: -830840614814978688
+    second: "Interruptor futurista S\xCD _ NO_12"
+  - first:
+      213: 7118059624216106634
+    second: "Interruptor futurista S\xCD _ NO_13"
+  - first:
+      213: -4746558215876369667
+    second: "Interruptor futurista S\xCD _ NO_14"
+  - first:
+      213: 1781738344037082091
+    second: "Interruptor futurista S\xCD _ NO_15"
+  - first:
+      213: -9035172410595866511
+    second: "Interruptor futurista S\xCD _ NO_16"
+  - first:
+      213: 4895336113239518725
+    second: "Interruptor futurista S\xCD _ NO_17"
+  - first:
+      213: 1687685993697187892
+    second: "Interruptor futurista S\xCD _ NO_18"
+  - first:
+      213: -5372805349502808995
+    second: "Interruptor futurista S\xCD _ NO_19"
+  - first:
+      213: 8453814050660044341
+    second: "Interruptor futurista S\xCD _ NO_20"
+  - first:
+      213: 1722550465790394372
+    second: "Interruptor futurista S\xCD _ NO_21"
+  - first:
+      213: 6572554257797105414
+    second: "Interruptor futurista S\xCD _ NO_22"
+  - first:
+      213: 2535454315919994478
+    second: "Interruptor futurista S\xCD _ NO_23"
+  - first:
+      213: 7900392252159663597
+    second: "Interruptor futurista S\xCD _ NO_24"
+  - first:
+      213: 7634922210570513409
+    second: "Interruptor futurista S\xCD _ NO_25"
+  - first:
+      213: 8293299298502555947
+    second: "Interruptor futurista S\xCD _ NO_26"
+  - first:
+      213: -3295413847340679668
+    second: "Interruptor futurista S\xCD _ NO_27"
+  - first:
+      213: 8777884300092000148
+    second: "Interruptor futurista S\xCD _ NO_28"
+  - first:
+      213: -7111992758373390789
+    second: "Interruptor futurista S\xCD _ NO_29"
+  - first:
+      213: -6372620418030595458
+    second: "Interruptor futurista S\xCD _ NO_30"
+  - first:
+      213: 5113561111972445876
+    second: "Interruptor futurista S\xCD _ NO_31"
+  - first:
+      213: 362153710366844780
+    second: "Interruptor futurista S\xCD _ NO_32"
+  - first:
+      213: 7508543682402404760
+    second: "Interruptor futurista S\xCD _ NO_33"
+  - first:
+      213: -7652707454576966464
+    second: "Interruptor futurista S\xCD _ NO_34"
+  - first:
+      213: -5711936766042827508
+    second: "Interruptor futurista S\xCD _ NO_35"
+  - first:
+      213: -5027325618507767867
+    second: "Interruptor futurista S\xCD _ NO_36"
+  - first:
+      213: 4787611848783472223
+    second: "Interruptor futurista S\xCD _ NO_37"
+  - first:
+      213: -3923657855765990352
+    second: "Interruptor futurista S\xCD _ NO_38"
+  - first:
+      213: -1853816344074055132
+    second: "Interruptor futurista S\xCD _ NO_39"
+  - first:
+      213: 7143941961499373747
+    second: "Interruptor futurista S\xCD _ NO_40"
+  - first:
+      213: -2059519876371519860
+    second: "Interruptor futurista S\xCD _ NO_41"
+  - first:
+      213: -491954408056503661
+    second: "Interruptor futurista S\xCD _ NO_42"
+  - first:
+      213: 7392779243614056242
+    second: "Interruptor futurista S\xCD _ NO_43"
+  - first:
+      213: 5595543055347540571
+    second: "Interruptor futurista S\xCD _ NO_44"
+  - first:
+      213: 8411418381652352465
+    second: "Interruptor futurista S\xCD _ NO_45"
+  - first:
+      213: -8140221108179376290
+    second: "Interruptor futurista S\xCD _ NO_46"
+  - first:
+      213: 5144640562605678384
+    second: "Interruptor futurista S\xCD _ NO_47"
+  - first:
+      213: 4476714143875413167
+    second: "Interruptor futurista S\xCD _ NO_48"
+  - first:
+      213: -8725951475164843442
+    second: "Interruptor futurista S\xCD _ NO_49"
+  - first:
+      213: 835097529817337294
+    second: "Interruptor futurista S\xCD _ NO_50"
+  - first:
+      213: 5825824859898283849
+    second: "Interruptor futurista S\xCD _ NO_51"
+  - first:
+      213: -4116793054993769541
+    second: "Interruptor futurista S\xCD _ NO_52"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_0"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 31
+        width: 2017
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca14984c1c41d80800000000000000
+      internalID: -8280780764966966180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_1"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 638
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1dadc3e0f32f510800000000000000
+      internalID: 1581395749543530994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_2"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 602
+        width: 188
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b1053780987770800000000000000
+      internalID: 8608789598102992756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_3"
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 596
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637766b88890bad0800000000000000
+      internalID: -2688481264596978836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_4"
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f657fa4ec0ad70800000000000000
+      internalID: 9052462072387270388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_5"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5e1cd214b71180800000000000000
+      internalID: -9144642525257114320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_6"
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 594
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff3df2dcdd01970800000000000000
+      internalID: 8723716351557107565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_7"
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 610
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835cecf60597f0550800000000000000
+      internalID: 6129251004254700856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_8"
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 596
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510fd3c0a9a0e8c40800000000000000
+      internalID: 5516358250322063381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_9"
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 594
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc09c50b01c681e0800000000000000
+      internalID: -2195855515210674952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_10"
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 611
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be029c91330aec0800000000000000
+      internalID: -3557787519781115124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_11"
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ac294e7ecfc530800000000000000
+      internalID: 3877544845978149047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_12"
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6cf0ecd24874f0800000000000000
+      internalID: -830840614814978688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_13"
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 602
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86937fd38d68c260800000000000000
+      internalID: 7118059624216106634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_14"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 594
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22af47376d02eb0800000000000000
+      internalID: -4746558215876369667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_15"
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 594
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e50775910ab810800000000000000
+      internalID: 1781738344037082091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_16"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 594
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178060e109e9c9280800000000000000
+      internalID: -9035172410595866511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_17"
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 594
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e68c5224abfe340800000000000000
+      internalID: 4895336113239518725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_18"
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 600
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43819b2387ddb6710800000000000000
+      internalID: 1687685993697187892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_19"
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 594
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c019f3006ff65b0800000000000000
+      internalID: -5372805349502808995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_20"
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 594
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e4cceb61bf15570800000000000000
+      internalID: 8453814050660044341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_21"
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 594
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ce1da58ab7e710800000000000000
+      internalID: 1722550465790394372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_22"
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 585
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074afa4647663b50800000000000000
+      internalID: 6572554257797105414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_23"
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 580
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e64a4544ebf2320800000000000000
+      internalID: 2535454315919994478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_24"
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 586
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded993035e4d3ad60800000000000000
+      internalID: 7900392252159663597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_25"
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 586
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cabc88c41b4f960800000000000000
+      internalID: 7634922210570513409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_26"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 584
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29bd3fa5c7b71370800000000000000
+      internalID: 8293299298502555947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_27"
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 578
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0efa51d0965442d0800000000000000
+      internalID: -3295413847340679668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974672834f41d970800000000000000
+      internalID: 8777884300092000148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_29"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 94
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e00864402d4d90800000000000000
+      internalID: -7111992758373390789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_30"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 97
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7292ee4e77ef87a0800000000000000
+      internalID: -6372620418030595458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_31"
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 90
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be7e501db407f640800000000000000
+      internalID: 5113561111972445876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_32"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67618c71e0a60500800000000000000
+      internalID: 362153710366844780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_33"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 94
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899491a72b4b33860800000000000000
+      internalID: 7508543682402404760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_34"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c4f7ad1f1cc590800000000000000
+      internalID: -7652707454576966464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_35"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05168046cf1bb0b0800000000000000
+      internalID: -5711936766042827508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_36"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9f926cf95b3ab0800000000000000
+      internalID: -5027325618507767867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_37"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a0315c93017240800000000000000
+      internalID: 4787611848783472223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_38"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 82
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b5e6f7fd5c89c0800000000000000
+      internalID: -3923657855765990352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_39"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 71
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42217a46bdbe546e0800000000000000
+      internalID: -1853816344074055132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_40"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 71
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b07d2f1d51642360800000000000000
+      internalID: 7143941961499373747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_41"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e401959d1b63e0800000000000000
+      internalID: -2059519876371519860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_42"
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 61
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ca16821a3c29f0800000000000000
+      internalID: -491954408056503661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_43"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2f7ead8d689660800000000000000
+      internalID: 7392779243614056242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_44"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 70
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e46b23cc57ad40800000000000000
+      internalID: 5595543055347540571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_45"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 79
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5497d37c5bb470800000000000000
+      internalID: 8411418381652352465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_46"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e4d5e700280f80800000000000000
+      internalID: -8140221108179376290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_47"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5d2f855f656740800000000000000
+      internalID: 5144640562605678384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_48"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa439a29bcb702e30800000000000000
+      internalID: 4476714143875413167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_49"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 63
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f08b8d5137e680800000000000000
+      internalID: -8725951475164843442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_50"
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 59
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd819167ccd69b00800000000000000
+      internalID: 835097529817337294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_51"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94780e1f7dc79d050800000000000000
+      internalID: 5825824859898283849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Interruptor futurista S\xCD _ NO_52"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 49
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb1d4737863ed6c0800000000000000
+      internalID: -4116793054993769541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Interruptor futurista S\xCD _ NO_0": -8280780764966966180
+      "Interruptor futurista S\xCD _ NO_1": 1581395749543530994
+      "Interruptor futurista S\xCD _ NO_10": -3557787519781115124
+      "Interruptor futurista S\xCD _ NO_11": 3877544845978149047
+      "Interruptor futurista S\xCD _ NO_12": -830840614814978688
+      "Interruptor futurista S\xCD _ NO_13": 7118059624216106634
+      "Interruptor futurista S\xCD _ NO_14": -4746558215876369667
+      "Interruptor futurista S\xCD _ NO_15": 1781738344037082091
+      "Interruptor futurista S\xCD _ NO_16": -9035172410595866511
+      "Interruptor futurista S\xCD _ NO_17": 4895336113239518725
+      "Interruptor futurista S\xCD _ NO_18": 1687685993697187892
+      "Interruptor futurista S\xCD _ NO_19": -5372805349502808995
+      "Interruptor futurista S\xCD _ NO_2": 8608789598102992756
+      "Interruptor futurista S\xCD _ NO_20": 8453814050660044341
+      "Interruptor futurista S\xCD _ NO_21": 1722550465790394372
+      "Interruptor futurista S\xCD _ NO_22": 6572554257797105414
+      "Interruptor futurista S\xCD _ NO_23": 2535454315919994478
+      "Interruptor futurista S\xCD _ NO_24": 7900392252159663597
+      "Interruptor futurista S\xCD _ NO_25": 7634922210570513409
+      "Interruptor futurista S\xCD _ NO_26": 8293299298502555947
+      "Interruptor futurista S\xCD _ NO_27": -3295413847340679668
+      "Interruptor futurista S\xCD _ NO_28": 8777884300092000148
+      "Interruptor futurista S\xCD _ NO_29": -7111992758373390789
+      "Interruptor futurista S\xCD _ NO_3": -2688481264596978836
+      "Interruptor futurista S\xCD _ NO_30": -6372620418030595458
+      "Interruptor futurista S\xCD _ NO_31": 5113561111972445876
+      "Interruptor futurista S\xCD _ NO_32": 362153710366844780
+      "Interruptor futurista S\xCD _ NO_33": 7508543682402404760
+      "Interruptor futurista S\xCD _ NO_34": -7652707454576966464
+      "Interruptor futurista S\xCD _ NO_35": -5711936766042827508
+      "Interruptor futurista S\xCD _ NO_36": -5027325618507767867
+      "Interruptor futurista S\xCD _ NO_37": 4787611848783472223
+      "Interruptor futurista S\xCD _ NO_38": -3923657855765990352
+      "Interruptor futurista S\xCD _ NO_39": -1853816344074055132
+      "Interruptor futurista S\xCD _ NO_4": 9052462072387270388
+      "Interruptor futurista S\xCD _ NO_40": 7143941961499373747
+      "Interruptor futurista S\xCD _ NO_41": -2059519876371519860
+      "Interruptor futurista S\xCD _ NO_42": -491954408056503661
+      "Interruptor futurista S\xCD _ NO_43": 7392779243614056242
+      "Interruptor futurista S\xCD _ NO_44": 5595543055347540571
+      "Interruptor futurista S\xCD _ NO_45": 8411418381652352465
+      "Interruptor futurista S\xCD _ NO_46": -8140221108179376290
+      "Interruptor futurista S\xCD _ NO_47": 5144640562605678384
+      "Interruptor futurista S\xCD _ NO_48": 4476714143875413167
+      "Interruptor futurista S\xCD _ NO_49": -8725951475164843442
+      "Interruptor futurista S\xCD _ NO_5": -9144642525257114320
+      "Interruptor futurista S\xCD _ NO_50": 835097529817337294
+      "Interruptor futurista S\xCD _ NO_51": 5825824859898283849
+      "Interruptor futurista S\xCD _ NO_52": -4116793054993769541
+      "Interruptor futurista S\xCD _ NO_6": 8723716351557107565
+      "Interruptor futurista S\xCD _ NO_7": 6129251004254700856
+      "Interruptor futurista S\xCD _ NO_8": 5516358250322063381
+      "Interruptor futurista S\xCD _ NO_9": -2195855515210674952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

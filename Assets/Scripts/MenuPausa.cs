@@ -21,6 +21,7 @@ public class MenuPausa : MonoBehaviour
     public static bool EstaPausado { get; private set; }
 
     GameObject panelPausa, panelConfig;
+    GameObject panelOpcionesPersonalizado;
     Button btnOpciones, btnSalir, btnVolver;
     Slider sMusica, sEfectos, sMaestro;
     bool pausado, enConfig;
@@ -51,6 +52,21 @@ public class MenuPausa : MonoBehaviour
 
         ConstruirPausa();
         ConstruirConfig();
+
+        Transform opcionesPersonalizadas = transform.Find("Panel_Opciones");
+
+        if (opcionesPersonalizadas != null)
+        {
+            panelOpcionesPersonalizado = opcionesPersonalizadas.gameObject;
+            panelOpcionesPersonalizado.SetActive(false);
+        }
+        else
+        {
+            Debug.LogWarning(
+                "[MenuPausa] No se encontro Panel_Opciones."
+            );
+        }
+
         panelPausa.SetActive(false);
         panelConfig.SetActive(false);
     }
@@ -222,6 +238,8 @@ public class MenuPausa : MonoBehaviour
             if (pc.enabled) { pc.enabled = false; bloqueados.Add(pc); }
 
         panelConfig.SetActive(false);
+        if (panelOpcionesPersonalizado != null)
+            panelOpcionesPersonalizado.SetActive(false);
         panelPausa.SetActive(true);
         enConfig = false;
         Seleccionar(btnOpciones.gameObject);
@@ -233,6 +251,8 @@ public class MenuPausa : MonoBehaviour
         pausado = false; EstaPausado = false; enConfig = false;
         panelPausa.SetActive(false);
         panelConfig.SetActive(false);
+        if (panelOpcionesPersonalizado != null)
+            panelOpcionesPersonalizado.SetActive(false);
         Time.timeScale = escalaAntes;
         foreach (var pc in bloqueados) if (pc != null) pc.enabled = true;
         bloqueados.Clear();
@@ -243,17 +263,34 @@ public class MenuPausa : MonoBehaviour
     public void AbrirConfig()
     {
         enConfig = true;
+
         panelPausa.SetActive(false);
-        panelConfig.SetActive(true);
-        Seleccionar(sMusica.gameObject);
+
+        if (panelOpcionesPersonalizado != null)
+        {
+            panelConfig.SetActive(false);
+            panelOpcionesPersonalizado.SetActive(true);
+        }
+        else
+        {
+            panelConfig.SetActive(true);
+            Seleccionar(sMusica.gameObject);
+        }
+
+        if (EventSystem.current != null)
+            EventSystem.current.SetSelectedGameObject(null);
     }
 
     public void CerrarConfig()
     {
         enConfig = false;
-        PlayerPrefs.Save();
+
+        if (panelOpcionesPersonalizado != null)
+            panelOpcionesPersonalizado.SetActive(false);
+
         panelConfig.SetActive(false);
         panelPausa.SetActive(true);
+
         Seleccionar(btnOpciones.gameObject);
     }
 
@@ -264,11 +301,7 @@ public class MenuPausa : MonoBehaviour
         PlayerPrefs.Save();
         SceneManager.LoadScene(escenaMenu);
     }
-
-    void OnDestroy()
-    {
-        if (pausado) { Time.timeScale = 1f; EstaPausado = false; }
-    }
+    
 }
 
 // Pone el menu de pausa en cualquier escena donde haya un PlayerController (Tutorial, niveles 2-4, etc.)

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 341f4273892eabe42ab177b8063fb491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8516020049802765925
+    second: "Bot\xF3n dividido S\xCD_NO brillante_0"
+  - first:
+      213: -5635931342781009384
+    second: "Bot\xF3n dividido S\xCD_NO brillante_1"
+  - first:
+      213: 1031451542409803832
+    second: "Bot\xF3n dividido S\xCD_NO brillante_2"
+  - first:
+      213: 5297267790354723003
+    second: "Bot\xF3n dividido S\xCD_NO brillante_3"
+  - first:
+      213: 5084649874712380855
+    second: "Bot\xF3n dividido S\xCD_NO brillante_4"
+  - first:
+      213: 3956888587417040939
+    second: "Bot\xF3n dividido S\xCD_NO brillante_5"
+  - first:
+      213: -8586155464360197763
+    second: "Bot\xF3n dividido S\xCD_NO brillante_6"
+  - first:
+      213: -5056027384879123862
+    second: "Bot\xF3n dividido S\xCD_NO brillante_7"
+  - first:
+      213: 5286790392695311426
+    second: "Bot\xF3n dividido S\xCD_NO brillante_8"
+  - first:
+      213: 4014748802907606024
+    second: "Bot\xF3n dividido S\xCD_NO brillante_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 2143
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56629909d1bfe2670800000000000000
+      internalID: 8516020049802765925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_1"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 580
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123c0fdd4629c1b0800000000000000
+      internalID: -5635931342781009384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_2"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387d5486b3705e00800000000000000
+      internalID: 1031451542409803832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_3"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 583
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0363c3dfca38940800000000000000
+      internalID: 5297267790354723003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_4"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 576
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b547751f1e409640800000000000000
+      internalID: 5084649874712380855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_5"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 568
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283acca431b9e630800000000000000
+      internalID: 3956888587417040939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_6"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710888b819d7d880800000000000000
+      internalID: -8586155464360197763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_7"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 562
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f1a5a1e165d9b0800000000000000
+      internalID: -5056027384879123862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_8"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 562
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4d8ef9d37e5940800000000000000
+      internalID: 5286790392695311426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n dividido S\xCD_NO brillante_9"
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 120
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c8bb3e3c047b730800000000000000
+      internalID: 4014748802907606024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Bot\xF3n dividido S\xCD_NO brillante_0": 8516020049802765925
+      "Bot\xF3n dividido S\xCD_NO brillante_1": -5635931342781009384
+      "Bot\xF3n dividido S\xCD_NO brillante_2": 1031451542409803832
+      "Bot\xF3n dividido S\xCD_NO brillante_3": 5297267790354723003
+      "Bot\xF3n dividido S\xCD_NO brillante_4": 5084649874712380855
+      "Bot\xF3n dividido S\xCD_NO brillante_5": 3956888587417040939
+      "Bot\xF3n dividido S\xCD_NO brillante_6": -8586155464360197763
+      "Bot\xF3n dividido S\xCD_NO brillante_7": -5056027384879123862
+      "Bot\xF3n dividido S\xCD_NO brillante_8": 5286790392695311426
+      "Bot\xF3n dividido S\xCD_NO brillante_9": 4014748802907606024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

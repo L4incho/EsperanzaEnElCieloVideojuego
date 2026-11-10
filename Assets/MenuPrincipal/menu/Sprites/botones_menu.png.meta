@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: d1351fa0642142048882d8cb3d5011ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7988509279688179815
+    second: botones_menu_0
+  - first:
+      213: -5740555511621154729
+    second: botones_menu_1
+  - first:
+      213: -3575317800615367622
+    second: botones_menu_2
+  - first:
+      213: 4695764007399676833
+    second: botones_menu_3
+  - first:
+      213: 7236754899177548502
+    second: botones_menu_4
+  - first:
+      213: -1247812239279190637
+    second: botones_menu_5
+  - first:
+      213: -7949912136752542521
+    second: botones_menu_6
+  - first:
+      213: -4623399516706467158
+    second: botones_menu_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugar_Normal
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 784
+        width: 374
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760c9bc6dd2ecde60800000000000000
+      internalID: 7988509279688179815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones_menu_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 981
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758096c4d237550b0800000000000000
+      internalID: -5740555511621154729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones_menu_3
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 963
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5f1a4c74ba2140800000000000000
+      internalID: 4695764007399676833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones_menu_5
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d016b2161eeaee0800000000000000
+      internalID: -1247812239279190637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones_menu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 5
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc4c45380d3ca190800000000000000
+      internalID: -7949912136752542521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones_menu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29ff7a2a266dfb0800000000000000
+      internalID: -4623399516706467158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugar_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 787
+        width: 383
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8f7d803d3cf8f4c806220481758507
+      internalID: -25701761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Continuar_Deshabilitado
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 633
+        width: 405
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe8cf98b7c9ce4d949a76d17ca2f3d
+      internalID: -493318664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Continuar_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 635
+        width: 384
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490ce71b60702a4b9cb22178218b39c
+      internalID: -788644949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Continuar_Normal
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 632
+        width: 380
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5b4c451fa20f47819180971751753
+      internalID: 793488596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niveles_Normal
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 485
+        width: 383
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb709f1fd92e4bd40a2ecdfd55e7001c
+      internalID: -1851742330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opciones_Normal
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 345
+        width: 380
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2020df1c46e9240abff87b8ef48e67
+      internalID: -1004666210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creditos_Normal
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 207
+        width: 385
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bffca8212c039478bef929daf91304
+      internalID: -1717665861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salir_Normal
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 63
+        width: 390
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520a06fd031e234a900b02f15f6b6e4
+      internalID: 427393562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Niveles_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 489
+        width: 386
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07d060b52f1ca44b62a55a78ad1318
+      internalID: -163063556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opciones_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 353
+        width: 383
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da9e619cf075646baaf912ccbb8dda
+      internalID: 207986293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creditos_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 214
+        width: 385
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e9bab520650349930a40261d391b1
+      internalID: 1981944102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salir_Seleccionado
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 65
+        width: 383
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9d1494a4afd14c868e498513e2ffa
+      internalID: -1498546108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14af5391799c5cd42ab704ea8dba18f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Continuar_Deshabilitado: -493318664
+      Continuar_Normal: 793488596
+      Continuar_Seleccionado: -788644949
+      Creditos_Normal: -1717665861
+      Creditos_Seleccionado: 1981944102
+      Jugar_Deshabilitado: -777398767
+      Jugar_Normal: 7988509279688179815
+      Jugar_Seleccionado: -25701761
+      Niveles_Normal: -1851742330
+      Niveles_Seleccionado: -163063556
+      Opciones_Normal: -1004666210
+      Opciones_Seleccionado: 207986293
+      Salir_Normal: 427393562
+      Salir_Seleccionado: -1498546108
+      botones_menu_1: -5740555511621154729
+      botones_menu_2: -3575317800615367622
+      botones_menu_3: 4695764007399676833
+      botones_menu_4: 7236754899177548502
+      botones_menu_5: -1247812239279190637
+      botones_menu_6: -7949912136752542521
+      botones_menu_7: -4623399516706467158
+      botones_menu_8: 445414561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -91,7 +91,7 @@ MonoBehaviour:
   cuadrosPorSegundo: 8
   amplitudVaiven: 0.1
   velocidadVaiven: 2.5
-  sonido: {fileID: 0}
+  sonido: {fileID: 8300000, guid: d55a0256dc6f28c4ba70d0ffdd871a0b, type: 3}
 --- !u!1 &5809463253570457624
 GameObject:
   m_ObjectHideFlags: 0

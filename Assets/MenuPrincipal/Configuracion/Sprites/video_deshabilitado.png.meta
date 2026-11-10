@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 07fe321c0b1a6434280aaf36809fb65c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2030954377680291513
+    second: video_deshabilitado_0
+  - first:
+      213: -3444642813718549495
+    second: video_deshabilitado_1
+  - first:
+      213: -7527013482430976553
+    second: video_deshabilitado_2
+  - first:
+      213: 2215935278187706988
+    second: video_deshabilitado_3
+  - first:
+      213: -2649215237784806298
+    second: video_deshabilitado_4
+  - first:
+      213: 4981335468438584367
+    second: video_deshabilitado_5
+  - first:
+      213: -5630567942996643570
+    second: video_deshabilitado_6
+  - first:
+      213: -8970858155388234226
+    second: video_deshabilitado_7
+  - first:
+      213: 3458137641530051497
+    second: video_deshabilitado_8
+  - first:
+      213: 1317299119120856846
+    second: video_deshabilitado_9
+  - first:
+      213: 5495631949919215013
+    second: video_deshabilitado_10
+  - first:
+      213: 4707947249263256154
+    second: video_deshabilitado_11
+  - first:
+      213: -1663768191738948518
+    second: video_deshabilitado_12
+  - first:
+      213: 3712264808878013663
+    second: video_deshabilitado_13
+  - first:
+      213: 9141303116357635607
+    second: video_deshabilitado_14
+  - first:
+      213: 5964291468709870931
+    second: video_deshabilitado_15
+  - first:
+      213: -1944700754276379174
+    second: video_deshabilitado_16
+  - first:
+      213: -5791879895207408081
+    second: video_deshabilitado_17
+  - first:
+      213: 6380322311881745153
+    second: video_deshabilitado_18
+  - first:
+      213: 2978203246930492861
+    second: video_deshabilitado_19
+  - first:
+      213: 2229631062014845286
+    second: video_deshabilitado_20
+  - first:
+      213: 3556525054821265710
+    second: video_deshabilitado_21
+  - first:
+      213: 3345548566346794068
+    second: video_deshabilitado_22
+  - first:
+      213: -5118415706190520958
+    second: video_deshabilitado_23
+  - first:
+      213: 744008385249798568
+    second: video_deshabilitado_24
+  - first:
+      213: -8383712904480939953
+    second: video_deshabilitado_25
+  - first:
+      213: 8275868897099516212
+    second: video_deshabilitado_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video_deshabilitado_0
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 818
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b688acfe366f2c10800000000000000
+      internalID: 2030954377680291513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 787
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c24368c9b2230d0800000000000000
+      internalID: -3444642813718549495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 767
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd20281e1daa8790800000000000000
+      internalID: -7527013482430976553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 795
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a72ad156590ce10800000000000000
+      internalID: 2215935278187706988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 791
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd84207c81c3bd0800000000000000
+      internalID: -2649215237784806298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 795
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cf55f5732412540800000000000000
+      internalID: 4981335468438584367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 795
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bbf1b9443cd1b0800000000000000
+      internalID: -5630567942996643570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 798
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e061bad890c118380800000000000000
+      internalID: -8970858155388234226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 1846
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4ecbecd5cdff20800000000000000
+      internalID: 3458137641530051497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_9
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 769
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07322ac19cf74210800000000000000
+      internalID: 1317299119120856846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 763
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add83f2428644c40800000000000000
+      internalID: 5495631949919215013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_11
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 746
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a522d95541df55140800000000000000
+      internalID: 4707947249263256154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 747
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a545ec605ab19e8e0800000000000000
+      internalID: -1663768191738948518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_13
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 730
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7b5ddc2d948330800000000000000
+      internalID: 3712264808878013663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 716
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0baa60ce6cde70800000000000000
+      internalID: 9141303116357635607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_15
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 730
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d38599d7b65c250800000000000000
+      internalID: 5964291468709870931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_16
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 716
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51ceaa7f80305e0800000000000000
+      internalID: -1944700754276379174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_17
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e8f680ceb1f9fa0800000000000000
+      internalID: -5791879895207408081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_18
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 728
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e53896557b8850800000000000000
+      internalID: 6380322311881745153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 714
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdf43ae214b45920800000000000000
+      internalID: 2978203246930492861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_20
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 713
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661629743ad31fe10800000000000000
+      internalID: 2229631062014845286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f56fa1b05b5130800000000000000
+      internalID: 3556525054821265710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540be312b6cd6e20800000000000000
+      internalID: 3345548566346794068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 115
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ddbb3a80cb7f8b0800000000000000
+      internalID: -5118415706190520958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e9b83faf335a00800000000000000
+      internalID: 744008385249798568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402e8d388117ab80800000000000000
+      internalID: -8383712904480939953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video_deshabilitado_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 113
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439025b1aeac9d270800000000000000
+      internalID: 8275868897099516212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      video_deshabilitado_0: 2030954377680291513
+      video_deshabilitado_1: -3444642813718549495
+      video_deshabilitado_10: 5495631949919215013
+      video_deshabilitado_11: 4707947249263256154
+      video_deshabilitado_12: -1663768191738948518
+      video_deshabilitado_13: 3712264808878013663
+      video_deshabilitado_14: 9141303116357635607
+      video_deshabilitado_15: 5964291468709870931
+      video_deshabilitado_16: -1944700754276379174
+      video_deshabilitado_17: -5791879895207408081
+      video_deshabilitado_18: 6380322311881745153
+      video_deshabilitado_19: 2978203246930492861
+      video_deshabilitado_2: -7527013482430976553
+      video_deshabilitado_20: 2229631062014845286
+      video_deshabilitado_21: 3556525054821265710
+      video_deshabilitado_22: 3345548566346794068
+      video_deshabilitado_23: -5118415706190520958
+      video_deshabilitado_24: 744008385249798568
+      video_deshabilitado_25: -8383712904480939953
+      video_deshabilitado_26: 8275868897099516212
+      video_deshabilitado_3: 2215935278187706988
+      video_deshabilitado_4: -2649215237784806298
+      video_deshabilitado_5: 4981335468438584367
+      video_deshabilitado_6: -5630567942996643570
+      video_deshabilitado_7: -8970858155388234226
+      video_deshabilitado_8: 3458137641530051497
+      video_deshabilitado_9: 1317299119120856846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
