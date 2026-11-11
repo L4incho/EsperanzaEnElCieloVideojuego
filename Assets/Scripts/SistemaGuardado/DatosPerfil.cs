@@ -13,10 +13,13 @@ public class DatosPerfil
     public int nivelActual;
     public int ultimoNivelCompletado;
 
+    // Cinematica de introduccion
+    public bool introVista;
+
     // Puntuacion confirmada
     public int chipsGuardados;
 
-    // NUEVO: IDs de los microchips obtenidos.
+    // IDs de los microchips obtenidos.
     // Se almacenan en el JSON de cada perfil.
     public List<string> microchipsObtenidos =
         new List<string>();
@@ -35,6 +38,9 @@ public class DatosPerfil
 
         nivelActual = 1;
         ultimoNivelCompletado = 0;
+
+        // Un perfil nuevo todavia no vio la introduccion.
+        introVista = false;
 
         chipsGuardados = 0;
         microchipsObtenidos = new List<string>();

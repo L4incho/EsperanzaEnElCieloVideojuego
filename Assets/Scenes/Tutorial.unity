@@ -474,7 +474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86dcd74e4dd7b784abd74a78130e598f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Puerta
-  escenaDestino: Nivel2
+  escenaDestino: CinematicaSalidaLab
   numeroNivelActual: 1
   tecla: 119
   teclaAlterna: 273

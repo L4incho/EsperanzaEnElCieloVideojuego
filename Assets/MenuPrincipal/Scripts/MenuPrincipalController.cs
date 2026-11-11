@@ -11,6 +11,9 @@ public class MenuPrincipalController : MonoBehaviour
     [SerializeField] private string escenaNivel3 = "Nivel3";
     [SerializeField] private string escenaNivel4 = "Nivel4Jefe";
 
+    [Header("Cinematica inicial")]
+    [SerializeField] private string escenaCinematica = "CinematicaIntro";
+
     [Header("Panel de configuracion")]
     [SerializeField] private GameObject panelConfiguracion;
     [SerializeField] private ConfiguracionAplicable configuracion;
@@ -80,8 +83,6 @@ public class MenuPrincipalController : MonoBehaviour
             botonNivelesVisual.EstablecerHabilitado(hayPartidas);
     }
 
-    // JUGAR: entrar al ultimo nivel del perfil activo.
-    // Sin perfiles: abrir la creacion de una partida.
     public void Jugar()
     {
         if (GestorGuardado.Instancia == null)
@@ -102,7 +103,6 @@ public class MenuPrincipalController : MonoBehaviour
             }
 
             panelJugar.SetActive(true);
-
             Debug.Log("Abriendo creacion del primer perfil.");
             return;
         }
@@ -113,13 +113,42 @@ public class MenuPrincipalController : MonoBehaviour
         if (perfil == null)
         {
             Debug.LogWarning(
-                "Hay partidas guardadas, pero ninguna esta activa. " +
-                "Selecciona una desde CONTINUAR PARTIDA."
+                "Selecciona una partida desde CONTINUAR PARTIDA."
             );
 
             if (panelContinuarPartida != null)
                 panelContinuarPartida.SetActive(true);
 
+            return;
+        }
+
+        // NUEVO: introduccion solo para nivel 1
+        // cuando este perfil todavia no la ha visto.
+        if (perfil.nivelActual == 1 &&
+            GestorGuardado.Instancia.DebeMostrarIntro())
+        {
+            Debug.Log(
+    "PRUEBA INTRO | Perfil: " + perfil.nombrePerfil +
+    " | Nivel: " + perfil.nivelActual +
+    " | Intro vista: " + perfil.introVista +
+    " | Debe mostrar: " +
+    GestorGuardado.Instancia.DebeMostrarIntro()
+);
+            if (!Application.CanStreamedLevelBeLoaded(escenaCinematica))
+            {
+                Debug.LogError(
+                    "No se puede cargar CinematicaIntro. " +
+                    "Revisa Build Profiles."
+                );
+                return;
+            }
+
+            Debug.Log(
+                "Mostrando introduccion del perfil: " +
+                perfil.nombrePerfil
+            );
+
+            SceneManager.LoadScene(escenaCinematica);
             return;
         }
 
@@ -131,7 +160,7 @@ public class MenuPrincipalController : MonoBehaviour
             Debug.LogError(
                 "No se puede cargar el nivel " +
                 perfil.nivelActual +
-                ". Revisa Build Profiles y los nombres de escenas."
+                ". Revisa Build Profiles."
             );
             return;
         }
@@ -157,7 +186,6 @@ public class MenuPrincipalController : MonoBehaviour
         }
     }
 
-    // NIVELES: abrir directamente el panel de niveles.
     public void AbrirNiveles()
     {
         if (panelNiveles == null)
@@ -180,8 +208,7 @@ public class MenuPrincipalController : MonoBehaviour
         if (GestorGuardado.Instancia.PerfilActivo == null)
         {
             Debug.LogWarning(
-                "Selecciona un perfil desde CONTINUAR PARTIDA " +
-                "antes de consultar sus niveles."
+                "Selecciona un perfil desde CONTINUAR PARTIDA."
             );
 
             if (panelContinuarPartida != null)

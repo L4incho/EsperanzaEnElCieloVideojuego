@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -285,6 +284,44 @@ public class GestorGuardado : MonoBehaviour
         }
 
         return GuardarPerfil(perfilActivo);
+    }
+
+    // ==========================================
+    // CINEMATICA INICIAL POR PERFIL
+    // ==========================================
+
+    // Solo los perfiles nuevos que aun no han visto la intro
+    // deben pasar por la escena CinematicaIntro.
+    public bool DebeMostrarIntro()
+    {
+        return perfilActivo != null && !perfilActivo.introVista;
+    }
+
+    // Llamar cuando la intro termine o el jugador la omita.
+    // Si falla el guardado, recupera el valor anterior.
+    public bool MarcarIntroVista()
+    {
+        if (perfilActivo == null)
+        {
+            Debug.LogError("No hay perfil activo para guardar la intro.");
+            return false;
+        }
+
+        if (perfilActivo.introVista)
+            return true;
+
+        perfilActivo.introVista = true;
+
+        if (!GuardarPerfilActivo())
+        {
+            perfilActivo.introVista = false;
+            Debug.LogError("No se pudo guardar que la intro fue vista.");
+            return false;
+        }
+
+        Debug.Log("Introduccion marcada como vista para: " +
+                  perfilActivo.nombrePerfil);
+        return true;
     }
 
     // ==========================================

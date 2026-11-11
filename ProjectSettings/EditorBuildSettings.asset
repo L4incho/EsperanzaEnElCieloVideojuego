@@ -21,17 +21,23 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuPrincipal.unity
     guid: 7966bd238e444824f8dd481d3db19889
   - enabled: 1
+    path: Assets/Scenes/CinematicaIntro.unity
+    guid: f748c318341a2504183e4d61a61467e3
+  - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 3f243adb9e189c34589abdce1588ec58
   - enabled: 1
-    path: Assets/Scenes/Nivel4Jefe.unity
-    guid: f02131d438a642948ba4328f0273754a
+    path: Assets/Scenes/CinematicaSalidaLab.unity
+    guid: 3410ef7c9a724e3429bb573dde993e60
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: 217713093449e0e4d8fd53e79b18e1cd
   - enabled: 1
     path: Assets/Scenes/Nivel3.unity
     guid: 3099b8b85e8f2254b9f7b51bbb3b3484
   - enabled: 1
-    path: Assets/Scenes/Nivel2.unity
-    guid: 217713093449e0e4d8fd53e79b18e1cd
+    path: Assets/Scenes/Nivel4Jefe.unity
+    guid: f02131d438a642948ba4328f0273754a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

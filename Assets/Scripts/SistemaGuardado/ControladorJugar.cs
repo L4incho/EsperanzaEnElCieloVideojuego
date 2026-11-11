@@ -8,8 +8,9 @@ public class ControladorJugar : MonoBehaviour
     [Header("Nombre del jugador")]
     [SerializeField] private TMP_InputField nombrePerfil;
 
-    [Header("Escena inicial")]
+    [Header("Escenas")]
     [SerializeField] private string escenaInicial = "Tutorial";
+    [SerializeField] private string escenaCinematica = "CinematicaIntro";
 
     public void CrearPartida()
     {
@@ -39,17 +40,26 @@ public class ControladorJugar : MonoBehaviour
             return;
         }
 
-        // Verificar que la escena exista antes de crear el perfil.
-        if (Application.CanStreamedLevelBeLoaded(escenaInicial) == false)
+        // Comprobar las escenas antes de crear el perfil.
+        if (!Application.CanStreamedLevelBeLoaded(escenaInicial))
         {
             Debug.LogError(
-                "La escena inicial no esta incluida en Build Profiles: "
-                + escenaInicial
+                "No se encuentra la escena: " + escenaInicial
             );
             return;
         }
 
-        bool creado = GestorGuardado.Instancia.CrearPerfil(nombre);
+        if (!Application.CanStreamedLevelBeLoaded(escenaCinematica))
+        {
+            Debug.LogError(
+                "No se encuentra la cinematica: " + escenaCinematica
+            );
+            return;
+        }
+
+        // Crear el perfil normalmente.
+        bool creado =
+            GestorGuardado.Instancia.CrearPerfil(nombre);
 
         if (!creado)
         {
@@ -63,6 +73,18 @@ public class ControladorJugar : MonoBehaviour
             "Nueva partida creada para: " + nombre
         );
 
-        SceneManager.LoadScene(escenaInicial);
+        // Un perfil nuevo debe ver la introduccion.
+        if (GestorGuardado.Instancia.DebeMostrarIntro())
+        {
+            Debug.Log(
+                "Iniciando cinematica del nuevo perfil."
+            );
+
+            SceneManager.LoadScene(escenaCinematica);
+        }
+        else
+        {
+            SceneManager.LoadScene(escenaInicial);
+        }
     }
 }
