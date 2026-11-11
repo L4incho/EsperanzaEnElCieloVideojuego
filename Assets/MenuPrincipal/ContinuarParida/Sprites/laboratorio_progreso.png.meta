@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: bf2563def6477484990b5c296454a1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1879855375329061976
+    second: laboratorio_progreso_0
+  - first:
+      213: -4325957720883154168
+    second: laboratorio_progreso_1
+  - first:
+      213: -1324208578109951766
+    second: laboratorio_progreso_2
+  - first:
+      213: -80787127172934580
+    second: laboratorio_progreso_3
+  - first:
+      213: -695097052351922936
+    second: laboratorio_progreso_4
+  - first:
+      213: 7534552056042696176
+    second: laboratorio_progreso_5
+  - first:
+      213: -5456796744734028310
+    second: laboratorio_progreso_6
+  - first:
+      213: -4053841187516624908
+    second: laboratorio_progreso_7
+  - first:
+      213: 7486882424513013658
+    second: laboratorio_progreso_8
+  - first:
+      213: -8261760815177095002
+    second: laboratorio_progreso_9
+  - first:
+      213: -8613970534098632458
+    second: laboratorio_progreso_10
+  - first:
+      213: 506234235786846472
+    second: laboratorio_progreso_11
+  - first:
+      213: -711949255458571708
+    second: laboratorio_progreso_12
+  - first:
+      213: 5953376514586675891
+    second: laboratorio_progreso_13
+  - first:
+      213: 2580716203832768841
+    second: laboratorio_progreso_14
+  - first:
+      213: 4989331540918806969
+    second: laboratorio_progreso_15
+  - first:
+      213: 675352152993680215
+    second: laboratorio_progreso_16
+  - first:
+      213: 2209537976185094590
+    second: laboratorio_progreso_17
+  - first:
+      213: 9111198020943909947
+    second: laboratorio_progreso_18
+  - first:
+      213: 1187700564816418120
+    second: laboratorio_progreso_19
+  - first:
+      213: -8515073171076733058
+    second: laboratorio_progreso_20
+  - first:
+      213: -8386987484890873332
+    second: laboratorio_progreso_21
+  - first:
+      213: -3945128957486818672
+    second: laboratorio_progreso_22
+  - first:
+      213: -2835166725233919975
+    second: laboratorio_progreso_23
+  - first:
+      213: -9194681018206360763
+    second: laboratorio_progreso_24
+  - first:
+      213: -4249528640165149252
+    second: laboratorio_progreso_25
+  - first:
+      213: -485783617916160539
+    second: laboratorio_progreso_26
+  - first:
+      213: -3152177537080364938
+    second: laboratorio_progreso_27
+  - first:
+      213: -4267285991487357937
+    second: laboratorio_progreso_28
+  - first:
+      213: 3673164683498353543
+    second: laboratorio_progreso_29
+  - first:
+      213: -8315666221788254930
+    second: laboratorio_progreso_30
+  - first:
+      213: 5118394239560246114
+    second: laboratorio_progreso_31
+  - first:
+      213: -5638567639561922506
+    second: laboratorio_progreso_32
+  - first:
+      213: 122620951028980908
+    second: laboratorio_progreso_33
+  - first:
+      213: 1117817941218363733
+    second: laboratorio_progreso_34
+  - first:
+      213: 5914495390597364226
+    second: laboratorio_progreso_35
+  - first:
+      213: 7559729403733315245
+    second: laboratorio_progreso_36
+  - first:
+      213: 6083398373102921635
+    second: laboratorio_progreso_37
+  - first:
+      213: -7972649798400630842
+    second: laboratorio_progreso_38
+  - first:
+      213: -6053014981219978447
+    second: laboratorio_progreso_39
+  - first:
+      213: -8370213535086391792
+    second: laboratorio_progreso_40
+  - first:
+      213: -7201458383438992011
+    second: laboratorio_progreso_41
+  - first:
+      213: -4800064560894130580
+    second: laboratorio_progreso_42
+  - first:
+      213: 4475412050179268075
+    second: laboratorio_progreso_43
+  - first:
+      213: 129575189271744898
+    second: laboratorio_progreso_44
+  - first:
+      213: -7582448761274991790
+    second: laboratorio_progreso_45
+  - first:
+      213: 1909803417773802298
+    second: laboratorio_progreso_46
+  - first:
+      213: -5206153949288366138
+    second: laboratorio_progreso_47
+  - first:
+      213: -6176195142767063968
+    second: laboratorio_progreso_48
+  - first:
+      213: -1895192170622505213
+    second: laboratorio_progreso_49
+  - first:
+      213: 902779464690421538
+    second: laboratorio_progreso_50
+  - first:
+      213: 2611448372846317142
+    second: laboratorio_progreso_51
+  - first:
+      213: -2247388407576573312
+    second: laboratorio_progreso_52
+  - first:
+      213: -8057562770467294747
+    second: laboratorio_progreso_53
+  - first:
+      213: -8453012793482234722
+    second: laboratorio_progreso_54
+  - first:
+      213: -4314262070402138340
+    second: laboratorio_progreso_55
+  - first:
+      213: 2155478256352026746
+    second: laboratorio_progreso_56
+  - first:
+      213: 2646952817770340042
+    second: laboratorio_progreso_57
+  - first:
+      213: -4743133393262538341
+    second: laboratorio_progreso_58
+  - first:
+      213: 3366004526097993514
+    second: laboratorio_progreso_59
+  - first:
+      213: -3580839245992753739
+    second: laboratorio_progreso_60
+  - first:
+      213: -8763405705291852525
+    second: laboratorio_progreso_61
+  - first:
+      213: -2564324952807428619
+    second: laboratorio_progreso_62
+  - first:
+      213: -5349464143377060469
+    second: laboratorio_progreso_63
+  - first:
+      213: -6757637319021165490
+    second: laboratorio_progreso_64
+  - first:
+      213: 263080011463738552
+    second: laboratorio_progreso_65
+  - first:
+      213: 8945178300571977082
+    second: laboratorio_progreso_66
+  - first:
+      213: -25577331811645620
+    second: laboratorio_progreso_67
+  - first:
+      213: 5730627786750289021
+    second: laboratorio_progreso_68
+  - first:
+      213: 964324737874924014
+    second: laboratorio_progreso_69
+  - first:
+      213: 141700791272047613
+    second: laboratorio_progreso_70
+  - first:
+      213: -2555612891609513006
+    second: laboratorio_progreso_71
+  - first:
+      213: 7642538552664232886
+    second: laboratorio_progreso_72
+  - first:
+      213: 3653171413652667227
+    second: laboratorio_progreso_73
+  - first:
+      213: 898287794410322336
+    second: laboratorio_progreso_74
+  - first:
+      213: 2170478724712035113
+    second: laboratorio_progreso_75
+  - first:
+      213: 2313366755016823779
+    second: laboratorio_progreso_76
+  - first:
+      213: 2234077548100235224
+    second: laboratorio_progreso_77
+  - first:
+      213: -7295124306509025686
+    second: laboratorio_progreso_78
+  - first:
+      213: 7941883510508052532
+    second: laboratorio_progreso_79
+  - first:
+      213: 583359798973169865
+    second: laboratorio_progreso_80
+  - first:
+      213: 1847927531893362851
+    second: laboratorio_progreso_81
+  - first:
+      213: 329082696534807570
+    second: laboratorio_progreso_82
+  - first:
+      213: 1720524628759268531
+    second: laboratorio_progreso_83
+  - first:
+      213: 2255280496190036964
+    second: laboratorio_progreso_84
+  - first:
+      213: -7160743056261375997
+    second: laboratorio_progreso_85
+  - first:
+      213: -2446341739257110103
+    second: laboratorio_progreso_86
+  - first:
+      213: 4277672925027136263
+    second: laboratorio_progreso_87
+  - first:
+      213: 355679899609753041
+    second: laboratorio_progreso_88
+  - first:
+      213: -4545301329545215162
+    second: laboratorio_progreso_89
+  - first:
+      213: -8504417286323418089
+    second: laboratorio_progreso_90
+  - first:
+      213: 6014615837634592986
+    second: laboratorio_progreso_91
+  - first:
+      213: 5144173163182084397
+    second: laboratorio_progreso_92
+  - first:
+      213: 6875885144199980053
+    second: laboratorio_progreso_93
+  - first:
+      213: -6541843926041641418
+    second: laboratorio_progreso_94
+  - first:
+      213: 4456590876676067259
+    second: laboratorio_progreso_95
+  - first:
+      213: -7412237499586308721
+    second: laboratorio_progreso_96
+  - first:
+      213: 6287861942467428120
+    second: laboratorio_progreso_97
+  - first:
+      213: 7283047309708101472
+    second: laboratorio_progreso_98
+  - first:
+      213: -6738657297106694912
+    second: laboratorio_progreso_99
+  - first:
+      213: -8413904052060392996
+    second: laboratorio_progreso_100
+  - first:
+      213: -5682503379876479583
+    second: laboratorio_progreso_101
+  - first:
+      213: 3103092330547773402
+    second: laboratorio_progreso_102
+  - first:
+      213: -5454975561414138063
+    second: laboratorio_progreso_103
+  - first:
+      213: 1143935132337102535
+    second: laboratorio_progreso_104
+  - first:
+      213: -6801810209423858532
+    second: laboratorio_progreso_105
+  - first:
+      213: 4277442422966004504
+    second: laboratorio_progreso_106
+  - first:
+      213: -6690392984583624192
+    second: laboratorio_progreso_107
+  - first:
+      213: -4304886856951773382
+    second: laboratorio_progreso_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laboratorio_progreso_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 600
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3176cfe7969e5e0800000000000000
+      internalID: -1879855375329061976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 582
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803b66d6f5c17f3c0800000000000000
+      internalID: -4325957720883154168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 598
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03b3d60577f9de0800000000000000
+      internalID: -1324208578109951766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 586
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44de6e298cf0eef0800000000000000
+      internalID: -80787127172934580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 594
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7426e9e48a56f0800000000000000
+      internalID: -695097052351922936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 602
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd2d1adc2b109860800000000000000
+      internalID: 7534552056042696176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 554
+        width: 21
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedce92a5409544b0800000000000000
+      internalID: -5456796744734028310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_7
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 586
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff493a0becddb7c0800000000000000
+      internalID: -4053841187516624908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_8
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 588
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a63cd5efb6e760800000000000000
+      internalID: 7486882424513013658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_9
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 589
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a020bf44585d80800000000000000
+      internalID: -8261760815177095002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_10
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 578
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08e512077057880800000000000000
+      internalID: -8613970534098632458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_11
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 586
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8016735fa51860700800000000000000
+      internalID: 506234235786846472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 41
+        width: 2013
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ab94a9ce5ae16f0800000000000000
+      internalID: -711949255458571708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 568
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba871ec564ae9250800000000000000
+      internalID: 5953376514586675891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 560
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949fb83d6bb80d320800000000000000
+      internalID: 2580716203832768841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 578
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92e131a9aad3540800000000000000
+      internalID: 4989331540918806969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_16
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 576
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bcb7974355f5900800000000000000
+      internalID: 675352152993680215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 562
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb18f3c251bd9ae10800000000000000
+      internalID: 2209537976185094590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 561
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349a9ca35a717e70800000000000000
+      internalID: 9111198020943909947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 554
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845d969fe5f8b7010800000000000000
+      internalID: 1187700564816418120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 546
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e772381d01264d980800000000000000
+      internalID: -8515073171076733058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_21
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 562
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02ce63915f6b9b80800000000000000
+      internalID: -8386987484890873332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_22
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 544
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a14e78d161049c0800000000000000
+      internalID: -3945128957486818672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_23
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 563
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918bc6f72e677a8d0800000000000000
+      internalID: -2835166725233919975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_24
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 552
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b68c6545ee56080800000000000000
+      internalID: -9194681018206360763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_25
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 546
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb58b1c7734a605c0800000000000000
+      internalID: -4249528640165149252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_26
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 550
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e537609f562249f0800000000000000
+      internalID: -485783617916160539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_27
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 493
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670fb512b373144d0800000000000000
+      internalID: -3152177537080364938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 500
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c3562fffd87c4c0800000000000000
+      internalID: -4267285991487357937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 461
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783fd6181d3b9f230800000000000000
+      internalID: 3673164683498353543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 481
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da89b21a1d89c80800000000000000
+      internalID: -8315666221788254930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 427
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e4654170380740800000000000000
+      internalID: 5118394239560246114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_32
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 272
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63816e13b98cfb1b0800000000000000
+      internalID: -5638567639561922506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 376
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac5a14fa13a3b100800000000000000
+      internalID: 122620951028980908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55901edbe79438f00800000000000000
+      internalID: 1117817941218363733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 305
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abd3ea832841250800000000000000
+      internalID: 5914495390597364226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 271
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae899be6dd89e860800000000000000
+      internalID: 7559729403733315245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 277
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72dffc6929c6450800000000000000
+      internalID: 6083398373102921635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf9dbfcf357b5190800000000000000
+      internalID: -7972649798400630842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 232
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133f340e1fe5ffba0800000000000000
+      internalID: -6053014981219978447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e420b132707db80800000000000000
+      internalID: -8370213535086391792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_41
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 256
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d2c5651c74f0c90800000000000000
+      internalID: -7201458383438992011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 252
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c6f4b6beb26db0800000000000000
+      internalID: -4800064560894130580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_43
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 186
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed10724c8bdb1e30800000000000000
+      internalID: 4475412050179268075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_44
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 194
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2811f38b2f75cc100800000000000000
+      internalID: 129575189271744898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_45
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 198
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b7a90760bb5c690800000000000000
+      internalID: -7582448761274991790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_46
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 196
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330c33071cf08a10800000000000000
+      internalID: 1909803417773802298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_47
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 200
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf7ba6019600c7b0800000000000000
+      internalID: -5206153949288366138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_48
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 196
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c40e39d3fb94aa0800000000000000
+      internalID: -6176195142767063968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_49
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 200
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fa1f013cce2b5e0800000000000000
+      internalID: -1895192170622505213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_50
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 194
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fc367d321578c00800000000000000
+      internalID: 902779464690421538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_51
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 200
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec6c4857abd3420800000000000000
+      internalID: 2611448372846317142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_52
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 192
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4116862cafc0e0800000000000000
+      internalID: -2247388407576573312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_53
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 182
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e172eed959cd2090800000000000000
+      internalID: -8057562770467294747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_54
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 192
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b8aa76add0ba80800000000000000
+      internalID: -8453012793482234722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_55
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 178
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f3db14189a024c0800000000000000
+      internalID: -4314262070402138340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_56
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 194
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e0fecd0cc9ed10800000000000000
+      internalID: 2155478256352026746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_57
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 184
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9b68409ddbb420800000000000000
+      internalID: 2646952817770340042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 182
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911b4c1f410d2eb0800000000000000
+      internalID: -4743133393262538341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_59
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f8d6a584376be20800000000000000
+      internalID: 3366004526097993514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_60
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b503d88dad4e4ec0800000000000000
+      internalID: -3580839245992753739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_61
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 174
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315927901f0226680800000000000000
+      internalID: -8763405705291852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_62
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 174
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2e33ba00b96cd0800000000000000
+      internalID: -2564324952807428619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_63
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d225b44b2e2c5b0800000000000000
+      internalID: -5349464143377060469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_64
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 174
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4402de69ac0832a0800000000000000
+      internalID: -6757637319021165490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_65
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 176
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44dc660e5a6a300800000000000000
+      internalID: 263080011463738552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_66
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 178
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7500225548a32c70800000000000000
+      internalID: 8945178300571977082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 178
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47801f5d8125aff0800000000000000
+      internalID: -25577331811645620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74eb312c97478f40800000000000000
+      internalID: 5730627786750289021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee118296d38f16d00800000000000000
+      internalID: 964324737874924014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 174
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df389207e1c67f100800000000000000
+      internalID: 141700791272047613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_71
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 179
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c4348d93a88cd0800000000000000
+      internalID: -2555612891609513006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b397cd5250cf0a60800000000000000
+      internalID: 7642538552664232886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_73
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 168
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf06e9b0ca2b230800000000000000
+      internalID: 3653171413652667227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_74
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 160
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a975eb5dfb577c00800000000000000
+      internalID: 898287794410322336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_75
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 178
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f00386e61f1e10800000000000000
+      internalID: 2170478724712035113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_76
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d9f39ecaba1020800000000000000
+      internalID: 2313366755016823779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_77
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 158
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa03f71b9010f10800000000000000
+      internalID: 2234077548100235224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_78
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 170
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e263e281382ca90800000000000000
+      internalID: -7295124306509025686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_79
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 174
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306d5399fc373e60800000000000000
+      internalID: 7941883510508052532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_80
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 178
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c00a0a75a2881800800000000000000
+      internalID: 583359798973169865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_81
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 170
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a01b2dac4825a910800000000000000
+      internalID: 1847927531893362851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_82
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2145fac08f2219400800000000000000
+      internalID: 329082696534807570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcc18cb80880e710800000000000000
+      internalID: 1720524628759268531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_84
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb164c89ad5c4f10800000000000000
+      internalID: 2255280496190036964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_85
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 162
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30812bb212eef9c90800000000000000
+      internalID: -7160743056261375997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_86
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 160
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16e504629dc0ed0800000000000000
+      internalID: -2446341739257110103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037c897cd85d5b30800000000000000
+      internalID: 4277672925027136263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_88
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 160
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d56cf5fbf0afe400800000000000000
+      internalID: 355679899609753041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_89
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 162
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c857d588dbe0c0800000000000000
+      internalID: -4545301329545215162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_90
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c4003598d3af980800000000000000
+      internalID: -8504417286323418089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_91
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 152
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad006aecc35387350800000000000000
+      internalID: 6014615837634592986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_92
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 163
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d096ac36c36740800000000000000
+      internalID: 5144173163182084397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_93
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514ec60db1d0c6f50800000000000000
+      internalID: 6875885144199980053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_94
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ebd340c93b635a0800000000000000
+      internalID: -6541843926041641418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_95
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 150
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf06815acdf8dd30800000000000000
+      internalID: 4456590876676067259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_96
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 150
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85145e0441722990800000000000000
+      internalID: -7412237499586308721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_97
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff7754f19f24750800000000000000
+      internalID: 6287861942467428120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_98
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 158
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670481e0f4921560800000000000000
+      internalID: 7283047309708101472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_99
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8cd624ea7b72a0800000000000000
+      internalID: -6738657297106694912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 144
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd178bae7decb3b80800000000000000
+      internalID: -8413904052060392996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_101
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 142
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad718f7841b321b0800000000000000
+      internalID: -5682503379876479583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_102
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 144
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adff983a806601b20800000000000000
+      internalID: 3103092330547773402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_103
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 144
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137297be0a80c44b0800000000000000
+      internalID: -5454975561414138063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_104
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceda0921f210ef00800000000000000
+      internalID: 1143935132337102535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_105
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946aade6ad1b91a0800000000000000
+      internalID: -6801810209423858532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_106
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 146
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b231888378c5b30800000000000000
+      internalID: 4277442422966004504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_107
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 144
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa02a1703f623a0800000000000000
+      internalID: -6690392984583624192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laboratorio_progreso_108
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 130
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37442d3638f144c0800000000000000
+      internalID: -4304886856951773382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      laboratorio_progreso_0: -1879855375329061976
+      laboratorio_progreso_1: -4325957720883154168
+      laboratorio_progreso_10: -8613970534098632458
+      laboratorio_progreso_100: -8413904052060392996
+      laboratorio_progreso_101: -5682503379876479583
+      laboratorio_progreso_102: 3103092330547773402
+      laboratorio_progreso_103: -5454975561414138063
+      laboratorio_progreso_104: 1143935132337102535
+      laboratorio_progreso_105: -6801810209423858532
+      laboratorio_progreso_106: 4277442422966004504
+      laboratorio_progreso_107: -6690392984583624192
+      laboratorio_progreso_108: -4304886856951773382
+      laboratorio_progreso_11: 506234235786846472
+      laboratorio_progreso_12: -711949255458571708
+      laboratorio_progreso_13: 5953376514586675891
+      laboratorio_progreso_14: 2580716203832768841
+      laboratorio_progreso_15: 4989331540918806969
+      laboratorio_progreso_16: 675352152993680215
+      laboratorio_progreso_17: 2209537976185094590
+      laboratorio_progreso_18: 9111198020943909947
+      laboratorio_progreso_19: 1187700564816418120
+      laboratorio_progreso_2: -1324208578109951766
+      laboratorio_progreso_20: -8515073171076733058
+      laboratorio_progreso_21: -8386987484890873332
+      laboratorio_progreso_22: -3945128957486818672
+      laboratorio_progreso_23: -2835166725233919975
+      laboratorio_progreso_24: -9194681018206360763
+      laboratorio_progreso_25: -4249528640165149252
+      laboratorio_progreso_26: -485783617916160539
+      laboratorio_progreso_27: -3152177537080364938
+      laboratorio_progreso_28: -4267285991487357937
+      laboratorio_progreso_29: 3673164683498353543
+      laboratorio_progreso_3: -80787127172934580
+      laboratorio_progreso_30: -8315666221788254930
+      laboratorio_progreso_31: 5118394239560246114
+      laboratorio_progreso_32: -5638567639561922506
+      laboratorio_progreso_33: 122620951028980908
+      laboratorio_progreso_34: 1117817941218363733
+      laboratorio_progreso_35: 5914495390597364226
+      laboratorio_progreso_36: 7559729403733315245
+      laboratorio_progreso_37: 6083398373102921635
+      laboratorio_progreso_38: -7972649798400630842
+      laboratorio_progreso_39: -6053014981219978447
+      laboratorio_progreso_4: -695097052351922936
+      laboratorio_progreso_40: -8370213535086391792
+      laboratorio_progreso_41: -7201458383438992011
+      laboratorio_progreso_42: -4800064560894130580
+      laboratorio_progreso_43: 4475412050179268075
+      laboratorio_progreso_44: 129575189271744898
+      laboratorio_progreso_45: -7582448761274991790
+      laboratorio_progreso_46: 1909803417773802298
+      laboratorio_progreso_47: -5206153949288366138
+      laboratorio_progreso_48: -6176195142767063968
+      laboratorio_progreso_49: -1895192170622505213
+      laboratorio_progreso_5: 7534552056042696176
+      laboratorio_progreso_50: 902779464690421538
+      laboratorio_progreso_51: 2611448372846317142
+      laboratorio_progreso_52: -2247388407576573312
+      laboratorio_progreso_53: -8057562770467294747
+      laboratorio_progreso_54: -8453012793482234722
+      laboratorio_progreso_55: -4314262070402138340
+      laboratorio_progreso_56: 2155478256352026746
+      laboratorio_progreso_57: 2646952817770340042
+      laboratorio_progreso_58: -4743133393262538341
+      laboratorio_progreso_59: 3366004526097993514
+      laboratorio_progreso_6: -5456796744734028310
+      laboratorio_progreso_60: -3580839245992753739
+      laboratorio_progreso_61: -8763405705291852525
+      laboratorio_progreso_62: -2564324952807428619
+      laboratorio_progreso_63: -5349464143377060469
+      laboratorio_progreso_64: -6757637319021165490
+      laboratorio_progreso_65: 263080011463738552
+      laboratorio_progreso_66: 8945178300571977082
+      laboratorio_progreso_67: -25577331811645620
+      laboratorio_progreso_68: 5730627786750289021
+      laboratorio_progreso_69: 964324737874924014
+      laboratorio_progreso_7: -4053841187516624908
+      laboratorio_progreso_70: 141700791272047613
+      laboratorio_progreso_71: -2555612891609513006
+      laboratorio_progreso_72: 7642538552664232886
+      laboratorio_progreso_73: 3653171413652667227
+      laboratorio_progreso_74: 898287794410322336
+      laboratorio_progreso_75: 2170478724712035113
+      laboratorio_progreso_76: 2313366755016823779
+      laboratorio_progreso_77: 2234077548100235224
+      laboratorio_progreso_78: -7295124306509025686
+      laboratorio_progreso_79: 7941883510508052532
+      laboratorio_progreso_8: 7486882424513013658
+      laboratorio_progreso_80: 583359798973169865
+      laboratorio_progreso_81: 1847927531893362851
+      laboratorio_progreso_82: 329082696534807570
+      laboratorio_progreso_83: 1720524628759268531
+      laboratorio_progreso_84: 2255280496190036964
+      laboratorio_progreso_85: -7160743056261375997
+      laboratorio_progreso_86: -2446341739257110103
+      laboratorio_progreso_87: 4277672925027136263
+      laboratorio_progreso_88: 355679899609753041
+      laboratorio_progreso_89: -4545301329545215162
+      laboratorio_progreso_9: -8261760815177095002
+      laboratorio_progreso_90: -8504417286323418089
+      laboratorio_progreso_91: 6014615837634592986
+      laboratorio_progreso_92: 5144173163182084397
+      laboratorio_progreso_93: 6875885144199980053
+      laboratorio_progreso_94: -6541843926041641418
+      laboratorio_progreso_95: 4456590876676067259
+      laboratorio_progreso_96: -7412237499586308721
+      laboratorio_progreso_97: 6287861942467428120
+      laboratorio_progreso_98: 7283047309708101472
+      laboratorio_progreso_99: -6738657297106694912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 1e62243e41f8abb40a44b9dfdfac1195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4917719208382564988
+    second: barra_progreso_perfil_seleccionado_0
+  - first:
+      213: 5112182307132117407
+    second: barra_progreso_perfil_seleccionado_1
+  - first:
+      213: -2157723809304585408
+    second: barra_progreso_perfil_seleccionado_2
+  - first:
+      213: 1505497474521369385
+    second: barra_progreso_perfil_seleccionado_3
+  - first:
+      213: 6695069904961089905
+    second: barra_progreso_perfil_seleccionado_4
+  - first:
+      213: -5435372187662450606
+    second: barra_progreso_perfil_seleccionado_5
+  - first:
+      213: -6677371765556835391
+    second: barra_progreso_perfil_seleccionado_6
+  - first:
+      213: 3709729693181095053
+    second: barra_progreso_perfil_seleccionado_7
+  - first:
+      213: -5616778394144745581
+    second: barra_progreso_perfil_seleccionado_8
+  - first:
+      213: -4155902562001547996
+    second: barra_progreso_perfil_seleccionado_9
+  - first:
+      213: 7109176880284066737
+    second: barra_progreso_perfil_seleccionado_10
+  - first:
+      213: -8369547591644221189
+    second: barra_progreso_perfil_seleccionado_11
+  - first:
+      213: 2788972053542213686
+    second: barra_progreso_perfil_seleccionado_12
+  - first:
+      213: 5187242396755461621
+    second: barra_progreso_perfil_seleccionado_13
+  - first:
+      213: 5906873790599275716
+    second: barra_progreso_perfil_seleccionado_14
+  - first:
+      213: 7567416577814447213
+    second: barra_progreso_perfil_seleccionado_15
+  - first:
+      213: -7757720060899023333
+    second: barra_progreso_perfil_seleccionado_16
+  - first:
+      213: -2052112241132416049
+    second: barra_progreso_perfil_seleccionado_17
+  - first:
+      213: -8973983588942146484
+    second: barra_progreso_perfil_seleccionado_18
+  - first:
+      213: 1060441721887130702
+    second: barra_progreso_perfil_seleccionado_19
+  - first:
+      213: -2090256202457609403
+    second: barra_progreso_perfil_seleccionado_20
+  - first:
+      213: -5275029671042101177
+    second: barra_progreso_perfil_seleccionado_21
+  - first:
+      213: -320233292227447640
+    second: barra_progreso_perfil_seleccionado_22
+  - first:
+      213: -5873081128944701694
+    second: barra_progreso_perfil_seleccionado_23
+  - first:
+      213: 5881229457950439283
+    second: barra_progreso_perfil_seleccionado_24
+  - first:
+      213: -8221437204474956221
+    second: barra_progreso_perfil_seleccionado_25
+  - first:
+      213: -2157344646037945855
+    second: barra_progreso_perfil_seleccionado_26
+  - first:
+      213: 4486972375615109271
+    second: barra_progreso_perfil_seleccionado_27
+  - first:
+      213: -5389141497173837485
+    second: barra_progreso_perfil_seleccionado_28
+  - first:
+      213: -7930796532594547559
+    second: barra_progreso_perfil_seleccionado_29
+  - first:
+      213: 1546885732752962606
+    second: barra_progreso_perfil_seleccionado_30
+  - first:
+      213: 3803321169540421202
+    second: barra_progreso_perfil_seleccionado_31
+  - first:
+      213: 3784708051905329788
+    second: barra_progreso_perfil_seleccionado_32
+  - first:
+      213: 5523905207862596041
+    second: barra_progreso_perfil_seleccionado_33
+  - first:
+      213: 3766713296506686557
+    second: barra_progreso_perfil_seleccionado_34
+  - first:
+      213: 6160110182163336973
+    second: barra_progreso_perfil_seleccionado_35
+  - first:
+      213: 8253184212441612339
+    second: barra_progreso_perfil_seleccionado_36
+  - first:
+      213: 1407654235968320616
+    second: barra_progreso_perfil_seleccionado_37
+  - first:
+      213: -8437213906086268079
+    second: barra_progreso_perfil_seleccionado_38
+  - first:
+      213: -4284261144745986096
+    second: barra_progreso_perfil_seleccionado_39
+  - first:
+      213: 635550541968670356
+    second: barra_progreso_perfil_seleccionado_40
+  - first:
+      213: 5538494345283296662
+    second: barra_progreso_perfil_seleccionado_41
+  - first:
+      213: 3187732058736885925
+    second: barra_progreso_perfil_seleccionado_42
+  - first:
+      213: 1968311880814997223
+    second: barra_progreso_perfil_seleccionado_43
+  - first:
+      213: 4962307701439885298
+    second: barra_progreso_perfil_seleccionado_44
+  - first:
+      213: 3366096714646828061
+    second: barra_progreso_perfil_seleccionado_45
+  - first:
+      213: 5750477925990130436
+    second: barra_progreso_perfil_seleccionado_46
+  - first:
+      213: 1750105350867280489
+    second: barra_progreso_perfil_seleccionado_47
+  - first:
+      213: 4006727426284390940
+    second: barra_progreso_perfil_seleccionado_48
+  - first:
+      213: -2327558877793834422
+    second: barra_progreso_perfil_seleccionado_49
+  - first:
+      213: -4733781603612698014
+    second: barra_progreso_perfil_seleccionado_50
+  - first:
+      213: -226517002939152192
+    second: barra_progreso_perfil_seleccionado_51
+  - first:
+      213: 4889298387142204661
+    second: barra_progreso_perfil_seleccionado_52
+  - first:
+      213: -5500766557828722041
+    second: barra_progreso_perfil_seleccionado_53
+  - first:
+      213: -5183413910718058100
+    second: barra_progreso_perfil_seleccionado_54
+  - first:
+      213: 3466485913453471572
+    second: barra_progreso_perfil_seleccionado_55
+  - first:
+      213: -2365319806842114147
+    second: barra_progreso_perfil_seleccionado_56
+  - first:
+      213: -946195324183948046
+    second: barra_progreso_perfil_seleccionado_57
+  - first:
+      213: -4289644286295674082
+    second: barra_progreso_perfil_seleccionado_58
+  - first:
+      213: -6414846850448785011
+    second: barra_progreso_perfil_seleccionado_59
+  - first:
+      213: -5998833451263744631
+    second: barra_progreso_perfil_seleccionado_60
+  - first:
+      213: -6443809670985816967
+    second: barra_progreso_perfil_seleccionado_61
+  - first:
+      213: -7669062567011152806
+    second: barra_progreso_perfil_seleccionado_62
+  - first:
+      213: 9056088577616164071
+    second: barra_progreso_perfil_seleccionado_63
+  - first:
+      213: -834421083773249892
+    second: barra_progreso_perfil_seleccionado_64
+  - first:
+      213: -6307177779330145371
+    second: barra_progreso_perfil_seleccionado_65
+  - first:
+      213: 4808092477680312834
+    second: barra_progreso_perfil_seleccionado_66
+  - first:
+      213: -4169484665947256237
+    second: barra_progreso_perfil_seleccionado_67
+  - first:
+      213: 5506877036488603605
+    second: barra_progreso_perfil_seleccionado_68
+  - first:
+      213: 7825710085204686842
+    second: barra_progreso_perfil_seleccionado_69
+  - first:
+      213: 956825233983220901
+    second: barra_progreso_perfil_seleccionado_70
+  - first:
+      213: -3306596056385905108
+    second: barra_progreso_perfil_seleccionado_71
+  - first:
+      213: 7703015191627755870
+    second: barra_progreso_perfil_seleccionado_72
+  - first:
+      213: -7124177174886240805
+    second: barra_progreso_perfil_seleccionado_73
+  - first:
+      213: -1291872162649808412
+    second: barra_progreso_perfil_seleccionado_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a02c8909f3f3440800000000000000
+      internalID: 4917719208382564988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 563
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9195ab09be12f640800000000000000
+      internalID: 5112182307132117407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 549
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b5ff6a0a93e02e0800000000000000
+      internalID: -2157723809304585408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 641
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b08130af994e410800000000000000
+      internalID: 1505497474521369385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 571
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713d974b9aa9ec50800000000000000
+      internalID: 6695069904961089905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 569
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250875c0bcda194b0800000000000000
+      internalID: -5435372187662450606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 587
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb03c8e1c53553a0800000000000000
+      internalID: -6677371765556835391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 619
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c27ce308b9b7330800000000000000
+      internalID: 3709729693181095053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 611
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d9ea3fc13d02b0800000000000000
+      internalID: -5616778394144745581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 551
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d03c683a44356c0800000000000000
+      internalID: -4155902562001547996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 627
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b360c2e4bed8a260800000000000000
+      internalID: 7109176880284066737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 549
+        width: 137
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0f1552fc469db80800000000000000
+      internalID: -8369547591644221189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 577
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63810eb5e4b64b620800000000000000
+      internalID: 2788972053542213686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_13
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 541
+        width: 184
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f584760a79ccf740800000000000000
+      internalID: 5187242396755461621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 540
+        width: 65
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c42cb5aa6e69f150800000000000000
+      internalID: 5906873790599275716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_15
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 609
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64480c984dd40960800000000000000
+      internalID: 7567416577814447213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_16
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 623
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16213fe4ba075490800000000000000
+      internalID: -7757720060899023333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_17
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 613
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3521c0ace6583e0800000000000000
+      internalID: -2052112241132416049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_18
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 611
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441be8d871067380800000000000000
+      internalID: -8973983588942146484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_19
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 618
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44061aa02277be00800000000000000
+      internalID: 1060441721887130702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_20
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 569
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b05fafe0bedf2e0800000000000000
+      internalID: -2090256202457609403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_21
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 563
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d3e566745bc6b0800000000000000
+      internalID: -5275029671042101177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_22
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 555
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47783748d4e8bf0800000000000000
+      internalID: -320233292227447640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 597
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f633484df9e7ea0800000000000000
+      internalID: -5873081128944701694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 615
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f2bb28035e9150800000000000000
+      internalID: 5881229457950439283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 579
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346f61ceb6697ed80800000000000000
+      internalID: -8221437204474956221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 609
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10241da79729f02e0800000000000000
+      internalID: -2157344646037945855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_27
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 619
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79877854a9de44e30800000000000000
+      internalID: 4486972375615109271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_28
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 571
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359f2a87c5ce535b0800000000000000
+      internalID: -5389141497173837485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_29
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 609
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9946dc0a29620f190800000000000000
+      internalID: -7930796532594547559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_30
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 604
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243cd0d064a77510800000000000000
+      internalID: 1546885732752962606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_31
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 623
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561e2de37c18c430800000000000000
+      internalID: 3803321169540421202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_32
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 615
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ab064cbebf58430800000000000000
+      internalID: 3784708051905329788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_33
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 617
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c19497058ad8ac40800000000000000
+      internalID: 5523905207862596041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_34
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 611
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c850949cd064430800000000000000
+      internalID: 3766713296506686557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 611
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fcc11b29b1d7550800000000000000
+      internalID: 6160110182163336973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_36
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 601
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330c1706053398270800000000000000
+      internalID: 8253184212441612339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_37
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 578
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864377dc11ef88310800000000000000
+      internalID: 1407654235968320616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_38
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 579
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153fdb997aef8ea80800000000000000
+      internalID: -8437213906086268079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_39
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 547
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73866103f3b84c0800000000000000
+      internalID: -4284261144745986096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_40
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 585
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e79d2c9dde1d800800000000000000
+      internalID: 635550541968670356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 573
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dde19434facdc40800000000000000
+      internalID: 5538494345283296662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_42
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 570
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a003280b691d3c20800000000000000
+      internalID: 3187732058736885925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_43
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 561
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea82f1a39d05b10800000000000000
+      internalID: 1968311880814997223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff62822098add440800000000000000
+      internalID: 4962307701439885298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_45
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 569
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14322ca027c6be20800000000000000
+      internalID: 3366096714646828061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_46
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 571
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ed53d43dcdcf40800000000000000
+      internalID: 5750477925990130436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 549
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96264fd4b8f994810800000000000000
+      internalID: 1750105350867280489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 2170
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0f7b9d51ca9730800000000000000
+      internalID: 4006727426284390940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aaa475889d2bfd0800000000000000
+      internalID: -2327558877793834422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 141
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad26056ba3e4eb0800000000000000
+      internalID: -4733781603612698014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 156
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c9386cff3bdcf0800000000000000
+      internalID: -226517002939152192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc508e7af64ad340800000000000000
+      internalID: 4889298387142204661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_53
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 144
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7825540c5f959a3b0800000000000000
+      internalID: -5500766557828722041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_54
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 55
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f4d7d280d018b0800000000000000
+      internalID: -5183413910718058100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_55
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 132
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4572a42729e6b1030800000000000000
+      internalID: 3466485913453471572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_56
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 61
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9feafcea22bc2fd0800000000000000
+      internalID: -2365319806842114147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_57
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f451e5ad507ed2f0800000000000000
+      internalID: -946195324183948046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_58
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 61
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ff86cf3f1874c0800000000000000
+      internalID: -4289644286295674082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_59
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 166
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81877ed6c2e9f6a0800000000000000
+      internalID: -6414846850448785011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_60
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 176
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a1be52ccdfbca0800000000000000
+      internalID: -5998833451263744631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_61
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 64
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e9a8be3df296a0800000000000000
+      internalID: -6443809670985816967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_62
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 43
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0e0d4a34029590800000000000000
+      internalID: -7669062567011152806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_63
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 146
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b8438490bdad70800000000000000
+      internalID: 9056088577616164071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_64
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 98
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96599cf17a8b64f0800000000000000
+      internalID: -834421083773249892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_65
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32acff9376878a0800000000000000
+      internalID: -6307177779330145371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_66
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 144
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ec5352a6c9b240800000000000000
+      internalID: 4808092477680312834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_67
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 150
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a86c589c30326c0800000000000000
+      internalID: -4169484665947256237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_68
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b8adec7b5c6c40800000000000000
+      internalID: 5506877036488603605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_69
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af731df2cd18a9c60800000000000000
+      internalID: 7825710085204686842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_70
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac23b71b73574d00800000000000000
+      internalID: 956825233983220901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_71
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e1963e76c9c12d0800000000000000
+      internalID: -3306596056385905108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_72
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 146
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f864218b96ea60800000000000000
+      internalID: 7703015191627755870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_73
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 160
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda5fdda96d12d90800000000000000
+      internalID: -7124177174886240805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barra_progreso_perfil_seleccionado_74
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 134
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ea0adc19521ee0800000000000000
+      internalID: -1291872162649808412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barra_progreso_perfil_seleccionado_0: 4917719208382564988
+      barra_progreso_perfil_seleccionado_1: 5112182307132117407
+      barra_progreso_perfil_seleccionado_10: 7109176880284066737
+      barra_progreso_perfil_seleccionado_11: -8369547591644221189
+      barra_progreso_perfil_seleccionado_12: 2788972053542213686
+      barra_progreso_perfil_seleccionado_13: 5187242396755461621
+      barra_progreso_perfil_seleccionado_14: 5906873790599275716
+      barra_progreso_perfil_seleccionado_15: 7567416577814447213
+      barra_progreso_perfil_seleccionado_16: -7757720060899023333
+      barra_progreso_perfil_seleccionado_17: -2052112241132416049
+      barra_progreso_perfil_seleccionado_18: -8973983588942146484
+      barra_progreso_perfil_seleccionado_19: 1060441721887130702
+      barra_progreso_perfil_seleccionado_2: -2157723809304585408
+      barra_progreso_perfil_seleccionado_20: -2090256202457609403
+      barra_progreso_perfil_seleccionado_21: -5275029671042101177
+      barra_progreso_perfil_seleccionado_22: -320233292227447640
+      barra_progreso_perfil_seleccionado_23: -5873081128944701694
+      barra_progreso_perfil_seleccionado_24: 5881229457950439283
+      barra_progreso_perfil_seleccionado_25: -8221437204474956221
+      barra_progreso_perfil_seleccionado_26: -2157344646037945855
+      barra_progreso_perfil_seleccionado_27: 4486972375615109271
+      barra_progreso_perfil_seleccionado_28: -5389141497173837485
+      barra_progreso_perfil_seleccionado_29: -7930796532594547559
+      barra_progreso_perfil_seleccionado_3: 1505497474521369385
+      barra_progreso_perfil_seleccionado_30: 1546885732752962606
+      barra_progreso_perfil_seleccionado_31: 3803321169540421202
+      barra_progreso_perfil_seleccionado_32: 3784708051905329788
+      barra_progreso_perfil_seleccionado_33: 5523905207862596041
+      barra_progreso_perfil_seleccionado_34: 3766713296506686557
+      barra_progreso_perfil_seleccionado_35: 6160110182163336973
+      barra_progreso_perfil_seleccionado_36: 8253184212441612339
+      barra_progreso_perfil_seleccionado_37: 1407654235968320616
+      barra_progreso_perfil_seleccionado_38: -8437213906086268079
+      barra_progreso_perfil_seleccionado_39: -4284261144745986096
+      barra_progreso_perfil_seleccionado_4: 6695069904961089905
+      barra_progreso_perfil_seleccionado_40: 635550541968670356
+      barra_progreso_perfil_seleccionado_41: 5538494345283296662
+      barra_progreso_perfil_seleccionado_42: 3187732058736885925
+      barra_progreso_perfil_seleccionado_43: 1968311880814997223
+      barra_progreso_perfil_seleccionado_44: 4962307701439885298
+      barra_progreso_perfil_seleccionado_45: 3366096714646828061
+      barra_progreso_perfil_seleccionado_46: 5750477925990130436
+      barra_progreso_perfil_seleccionado_47: 1750105350867280489
+      barra_progreso_perfil_seleccionado_48: 4006727426284390940
+      barra_progreso_perfil_seleccionado_49: -2327558877793834422
+      barra_progreso_perfil_seleccionado_5: -5435372187662450606
+      barra_progreso_perfil_seleccionado_50: -4733781603612698014
+      barra_progreso_perfil_seleccionado_51: -226517002939152192
+      barra_progreso_perfil_seleccionado_52: 4889298387142204661
+      barra_progreso_perfil_seleccionado_53: -5500766557828722041
+      barra_progreso_perfil_seleccionado_54: -5183413910718058100
+      barra_progreso_perfil_seleccionado_55: 3466485913453471572
+      barra_progreso_perfil_seleccionado_56: -2365319806842114147
+      barra_progreso_perfil_seleccionado_57: -946195324183948046
+      barra_progreso_perfil_seleccionado_58: -4289644286295674082
+      barra_progreso_perfil_seleccionado_59: -6414846850448785011
+      barra_progreso_perfil_seleccionado_6: -6677371765556835391
+      barra_progreso_perfil_seleccionado_60: -5998833451263744631
+      barra_progreso_perfil_seleccionado_61: -6443809670985816967
+      barra_progreso_perfil_seleccionado_62: -7669062567011152806
+      barra_progreso_perfil_seleccionado_63: 9056088577616164071
+      barra_progreso_perfil_seleccionado_64: -834421083773249892
+      barra_progreso_perfil_seleccionado_65: -6307177779330145371
+      barra_progreso_perfil_seleccionado_66: 4808092477680312834
+      barra_progreso_perfil_seleccionado_67: -4169484665947256237
+      barra_progreso_perfil_seleccionado_68: 5506877036488603605
+      barra_progreso_perfil_seleccionado_69: 7825710085204686842
+      barra_progreso_perfil_seleccionado_7: 3709729693181095053
+      barra_progreso_perfil_seleccionado_70: 956825233983220901
+      barra_progreso_perfil_seleccionado_71: -3306596056385905108
+      barra_progreso_perfil_seleccionado_72: 7703015191627755870
+      barra_progreso_perfil_seleccionado_73: -7124177174886240805
+      barra_progreso_perfil_seleccionado_74: -1291872162649808412
+      barra_progreso_perfil_seleccionado_8: -5616778394144745581
+      barra_progreso_perfil_seleccionado_9: -4155902562001547996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

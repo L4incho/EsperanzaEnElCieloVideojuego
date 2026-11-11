@@ -1,42 +1,65 @@
+
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-// Puerta de nivel: Mateo se para frente a ella, presiona W y entra (camina al centro, se desvanece dentro de la puerta,
-// la pantalla se va a negro) y se carga la escena indicada.
 [RequireComponent(typeof(Collider2D))]
 public class Puerta : MonoBehaviour
 {
+    [Header("Cambio de nivel")]
     public string escenaDestino = "Nivel2";
+
+    [Tooltip("Numero del nivel que Mateo esta terminando.")]
+    public int numeroNivelActual = 1;
+
+    [Header("Controles")]
     public KeyCode tecla = KeyCode.W;
     public KeyCode teclaAlterna = KeyCode.UpArrow;
+
+    [Header("Animacion")]
     public float segundosCaminar = 0.3f;
     public float segundosEntrar = 0.45f;
     public float segundosFundido = 0.45f;
-    [Tooltip("Altura sobre el centro de la puerta donde aparece la letra W")]
+
+    [Tooltip("Altura de la letra W sobre la puerta.")]
     public float alturaIndicador = 0.2f;
 
-    PlayerController mateo;
-    bool dentro, entrando;
-    TextMesh indicador;
+    private PlayerController mateo;
+    private bool dentro;
+    private bool entrando;
+    private TextMesh indicador;
 
-    void Reset() { GetComponent<Collider2D>().isTrigger = true; }
+    private void Reset()
+    {
+        GetComponent<Collider2D>().isTrigger = true;
+    }
 
-    void Awake()
+    private void Awake()
     {
         GetComponent<Collider2D>().isTrigger = true;
         CrearIndicador();
     }
 
-    void CrearIndicador()
+    private void CrearIndicador()
     {
-        var g = new GameObject("Indicador_W");
+        GameObject g = new GameObject("Indicador_W");
         g.transform.SetParent(transform, false);
-        var col = GetComponent<Collider2D>();
-        g.transform.position = new Vector3(col.bounds.center.x, col.bounds.max.y + alturaIndicador, 0f);
+
+        Collider2D col = GetComponent<Collider2D>();
+
+        g.transform.position = new Vector3(
+            col.bounds.center.x,
+            col.bounds.max.y + alturaIndicador,
+            0f
+        );
+
         indicador = g.AddComponent<TextMesh>();
-        var fuente = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+
+        Font fuente = Resources.GetBuiltinResource<Font>(
+            "LegacyRuntime.ttf"
+        );
+
         indicador.font = fuente;
         indicador.text = "W";
         indicador.fontSize = 64;
@@ -45,101 +68,302 @@ public class Puerta : MonoBehaviour
         indicador.alignment = TextAlignment.Center;
         indicador.fontStyle = FontStyle.Bold;
         indicador.color = new Color(0.55f, 1f, 0.95f);
-        var mr = g.GetComponent<MeshRenderer>();
+
+        MeshRenderer mr = g.GetComponent<MeshRenderer>();
         mr.sharedMaterial = fuente.material;
         mr.sortingOrder = 60;
+
         g.SetActive(false);
     }
 
-    void OnTriggerEnter2D(Collider2D o)
+    private void OnTriggerEnter2D(Collider2D otro)
     {
-        var m = o.GetComponentInParent<PlayerController>();
-        if (m == null || entrando) return;
-        mateo = m; dentro = true;
-        if (indicador != null) indicador.gameObject.SetActive(true);
+        PlayerController m =
+            otro.GetComponentInParent<PlayerController>();
+
+        if (m == null || entrando)
+            return;
+
+        mateo = m;
+        dentro = true;
+
+        if (indicador != null)
+            indicador.gameObject.SetActive(true);
     }
 
-    void OnTriggerExit2D(Collider2D o)
+    private void OnTriggerExit2D(Collider2D otro)
     {
-        if (o.GetComponentInParent<PlayerController>() == null) return;
+        if (otro.GetComponentInParent<PlayerController>() == null)
+            return;
+
         dentro = false;
-        if (indicador != null) indicador.gameObject.SetActive(false);
+
+        if (indicador != null)
+            indicador.gameObject.SetActive(false);
     }
 
-    void Update()
+    private void Update()
     {
-        if (indicador != null && indicador.gameObject.activeSelf)
-            indicador.transform.localPosition += Vector3.zero; // (sin animacion extra)
-        if (!dentro || entrando || mateo == null || mateo.EstaMuerto) return;
-        if (Input.GetKeyDown(tecla) || Input.GetKeyDown(teclaAlterna)) Entrar();
+        if (!dentro ||
+            entrando ||
+            mateo == null ||
+            mateo.EstaMuerto)
+            return;
+
+        if (Input.GetKeyDown(tecla) ||
+            Input.GetKeyDown(teclaAlterna))
+        {
+            Entrar();
+        }
     }
 
-    /// <summary>Inicia la entrada (la usa Update al presionar W; tambien sirve para pruebas).</summary>
     public void Entrar()
     {
-        if (entrando) return;
-        if (mateo == null) mateo = FindFirstObjectByType<PlayerController>();
-        if (mateo == null) return;
+        if (entrando)
+            return;
+
+        if (mateo == null)
+            mateo = FindFirstObjectByType<PlayerController>();
+
+        if (mateo == null)
+            return;
+
+        if (GestorGuardado.Instancia == null ||
+            GestorGuardado.Instancia.PerfilActivo == null)
+        {
+            Debug.LogError(
+                "Puerta: No existe un perfil activo."
+            );
+            return;
+        }
+
+        if (!Application.CanStreamedLevelBeLoaded(escenaDestino))
+        {
+            Debug.LogError(
+                "Puerta: Escena no disponible: " +
+                escenaDestino
+            );
+            return;
+        }
+
         entrando = true;
-        if (indicador != null) indicador.gameObject.SetActive(false);
+
+        if (indicador != null)
+            indicador.gameObject.SetActive(false);
+
         StartCoroutine(Rutina());
     }
 
-    IEnumerator Rutina()
+    private IEnumerator Rutina()
     {
-        // congelar a Mateo
+        // Congelar controles de Mateo.
         mateo.enabled = false;
-        var rb = mateo.GetComponent<Rigidbody2D>();
-        if (rb != null) { rb.linearVelocity = Vector2.zero; rb.bodyType = RigidbodyType2D.Kinematic; }
-        var anim = mateo.GetComponent<Animator>();
-        if (anim != null) { anim.Rebind(); anim.Update(0f); }
-        var sr = mateo.GetComponent<SpriteRenderer>();
 
-        // caminar al centro de la puerta
-        Vector3 ini = mateo.transform.position;
-        float xDestino = GetComponent<Collider2D>().bounds.center.x;
-        for (float t = 0; t < segundosCaminar; t += Time.deltaTime)
+        Rigidbody2D rb =
+            mateo.GetComponent<Rigidbody2D>();
+
+        RigidbodyType2D tipoOriginal =
+            rb != null
+            ? rb.bodyType
+            : RigidbodyType2D.Dynamic;
+
+        if (rb != null)
         {
-            float k = t / segundosCaminar;
-            Vector3 p = mateo.transform.position; p.x = Mathf.Lerp(ini.x, xDestino, k);
+            rb.linearVelocity = Vector2.zero;
+            rb.bodyType = RigidbodyType2D.Kinematic;
+        }
+
+        Animator anim = mateo.GetComponent<Animator>();
+
+        if (anim != null)
+        {
+            anim.Rebind();
+            anim.Update(0f);
+        }
+
+        SpriteRenderer sr =
+            mateo.GetComponent<SpriteRenderer>();
+
+        Vector3 posicionOriginal = mateo.transform.position;
+        Vector3 escalaOriginal = mateo.transform.localScale;
+
+        // Caminar hacia el centro de la puerta.
+        float xDestino =
+            GetComponent<Collider2D>().bounds.center.x;
+
+        float duracionCaminar =
+            Mathf.Max(0.01f, segundosCaminar);
+
+        for (float t = 0f;
+             t < duracionCaminar;
+             t += Time.deltaTime)
+        {
+            float k = Mathf.Clamp01(t / duracionCaminar);
+
+            Vector3 p = mateo.transform.position;
+            p.x = Mathf.Lerp(
+                posicionOriginal.x,
+                xDestino,
+                k
+            );
+
             mateo.transform.position = p;
+
             yield return null;
         }
 
-        // entrar: se desvanece y se achica un poco, como si pasara al interior
-        Vector3 esc = mateo.transform.localScale;
-        for (float t = 0; t < segundosEntrar; t += Time.deltaTime)
-        {
-            float k = t / segundosEntrar;
-            mateo.transform.localScale = esc * (1f - 0.25f * k);
-            if (sr != null) { var c = sr.color; c.a = 1f - k; sr.color = c; }
-            yield return null;
-        }
-        if (sr != null) sr.enabled = false;
+        // Animacion de entrada a la puerta.
+        float duracionEntrar =
+            Mathf.Max(0.01f, segundosEntrar);
 
-        // pantalla a negro y cambio de escena
-        var fondo = CrearFundido();
-        for (float t = 0; t < segundosFundido; t += Time.deltaTime)
+        for (float t = 0f;
+             t < duracionEntrar;
+             t += Time.deltaTime)
         {
-            fondo.color = new Color(0, 0, 0, t / segundosFundido);
+            float k = Mathf.Clamp01(t / duracionEntrar);
+
+            mateo.transform.localScale =
+                escalaOriginal * (1f - 0.25f * k);
+
+            if (sr != null)
+            {
+                Color c = sr.color;
+                c.a = 1f - k;
+                sr.color = c;
+            }
+
             yield return null;
         }
+
+        if (sr != null)
+            sr.enabled = false;
+
+        // Fundido de pantalla.
+        Image fondo = CrearFundido();
+
+        float duracionFundido =
+            Mathf.Max(0.01f, segundosFundido);
+
+        for (float t = 0f;
+             t < duracionFundido;
+             t += Time.deltaTime)
+        {
+            fondo.color = new Color(
+                0f,
+                0f,
+                0f,
+                Mathf.Clamp01(t / duracionFundido)
+            );
+
+            yield return null;
+        }
+
         fondo.color = Color.black;
+
+        // CONFIRMAR PROGRESO Y MICROCHIPS UNICOS.
+        GestorGuardado gestor = GestorGuardado.Instancia;
+
+        bool guardado =
+            gestor != null &&
+            gestor.ConfirmarNivelCompletado(
+                numeroNivelActual,
+                Microchips.Cantidad
+            );
+
+        if (!guardado)
+        {
+            Debug.LogError(
+                "Puerta: Fallo el guardado. " +
+                "No se cambiara de escena."
+            );
+
+            RestaurarTrasError(
+                rb,
+                tipoOriginal,
+                anim,
+                sr,
+                posicionOriginal,
+                escalaOriginal,
+                fondo
+            );
+
+            yield break;
+        }
+
+        Debug.Log(
+            "Puerta: Nivel " + numeroNivelActual +
+            " completado. Chips confirmados: " +
+            gestor.PerfilActivo.chipsGuardados
+        );
+
         SceneManager.LoadScene(escenaDestino);
     }
 
-    static Image CrearFundido()
+    private void RestaurarTrasError(
+        Rigidbody2D rb,
+        RigidbodyType2D tipoOriginal,
+        Animator anim,
+        SpriteRenderer sr,
+        Vector3 posicionOriginal,
+        Vector3 escalaOriginal,
+        Image fondo)
     {
-        var g = new GameObject("FundidoPuerta");
-        var c = g.AddComponent<Canvas>();
-        c.renderMode = RenderMode.ScreenSpaceOverlay;
-        c.sortingOrder = 500;
-        var im = new GameObject("Negro").AddComponent<Image>();
-        im.transform.SetParent(g.transform, false);
-        im.rectTransform.anchorMin = Vector2.zero; im.rectTransform.anchorMax = Vector2.one;
-        im.rectTransform.offsetMin = im.rectTransform.offsetMax = Vector2.zero;
-        im.color = new Color(0, 0, 0, 0);
-        im.raycastTarget = false;
-        return im;
+        if (fondo != null)
+            Destroy(fondo.transform.parent.gameObject);
+
+        mateo.transform.position = posicionOriginal;
+        mateo.transform.localScale = escalaOriginal;
+
+        if (sr != null)
+        {
+            sr.enabled = true;
+
+            Color color = sr.color;
+            color.a = 1f;
+            sr.color = color;
+        }
+
+        if (rb != null)
+        {
+            rb.bodyType = tipoOriginal;
+            rb.linearVelocity = Vector2.zero;
+        }
+
+        if (anim != null)
+        {
+            anim.Rebind();
+            anim.Update(0f);
+        }
+
+        mateo.enabled = true;
+        entrando = false;
+
+        if (indicador != null && dentro)
+            indicador.gameObject.SetActive(true);
+    }
+
+    private static Image CrearFundido()
+    {
+        GameObject g = new GameObject("FundidoPuerta");
+
+        Canvas canvas = g.AddComponent<Canvas>();
+        canvas.renderMode = RenderMode.ScreenSpaceOverlay;
+        canvas.sortingOrder = 500;
+
+        Image imagen =
+            new GameObject("Negro").AddComponent<Image>();
+
+        imagen.transform.SetParent(g.transform, false);
+
+        imagen.rectTransform.anchorMin = Vector2.zero;
+        imagen.rectTransform.anchorMax = Vector2.one;
+
+        imagen.rectTransform.offsetMin = Vector2.zero;
+        imagen.rectTransform.offsetMax = Vector2.zero;
+
+        imagen.color = new Color(0f, 0f, 0f, 0f);
+        imagen.raycastTarget = false;
+
+        return imagen;
     }
 }

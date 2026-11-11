@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: b200a4ba5b7c5f3489205cd6654bb0d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1143632955269829592
+    second: crear_partida_seleccionado_0
+  - first:
+      213: -3255890472411677512
+    second: crear_partida_seleccionado_1
+  - first:
+      213: -8040966218903508460
+    second: crear_partida_seleccionado_2
+  - first:
+      213: 4335031674639838127
+    second: crear_partida_seleccionado_3
+  - first:
+      213: 4414287624725048721
+    second: crear_partida_seleccionado_4
+  - first:
+      213: -9220881974535497218
+    second: crear_partida_seleccionado_5
+  - first:
+      213: -2082987245444560273
+    second: crear_partida_seleccionado_6
+  - first:
+      213: -9014598462420953924
+    second: crear_partida_seleccionado_7
+  - first:
+      213: 4543469908405421904
+    second: crear_partida_seleccionado_8
+  - first:
+      213: -5805528058467479190
+    second: crear_partida_seleccionado_9
+  - first:
+      213: -3837433935654537934
+    second: crear_partida_seleccionado_10
+  - first:
+      213: -9061547136828293735
+    second: crear_partida_seleccionado_11
+  - first:
+      213: -5387156139561692028
+    second: crear_partida_seleccionado_12
+  - first:
+      213: 6836998463918079743
+    second: crear_partida_seleccionado_13
+  - first:
+      213: -2071428064200651460
+    second: crear_partida_seleccionado_14
+  - first:
+      213: -2068102411532819714
+    second: crear_partida_seleccionado_15
+  - first:
+      213: 5052974256632803801
+    second: crear_partida_seleccionado_16
+  - first:
+      213: 7354656375597845930
+    second: crear_partida_seleccionado_17
+  - first:
+      213: 2384037948998598647
+    second: crear_partida_seleccionado_18
+  - first:
+      213: -8553475183205408322
+    second: crear_partida_seleccionado_19
+  - first:
+      213: 7335796069209455282
+    second: crear_partida_seleccionado_20
+  - first:
+      213: -308864475549118728
+    second: crear_partida_seleccionado_21
+  - first:
+      213: 4230331787143463431
+    second: crear_partida_seleccionado_22
+  - first:
+      213: -5298622661590172956
+    second: crear_partida_seleccionado_23
+  - first:
+      213: 7407898796341357618
+    second: crear_partida_seleccionado_24
+  - first:
+      213: -1391356221147686282
+    second: crear_partida_seleccionado_25
+  - first:
+      213: 467170875789288283
+    second: crear_partida_seleccionado_26
+  - first:
+      213: 2792323038784955139
+    second: crear_partida_seleccionado_27
+  - first:
+      213: -174749071193768454
+    second: crear_partida_seleccionado_28
+  - first:
+      213: -3842607495197573392
+    second: crear_partida_seleccionado_29
+  - first:
+      213: -8221554742048328870
+    second: crear_partida_seleccionado_30
+  - first:
+      213: 4501656090268096272
+    second: crear_partida_seleccionado_31
+  - first:
+      213: 5600077202421835037
+    second: crear_partida_seleccionado_32
+  - first:
+      213: -2281818524970186894
+    second: crear_partida_seleccionado_33
+  - first:
+      213: -3211072356339273071
+    second: crear_partida_seleccionado_34
+  - first:
+      213: -5435689430192345323
+    second: crear_partida_seleccionado_35
+  - first:
+      213: -6915045329841502927
+    second: crear_partida_seleccionado_36
+  - first:
+      213: 1187799072642574265
+    second: crear_partida_seleccionado_37
+  - first:
+      213: 7616709617213044832
+    second: crear_partida_seleccionado_38
+  - first:
+      213: 3138484798270541377
+    second: crear_partida_seleccionado_39
+  - first:
+      213: -285337957354763976
+    second: crear_partida_seleccionado_40
+  - first:
+      213: 3132605154397104225
+    second: crear_partida_seleccionado_41
+  - first:
+      213: 2362369608500812981
+    second: crear_partida_seleccionado_42
+  - first:
+      213: -1005418370515039612
+    second: crear_partida_seleccionado_43
+  - first:
+      213: -3182587300009560473
+    second: crear_partida_seleccionado_44
+  - first:
+      213: 8961751784020501208
+    second: crear_partida_seleccionado_45
+  - first:
+      213: 3447496866098042282
+    second: crear_partida_seleccionado_46
+  - first:
+      213: 978000520795293867
+    second: crear_partida_seleccionado_47
+  - first:
+      213: 5966446848868919862
+    second: crear_partida_seleccionado_48
+  - first:
+      213: -2369340947075303432
+    second: crear_partida_seleccionado_49
+  - first:
+      213: 1002034797546831772
+    second: crear_partida_seleccionado_50
+  - first:
+      213: 6658826170142941409
+    second: crear_partida_seleccionado_51
+  - first:
+      213: -1222773197860111512
+    second: crear_partida_seleccionado_52
+  - first:
+      213: -4353655501714769401
+    second: crear_partida_seleccionado_53
+  - first:
+      213: -6184958474875417279
+    second: crear_partida_seleccionado_54
+  - first:
+      213: 5834210040419373686
+    second: crear_partida_seleccionado_55
+  - first:
+      213: -3988064215609145909
+    second: crear_partida_seleccionado_56
+  - first:
+      213: 5920193105683656025
+    second: crear_partida_seleccionado_57
+  - first:
+      213: 5697352380478496345
+    second: crear_partida_seleccionado_58
+  - first:
+      213: -7999737596672157281
+    second: crear_partida_seleccionado_59
+  - first:
+      213: -4339026271032219096
+    second: crear_partida_seleccionado_60
+  - first:
+      213: -8723029639755101130
+    second: crear_partida_seleccionado_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 102
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d9441d100fdf00800000000000000
+      internalID: 1143632955269829592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 1861
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcb254add0c0d2d0800000000000000
+      internalID: -3255890472411677512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 675
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2757a3dfb86090800000000000000
+      internalID: -8040966218903508460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 608
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab69f01750292c30800000000000000
+      internalID: 4335031674639838127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 629
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da320f433b24d30800000000000000
+      internalID: 4414287624725048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_5
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef95200d2b8d80080800000000000000
+      internalID: -9220881974535497218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 632
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a8b9be22eb713e0800000000000000
+      internalID: -2082987245444560273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 634
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4dd96b576b5e280800000000000000
+      internalID: -9014598462420953924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 618
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578e223fc5ad0f30800000000000000
+      internalID: 4543469908405421904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 613
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619b756dfe9e6fa0800000000000000
+      internalID: -5805528058467479190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 609
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353848ca22bebac0800000000000000
+      internalID: -3837433935654537934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 598
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d34e1a3eaee3280800000000000000
+      internalID: -9061547136828293735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845cdf880afc35b0800000000000000
+      internalID: -5387156139561692028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7ab301e5e1ee50800000000000000
+      internalID: 6836998463918079743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 409
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d8b87862fc043e0800000000000000
+      internalID: -2071428064200651460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 246
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2257160df9c43e0800000000000000
+      internalID: -2068102411532819714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1bac98055cf1640800000000000000
+      internalID: 5052974256632803801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 85
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad4298c10df01660800000000000000
+      internalID: 7354656375597845930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbc1922edc51120800000000000000
+      internalID: 2384037948998598647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_19
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 150
+        width: 82
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12ced93a3fb4980800000000000000
+      internalID: -8553475183205408322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 63
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2babfe188abfdc560800000000000000
+      internalID: 7335796069209455282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_21
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 102
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe482b5561b6bbf0800000000000000
+      internalID: -308864475549118728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 81
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702cabed85825ba30800000000000000
+      internalID: 4230331787143463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 90
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea351933c28776b0800000000000000
+      internalID: -5298622661590172956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_24
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 85
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c68ffd4b42ec660800000000000000
+      internalID: 7407898796341357618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_25
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a567a73e8e0bce0800000000000000
+      internalID: -1391356221147686282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_26
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 77
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5324d4bf69bb7600800000000000000
+      internalID: 467170875789288283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 61
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303aae8620350c620800000000000000
+      internalID: 2792323038784955139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_28
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 49
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd7aa645aa239df0800000000000000
+      internalID: -174749071193768454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 61
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febe7597d05caac0800000000000000
+      internalID: -3842607495197573392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_30
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 63
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53f7c2958b27ed80800000000000000
+      internalID: -8221554742048328870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_31
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01757610d58197e30800000000000000
+      internalID: 4501656090268096272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_32
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ed1d8b8877bd40800000000000000
+      internalID: 5600077202421835037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 47
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2770f31242a5550e0800000000000000
+      internalID: -2281818524970186894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 47
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192325474baff63d0800000000000000
+      internalID: -3211072356339273071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 31
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f2a04434d8094b0800000000000000
+      internalID: -5435689430192345323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_36
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 49
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c215f8e2d800a0800000000000000
+      internalID: -6915045329841502927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_37
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7266d96f8eb7010800000000000000
+      internalID: 1187799072642574265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_38
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f843ba0df3b960800000000000000
+      internalID: 7616709617213044832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_39
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 33
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e01edab432e8b20800000000000000
+      internalID: 3138484798270541377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_40
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 47
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8390feab3a64a0cf0800000000000000
+      internalID: -285337957354763976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_41
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168a5696acf397b20800000000000000
+      internalID: 3132605154397104225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_42
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 49
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9ede74a2d8c020800000000000000
+      internalID: 2362369608500812981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_43
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 29
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8cc6a1590c02f0800000000000000
+      internalID: -1005418370515039612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_44
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b24476bd25d3d0800000000000000
+      internalID: -3182587300009560473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_45
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 33
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e3c324c98e5c70800000000000000
+      internalID: 8961751784020501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_46
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 53
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5db045228f7df20800000000000000
+      internalID: 3447496866098042282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_47
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba88620ca4e829d00800000000000000
+      internalID: 978000520795293867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_48
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 33
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa4162cc31dc250800000000000000
+      internalID: 5966446848868919862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_49
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7f9c146f86e1fd0800000000000000
+      internalID: -2369340947075303432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ffb50e651f7ed00800000000000000
+      internalID: 1002034797546831772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e17c2f17e86c50800000000000000
+      internalID: 6658826170142941409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_52
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bfdac4146d70fe0800000000000000
+      internalID: -1222773197860111512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70abdd94365b493c0800000000000000
+      internalID: -4353655501714769401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_54
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d4282590d9a2aa0800000000000000
+      internalID: -6184958474875417279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_55
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 21
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d63cee1747f050800000000000000
+      internalID: 5834210040419373686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_56
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 0
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58b2fb9bc87a8c0800000000000000
+      internalID: -3988064215609145909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_57
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 17
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dadf95340c82250800000000000000
+      internalID: 5920193105683656025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_58
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 33
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e95aeddcf011f40800000000000000
+      internalID: 5697352380478496345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_59
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d40e4a093bf090800000000000000
+      internalID: -7999737596672157281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_60
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a690c789ea8c3c0800000000000000
+      internalID: -4339026271032219096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crear_partida_seleccionado_61
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 15
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c813d52c291f680800000000000000
+      internalID: -8723029639755101130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crear_partida_seleccionado_0: 1143632955269829592
+      crear_partida_seleccionado_1: -3255890472411677512
+      crear_partida_seleccionado_10: -3837433935654537934
+      crear_partida_seleccionado_11: -9061547136828293735
+      crear_partida_seleccionado_12: -5387156139561692028
+      crear_partida_seleccionado_13: 6836998463918079743
+      crear_partida_seleccionado_14: -2071428064200651460
+      crear_partida_seleccionado_15: -2068102411532819714
+      crear_partida_seleccionado_16: 5052974256632803801
+      crear_partida_seleccionado_17: 7354656375597845930
+      crear_partida_seleccionado_18: 2384037948998598647
+      crear_partida_seleccionado_19: -8553475183205408322
+      crear_partida_seleccionado_2: -8040966218903508460
+      crear_partida_seleccionado_20: 7335796069209455282
+      crear_partida_seleccionado_21: -308864475549118728
+      crear_partida_seleccionado_22: 4230331787143463431
+      crear_partida_seleccionado_23: -5298622661590172956
+      crear_partida_seleccionado_24: 7407898796341357618
+      crear_partida_seleccionado_25: -1391356221147686282
+      crear_partida_seleccionado_26: 467170875789288283
+      crear_partida_seleccionado_27: 2792323038784955139
+      crear_partida_seleccionado_28: -174749071193768454
+      crear_partida_seleccionado_29: -3842607495197573392
+      crear_partida_seleccionado_3: 4335031674639838127
+      crear_partida_seleccionado_30: -8221554742048328870
+      crear_partida_seleccionado_31: 4501656090268096272
+      crear_partida_seleccionado_32: 5600077202421835037
+      crear_partida_seleccionado_33: -2281818524970186894
+      crear_partida_seleccionado_34: -3211072356339273071
+      crear_partida_seleccionado_35: -5435689430192345323
+      crear_partida_seleccionado_36: -6915045329841502927
+      crear_partida_seleccionado_37: 1187799072642574265
+      crear_partida_seleccionado_38: 7616709617213044832
+      crear_partida_seleccionado_39: 3138484798270541377
+      crear_partida_seleccionado_4: 4414287624725048721
+      crear_partida_seleccionado_40: -285337957354763976
+      crear_partida_seleccionado_41: 3132605154397104225
+      crear_partida_seleccionado_42: 2362369608500812981
+      crear_partida_seleccionado_43: -1005418370515039612
+      crear_partida_seleccionado_44: -3182587300009560473
+      crear_partida_seleccionado_45: 8961751784020501208
+      crear_partida_seleccionado_46: 3447496866098042282
+      crear_partida_seleccionado_47: 978000520795293867
+      crear_partida_seleccionado_48: 5966446848868919862
+      crear_partida_seleccionado_49: -2369340947075303432
+      crear_partida_seleccionado_5: -9220881974535497218
+      crear_partida_seleccionado_50: 1002034797546831772
+      crear_partida_seleccionado_51: 6658826170142941409
+      crear_partida_seleccionado_52: -1222773197860111512
+      crear_partida_seleccionado_53: -4353655501714769401
+      crear_partida_seleccionado_54: -6184958474875417279
+      crear_partida_seleccionado_55: 5834210040419373686
+      crear_partida_seleccionado_56: -3988064215609145909
+      crear_partida_seleccionado_57: 5920193105683656025
+      crear_partida_seleccionado_58: 5697352380478496345
+      crear_partida_seleccionado_59: -7999737596672157281
+      crear_partida_seleccionado_6: -2082987245444560273
+      crear_partida_seleccionado_60: -4339026271032219096
+      crear_partida_seleccionado_61: -8723029639755101130
+      crear_partida_seleccionado_7: -9014598462420953924
+      crear_partida_seleccionado_8: 4543469908405421904
+      crear_partida_seleccionado_9: -5805528058467479190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ce8bcf6da6301db44b773fe4a3c98556
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8722650916529025680
+    second: microchip_0
+  - first:
+      213: 8103930391037446289
+    second: microchip_1
+  - first:
+      213: -4797684765912904439
+    second: microchip_2
+  - first:
+      213: 8875078108074432581
+    second: microchip_3
+  - first:
+      213: -1733287824095261680
+    second: microchip_4
+  - first:
+      213: 4939676938720278204
+    second: microchip_5
+  - first:
+      213: -1172760877851819345
+    second: microchip_6
+  - first:
+      213: -6916036686988429597
+    second: microchip_7
+  - first:
+      213: -6739460820311825018
+    second: microchip_8
+  - first:
+      213: -7409127298318762925
+    second: microchip_9
+  - first:
+      213: -2209703539128388309
+    second: microchip_10
+  - first:
+      213: -8764259558142016308
+    second: microchip_11
+  - first:
+      213: -1378511718279423921
+    second: microchip_12
+  - first:
+      213: 537667729058719508
+    second: microchip_13
+  - first:
+      213: -7042137691699185284
+    second: microchip_14
+  - first:
+      213: -6608270411682808273
+    second: microchip_15
+  - first:
+      213: -4484656936107469492
+    second: microchip_16
+  - first:
+      213: -8535236555787137089
+    second: microchip_17
+  - first:
+      213: 1358969113556977118
+    second: microchip_18
+  - first:
+      213: 7952526261537067393
+    second: microchip_19
+  - first:
+      213: -5390352346179696904
+    second: microchip_20
+  - first:
+      213: -8083648731157825473
+    second: microchip_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: microchip_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 1153
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d4d8cb43be2f680800000000000000
+      internalID: -8722650916529025680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198874211c1f67070800000000000000
+      internalID: 8103930391037446289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4577ef133b6db0800000000000000
+      internalID: -4797684765912904439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 771
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485f91648c9a2b70800000000000000
+      internalID: 8875078108074432581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 776
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cca4748ef12f7e0800000000000000
+      internalID: -1733287824095261680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 746
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb67c9511024d8440800000000000000
+      internalID: 4939676938720278204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 736
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2ca25f13489bfe0800000000000000
+      internalID: -1172760877851819345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_7
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 742
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63c72a64d4500a0800000000000000
+      internalID: -6916036686988429597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 749
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a6a35710a872a0800000000000000
+      internalID: -6739460820311825018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7f083afd7d2990800000000000000
+      internalID: -7409127298318762925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_10
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 662
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253453b65e8551e0800000000000000
+      internalID: -2209703539128388309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 634
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc48f9ded581f5680800000000000000
+      internalID: -8764259558142016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 596
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48dd3955ea8edce0800000000000000
+      internalID: -1378511718279423921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 464
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4176cbd63fd267700800000000000000
+      internalID: 537667729058719508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7971ea841d454e90800000000000000
+      internalID: -7042137691699185284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 471
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2efbeb9215ba44a0800000000000000
+      internalID: -6608270411682808273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 457
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4592dff64c43c1c0800000000000000
+      internalID: -4484656936107469492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 134
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf016af29fbc8980800000000000000
+      internalID: -8535236555787137089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 134
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed58a4a65370cd210800000000000000
+      internalID: 1358969113556977118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d1e5208c0d5e60800000000000000
+      internalID: 7952526261537067393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_20
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 35
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f604c7b91f9135b0800000000000000
+      internalID: -5390352346179696904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: microchip_21
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 33
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38fc4ade4c11df80800000000000000
+      internalID: -8083648731157825473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      microchip_0: -8722650916529025680
+      microchip_1: 8103930391037446289
+      microchip_10: -2209703539128388309
+      microchip_11: -8764259558142016308
+      microchip_12: -1378511718279423921
+      microchip_13: 537667729058719508
+      microchip_14: -7042137691699185284
+      microchip_15: -6608270411682808273
+      microchip_16: -4484656936107469492
+      microchip_17: -8535236555787137089
+      microchip_18: 1358969113556977118
+      microchip_19: 7952526261537067393
+      microchip_2: -4797684765912904439
+      microchip_20: -5390352346179696904
+      microchip_21: -8083648731157825473
+      microchip_3: 8875078108074432581
+      microchip_4: -1733287824095261680
+      microchip_5: 4939676938720278204
+      microchip_6: -1172760877851819345
+      microchip_7: -6916036686988429597
+      microchip_8: -6739460820311825018
+      microchip_9: -7409127298318762925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

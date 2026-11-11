@@ -1,0 +1,4121 @@
+fileFormatVersion: 2
+guid: 80ec8bf32a49596499958eeeb79d7181
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3415981295690531672
+    second: nombre_perfil_0
+  - first:
+      213: 4842960111058530692
+    second: nombre_perfil_1
+  - first:
+      213: -8659301927027848442
+    second: nombre_perfil_2
+  - first:
+      213: 4250444112393637345
+    second: nombre_perfil_3
+  - first:
+      213: 4150195474202267540
+    second: nombre_perfil_4
+  - first:
+      213: -5552872590518094599
+    second: nombre_perfil_5
+  - first:
+      213: 7817090673094030716
+    second: nombre_perfil_6
+  - first:
+      213: -9203623257955412339
+    second: nombre_perfil_7
+  - first:
+      213: -1684665340367936163
+    second: nombre_perfil_8
+  - first:
+      213: 224257852730793574
+    second: nombre_perfil_9
+  - first:
+      213: 1227437811491464399
+    second: nombre_perfil_10
+  - first:
+      213: -835582817322689139
+    second: nombre_perfil_11
+  - first:
+      213: -722404863595634617
+    second: nombre_perfil_12
+  - first:
+      213: -2160271035198423103
+    second: nombre_perfil_13
+  - first:
+      213: 8319821973736056645
+    second: nombre_perfil_14
+  - first:
+      213: 7380466342740895903
+    second: nombre_perfil_15
+  - first:
+      213: 4267414001774985683
+    second: nombre_perfil_16
+  - first:
+      213: 2167417270443423335
+    second: nombre_perfil_17
+  - first:
+      213: -3151135509317742986
+    second: nombre_perfil_18
+  - first:
+      213: -1651641034815683314
+    second: nombre_perfil_19
+  - first:
+      213: -7330725484977817474
+    second: nombre_perfil_20
+  - first:
+      213: -306611054697021434
+    second: nombre_perfil_21
+  - first:
+      213: 5692104308414207012
+    second: nombre_perfil_22
+  - first:
+      213: -3777496707903584145
+    second: nombre_perfil_23
+  - first:
+      213: 8628746705377060326
+    second: nombre_perfil_24
+  - first:
+      213: 7260293222145602303
+    second: nombre_perfil_25
+  - first:
+      213: -5334654163344748572
+    second: nombre_perfil_26
+  - first:
+      213: 656078599332964093
+    second: nombre_perfil_27
+  - first:
+      213: -7352299742779662919
+    second: nombre_perfil_28
+  - first:
+      213: 2348038614904607095
+    second: nombre_perfil_29
+  - first:
+      213: -992612886943673990
+    second: nombre_perfil_30
+  - first:
+      213: -7558208651136731574
+    second: nombre_perfil_31
+  - first:
+      213: 1803356322766507788
+    second: nombre_perfil_32
+  - first:
+      213: -3265300053401457748
+    second: nombre_perfil_33
+  - first:
+      213: -8556156929092163111
+    second: nombre_perfil_34
+  - first:
+      213: -6359722489092234786
+    second: nombre_perfil_35
+  - first:
+      213: -2792862716804361935
+    second: nombre_perfil_36
+  - first:
+      213: 6256874956986736910
+    second: nombre_perfil_37
+  - first:
+      213: -7736224382457923612
+    second: nombre_perfil_38
+  - first:
+      213: -3374863337267287693
+    second: nombre_perfil_39
+  - first:
+      213: -2198458874223504618
+    second: nombre_perfil_40
+  - first:
+      213: -6352798476043024861
+    second: nombre_perfil_41
+  - first:
+      213: 4476742993570622987
+    second: nombre_perfil_42
+  - first:
+      213: -2295396598929532654
+    second: nombre_perfil_43
+  - first:
+      213: 3889218297011834464
+    second: nombre_perfil_44
+  - first:
+      213: 7037299777230665149
+    second: nombre_perfil_45
+  - first:
+      213: 5882606614221678838
+    second: nombre_perfil_46
+  - first:
+      213: 4054620677018765906
+    second: nombre_perfil_47
+  - first:
+      213: 7064292040865014576
+    second: nombre_perfil_48
+  - first:
+      213: -9003768940966996950
+    second: nombre_perfil_49
+  - first:
+      213: 3999231241733786124
+    second: nombre_perfil_50
+  - first:
+      213: -9065762052992920935
+    second: nombre_perfil_51
+  - first:
+      213: -3882724983869177570
+    second: nombre_perfil_52
+  - first:
+      213: 1082466777189933692
+    second: nombre_perfil_53
+  - first:
+      213: -58963774965531048
+    second: nombre_perfil_54
+  - first:
+      213: -2379292154224329378
+    second: nombre_perfil_55
+  - first:
+      213: 2432894146857398076
+    second: nombre_perfil_56
+  - first:
+      213: -5254333913579983572
+    second: nombre_perfil_57
+  - first:
+      213: -4226198728453555054
+    second: nombre_perfil_58
+  - first:
+      213: -7351910962450088149
+    second: nombre_perfil_59
+  - first:
+      213: 8148601564677733473
+    second: nombre_perfil_60
+  - first:
+      213: -8346901385922568413
+    second: nombre_perfil_61
+  - first:
+      213: 6255785254436516894
+    second: nombre_perfil_62
+  - first:
+      213: 4358700230940808610
+    second: nombre_perfil_63
+  - first:
+      213: 8369004353284252610
+    second: nombre_perfil_64
+  - first:
+      213: 4530139514622943136
+    second: nombre_perfil_65
+  - first:
+      213: 2626609451150130735
+    second: nombre_perfil_66
+  - first:
+      213: -931040740293738739
+    second: nombre_perfil_67
+  - first:
+      213: -6115344338142432655
+    second: nombre_perfil_68
+  - first:
+      213: -4041631232554771957
+    second: nombre_perfil_69
+  - first:
+      213: -8354719020371241926
+    second: nombre_perfil_70
+  - first:
+      213: -6254842334285044639
+    second: nombre_perfil_71
+  - first:
+      213: 7750726369894518937
+    second: nombre_perfil_72
+  - first:
+      213: -3445117859229630190
+    second: nombre_perfil_73
+  - first:
+      213: 5365440838601486521
+    second: nombre_perfil_74
+  - first:
+      213: 7963227876422939979
+    second: nombre_perfil_75
+  - first:
+      213: 9033819632832387744
+    second: nombre_perfil_76
+  - first:
+      213: 8323247153011498865
+    second: nombre_perfil_77
+  - first:
+      213: -5271833340707669992
+    second: nombre_perfil_78
+  - first:
+      213: -4844035716308399381
+    second: nombre_perfil_79
+  - first:
+      213: 5870356955956045033
+    second: nombre_perfil_80
+  - first:
+      213: 5753157542498494507
+    second: nombre_perfil_81
+  - first:
+      213: -7049518341393153383
+    second: nombre_perfil_82
+  - first:
+      213: 2975260323899538410
+    second: nombre_perfil_83
+  - first:
+      213: -5377006329314862681
+    second: nombre_perfil_84
+  - first:
+      213: 8796509644762260635
+    second: nombre_perfil_85
+  - first:
+      213: -1525361144773060427
+    second: nombre_perfil_86
+  - first:
+      213: -1109412576718790001
+    second: nombre_perfil_87
+  - first:
+      213: 1239364632329081791
+    second: nombre_perfil_88
+  - first:
+      213: -3021985801516405963
+    second: nombre_perfil_89
+  - first:
+      213: -7909413234596300289
+    second: nombre_perfil_90
+  - first:
+      213: 1712882990038993414
+    second: nombre_perfil_91
+  - first:
+      213: 6614726289693655374
+    second: nombre_perfil_92
+  - first:
+      213: -1033194553955789507
+    second: nombre_perfil_93
+  - first:
+      213: 111821111261002238
+    second: nombre_perfil_94
+  - first:
+      213: 3614087464058683836
+    second: nombre_perfil_95
+  - first:
+      213: 4688617083351208616
+    second: nombre_perfil_96
+  - first:
+      213: 4521566363754889972
+    second: nombre_perfil_97
+  - first:
+      213: -3865258712916368222
+    second: nombre_perfil_98
+  - first:
+      213: 5050740257893654735
+    second: nombre_perfil_99
+  - first:
+      213: 2710983184511093800
+    second: nombre_perfil_100
+  - first:
+      213: -4371823967737105946
+    second: nombre_perfil_101
+  - first:
+      213: -1571659086585880620
+    second: nombre_perfil_102
+  - first:
+      213: -1966297965012291480
+    second: nombre_perfil_103
+  - first:
+      213: -6062221232070015660
+    second: nombre_perfil_104
+  - first:
+      213: -2869226183936937101
+    second: nombre_perfil_105
+  - first:
+      213: 4602617322271338133
+    second: nombre_perfil_106
+  - first:
+      213: -5005522435832867699
+    second: nombre_perfil_107
+  - first:
+      213: -452848722956086803
+    second: nombre_perfil_108
+  - first:
+      213: 4284478108902142664
+    second: nombre_perfil_109
+  - first:
+      213: 7818976747853968235
+    second: nombre_perfil_110
+  - first:
+      213: -8955614397848775677
+    second: nombre_perfil_111
+  - first:
+      213: -7446935368397446483
+    second: nombre_perfil_112
+  - first:
+      213: -7589371105133180409
+    second: nombre_perfil_113
+  - first:
+      213: 2889461590685530019
+    second: nombre_perfil_114
+  - first:
+      213: -1030864402574552086
+    second: nombre_perfil_115
+  - first:
+      213: 1634960957478370829
+    second: nombre_perfil_116
+  - first:
+      213: 406050199216791510
+    second: nombre_perfil_117
+  - first:
+      213: 1644948194867509389
+    second: nombre_perfil_118
+  - first:
+      213: 7771751776841411120
+    second: nombre_perfil_119
+  - first:
+      213: 5670313650454101482
+    second: nombre_perfil_120
+  - first:
+      213: -3518481551250581910
+    second: nombre_perfil_121
+  - first:
+      213: -4215777312536654069
+    second: nombre_perfil_122
+  - first:
+      213: -2744825878337867128
+    second: nombre_perfil_123
+  - first:
+      213: -6709872316244962370
+    second: nombre_perfil_124
+  - first:
+      213: -2838347001010269386
+    second: nombre_perfil_125
+  - first:
+      213: 4452606033281046312
+    second: nombre_perfil_126
+  - first:
+      213: -4544896717040500385
+    second: nombre_perfil_127
+  - first:
+      213: -6619235710757817041
+    second: nombre_perfil_128
+  - first:
+      213: 8368994915335118859
+    second: nombre_perfil_129
+  - first:
+      213: 5171355513954271689
+    second: nombre_perfil_130
+  - first:
+      213: -2741479885105521197
+    second: nombre_perfil_131
+  - first:
+      213: 5645930652768335449
+    second: nombre_perfil_132
+  - first:
+      213: 3071294543602276233
+    second: nombre_perfil_133
+  - first:
+      213: 402497927129658327
+    second: nombre_perfil_134
+  - first:
+      213: -4589593491617510777
+    second: nombre_perfil_135
+  - first:
+      213: 6273947965337048303
+    second: nombre_perfil_136
+  - first:
+      213: 8214887139819227501
+    second: nombre_perfil_137
+  - first:
+      213: -7086138594685434935
+    second: nombre_perfil_138
+  - first:
+      213: -4484182624934113636
+    second: nombre_perfil_139
+  - first:
+      213: -5478893350256404788
+    second: nombre_perfil_140
+  - first:
+      213: -7008324880355016636
+    second: nombre_perfil_141
+  - first:
+      213: -4154090798679546171
+    second: nombre_perfil_142
+  - first:
+      213: -781376806462924243
+    second: nombre_perfil_143
+  - first:
+      213: 8029971176509378091
+    second: nombre_perfil_144
+  - first:
+      213: 4945822607972987278
+    second: nombre_perfil_145
+  - first:
+      213: 4174922056161912418
+    second: nombre_perfil_146
+  - first:
+      213: -561703493160320839
+    second: nombre_perfil_147
+  - first:
+      213: -1476823917209183568
+    second: nombre_perfil_148
+  - first:
+      213: -2841540387084902099
+    second: nombre_perfil_149
+  - first:
+      213: -4982820642250087450
+    second: nombre_perfil_150
+  - first:
+      213: 7528061110890218353
+    second: nombre_perfil_151
+  - first:
+      213: 8073268364334339154
+    second: nombre_perfil_152
+  - first:
+      213: -5701037038269744033
+    second: nombre_perfil_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nombre_perfil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2170
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acbcf63c1ff790d0800000000000000
+      internalID: -3415981295690531672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 720
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b709df86a53340800000000000000
+      internalID: 4842960111058530692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 708
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b46acb6caf3d780800000000000000
+      internalID: -8659301927027848442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 711
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed8fd0866c9cfa30800000000000000
+      internalID: 4250444112393637345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 695
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f824c8bc4789930800000000000000
+      internalID: 4150195474202267540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 694
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47a2f9ccb30f2b0800000000000000
+      internalID: -5552872590518094599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 710
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75f9caec82eb7c60800000000000000
+      internalID: 7817090673094030716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_7
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 690
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d865b07e869264080800000000000000
+      internalID: -9203623257955412339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_8
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 676
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e4f57ccdde98e0800000000000000
+      internalID: -1684665340367936163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 689
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e5c123459bc1300800000000000000
+      internalID: 224257852730793574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 694
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e4d1bf2cb80110800000000000000
+      internalID: 1227437811491464399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 687
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9f01dad96764f0800000000000000
+      internalID: -835582817322689139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 699
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402e51aa9089f5f0800000000000000
+      internalID: -722404863595634617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 690
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbe6860fc2502e0800000000000000
+      internalID: -2160271035198423103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 689
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e60b3102f57370800000000000000
+      internalID: 8319821973736056645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_15
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 690
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f982ccb090fac6660800000000000000
+      internalID: 7380466342740895903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 686
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18355cc66e83b30800000000000000
+      internalID: 4267414001774985683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_17
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 647
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b3d42686341e10800000000000000
+      internalID: 2167417270443423335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_18
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 657
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0fff13fae444d0800000000000000
+      internalID: -3151135509317742986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_19
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 694
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e054a57ca313419e0800000000000000
+      internalID: -1651641034815683314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_20
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 692
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787ef1e208044a90800000000000000
+      internalID: -7330725484977817474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_21
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 694
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6008398ced2bebbf0800000000000000
+      internalID: -306611054697021434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_22
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 698
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424df7fd5ba6efe40800000000000000
+      internalID: 5692104308414207012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_23
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 692
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68033912c2a39bc0800000000000000
+      internalID: -3777496707903584145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_24
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 690
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e562d659677fb770800000000000000
+      internalID: 8628746705377060326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_25
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 694
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff23a27083eb1c460800000000000000
+      internalID: 7260293222145602303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_26
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 668
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef074a7d4087f5b0800000000000000
+      internalID: -5334654163344748572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_27
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 691
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62af1920cda1900800000000000000
+      internalID: 656078599332964093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_28
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 700
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd1c6d865267f990800000000000000
+      internalID: -7352299742779662919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 676
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711a480ea8e59020800000000000000
+      internalID: 2348038614904607095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 651
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715f32a6d78932f0800000000000000
+      internalID: -992612886943673990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 659
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46f5b2e649db1790800000000000000
+      internalID: -7558208651136731574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 662
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc3fd550fc60910800000000000000
+      internalID: 1803356322766507788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 664
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab21f7d6e25fa2d0800000000000000
+      internalID: -3265300053401457748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_34
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 679
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9e6fefa9c624980800000000000000
+      internalID: -8556156929092163111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_35
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 676
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed12897671abdb7a0800000000000000
+      internalID: -6359722489092234786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_36
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 676
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13191720822cd39d0800000000000000
+      internalID: -2792862716804361935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_37
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 676
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016b3f7f92e4d650800000000000000
+      internalID: 6256874956986736910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_38
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 657
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e731e499e863a490800000000000000
+      internalID: -7736224382457923612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_39
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 677
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379a1b0fca31a21d0800000000000000
+      internalID: -3374863337267287693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_40
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135a944d418d71e0800000000000000
+      internalID: -2198458874223504618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_41
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 678
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32600d1d17356d7a0800000000000000
+      internalID: -6352798476043024861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_42
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 681
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eee7aa806902e30800000000000000
+      internalID: 4476742993570622987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_43
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 679
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2195a2e64fc1520e0800000000000000
+      internalID: -2295396598929532654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_44
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 676
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e07576f6749f530800000000000000
+      internalID: 3889218297011834464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_45
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 676
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f4c7bcd289a160800000000000000
+      internalID: 7037299777230665149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_46
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 676
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8eb0a5c8733a150800000000000000
+      internalID: 5882606614221678838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 668
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a48a00608e44830800000000000000
+      internalID: 4054620677018765906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 661
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e065de28690260800000000000000
+      internalID: 7064292040865014576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 668
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2497f92adf2c0380800000000000000
+      internalID: -9003768940966996950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 649
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0acf2220af108730800000000000000
+      internalID: 3999231241733786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_51
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 666
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992142df171ff2280800000000000000
+      internalID: -9065762052992920935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_52
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 660
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1181ffd23acd1ac0800000000000000
+      internalID: -3882724983869177570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_53
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 621
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7261977cc1b50f00800000000000000
+      internalID: 1082466777189933692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_54
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 663
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e309252c48e2ff0800000000000000
+      internalID: -58963774965531048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_55
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 660
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5db59a446e0bfed0800000000000000
+      internalID: -2379292154224329378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_56
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 559
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fef87265063c120800000000000000
+      internalID: 2432894146857398076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 651
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2de6cde42bd417b0800000000000000
+      internalID: -5254333913579983572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_58
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 661
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c7158d5a68955c0800000000000000
+      internalID: -4226198728453555054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_59
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 650
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fbcd68ee3c8f990800000000000000
+      internalID: -7351910962450088149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_60
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 641
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cfece23f5a51170800000000000000
+      internalID: 8148601564677733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_61
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 641
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9edcc969d92c80800000000000000
+      internalID: -8346901385922568413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_62
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 651
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b0d95b8301d650800000000000000
+      internalID: 6255785254436516894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_63
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 648
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5d3a344c63d7c30800000000000000
+      internalID: 4358700230940808610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_64
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 643
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a4315e1da42470800000000000000
+      internalID: 8369004353284252610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_65
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 659
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af9f0803e94ede30800000000000000
+      internalID: 4530139514622943136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_66
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 649
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebc732167937420800000000000000
+      internalID: 2626609451150130735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 641
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fff5b21674413f0800000000000000
+      internalID: -931040740293738739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_68
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 647
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172f2d599bee12ba0800000000000000
+      internalID: -6115344338142432655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_69
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 635
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad276becd39e7c0800000000000000
+      internalID: -4041631232554771957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_70
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 552
+        width: 158
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349290f0531e0c80800000000000000
+      internalID: -8354719020371241926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_71
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 643
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1646dda59065239a0800000000000000
+      internalID: -6254842334285044639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_72
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 647
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d0dc719c109b60800000000000000
+      internalID: 7750726369894518937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_73
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211834f5f8b7030d0800000000000000
+      internalID: -3445117859229630190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_74
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 641
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03730f300e57a40800000000000000
+      internalID: 5365440838601486521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_75
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 641
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457da70091138e60800000000000000
+      internalID: 7963227876422939979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_76
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 643
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9ce3c7139e5d70800000000000000
+      internalID: 9033819632832387744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_77
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 610
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f180def2d128370800000000000000
+      internalID: 8323247153011498865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_78
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fe0c028fa6d6b0800000000000000
+      internalID: -5271833340707669992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_79
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 609
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea022a4e2786ccb0800000000000000
+      internalID: -4844035716308399381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_80
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 643
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e0888c82b77150800000000000000
+      internalID: 5870356955956045033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_81
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 651
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b286b79ad4257df40800000000000000
+      internalID: 5753157542498494507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_82
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 643
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99209af1b641b2e90800000000000000
+      internalID: -7049518341393153383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_83
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 643
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7850408f3a4920800000000000000
+      internalID: 2975260323899538410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_84
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 640
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9192a6b390165b0800000000000000
+      internalID: -5377006329314862681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_85
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 643
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942a5f7aea731a70800000000000000
+      internalID: 8796509644762260635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_86
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 625
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85e9bde14d4dae0800000000000000
+      internalID: -1525361144773060427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_87
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82635fa3239a90f0800000000000000
+      internalID: -1109412576718790001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_88
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 633
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb35821119b133110800000000000000
+      internalID: 1239364632329081791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_89
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 565
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2758bcefbf06d0800000000000000
+      internalID: -3021985801516405963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_90
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 613
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93d1aa19e1c3290800000000000000
+      internalID: -7909413234596300289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_91
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 635
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4513110265c710800000000000000
+      internalID: 1712882990038993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_92
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 631
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41c0af938a3ccb50800000000000000
+      internalID: 6614726289693655374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_93
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 629
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d89bf60b59a1f0800000000000000
+      internalID: -1033194553955789507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_94
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 615
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9f91f45b44d8100800000000000000
+      internalID: 111821111261002238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_95
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 625
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1096a7661d72230800000000000000
+      internalID: 3614087464058683836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_96
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 613
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a21afc5560511140800000000000000
+      internalID: 4688617083351208616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_97
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 604
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f207fbc6a4dfbe30800000000000000
+      internalID: 4521566363754889972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_98
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 593
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4e2abfda7db5ac0800000000000000
+      internalID: -3865258712916368222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_99
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 579
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0248c2185d71640800000000000000
+      internalID: 5050740257893654735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_100
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 601
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c47d8c7d85f9520800000000000000
+      internalID: 2710983184511093800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_101
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 610
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1bd76a3492453c0800000000000000
+      internalID: -4371823967737105946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_102
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 593
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df98044368503ae0800000000000000
+      internalID: -1571659086585880620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_103
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 575
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607ed03b6e46b4e0800000000000000
+      internalID: -1966297965012291480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_104
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 71
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c2a098e9aedba0800000000000000
+      internalID: -6062221232070015660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 57
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373703eccf57e28d0800000000000000
+      internalID: -2869226183936937101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 45
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eea03a118cfdf30800000000000000
+      internalID: 4602617322271338133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 82
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841fe07ddfc88ab0800000000000000
+      internalID: -5005522435832867699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_108
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1963b5c7827b9f0800000000000000
+      internalID: -452848722956086803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2bc01d326857b30800000000000000
+      internalID: 4284478108902142664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_110
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 26
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63ffdaece5928c60800000000000000
+      internalID: 7818976747853968235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_111
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 81
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30499de672447b380800000000000000
+      internalID: -8955614397848775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 65
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a06decbb27a890800000000000000
+      internalID: -7446935368397446483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_113
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 80
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a4ce9a0332da690800000000000000
+      internalID: -7589371105133180409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_114
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 57
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a732f8f10e691820800000000000000
+      internalID: 2889461590685530019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_115
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 57
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3d2f0a942a1b1f0800000000000000
+      internalID: -1030864402574552086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_116
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e7124145c80b610800000000000000
+      internalID: 1634960957478370829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 31
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df1b4d318492a500800000000000000
+      internalID: 406050199216791510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 57
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d887ffcfaa704d610800000000000000
+      internalID: 1644948194867509389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_119
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aa425801fcadb60800000000000000
+      internalID: 7771751776841411120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_120
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed7d54f83001be40800000000000000
+      internalID: 5670313650454101482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_121
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6691fcbba7db2fc0800000000000000
+      internalID: -3518481551250581910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_122
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 53
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f0a12dedc8e75c0800000000000000
+      internalID: -4215777312536654069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_123
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 55
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8823f57086b68e9d0800000000000000
+      internalID: -2744825878337867128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_124
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 49
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3ddf5cdaeb1e2a0800000000000000
+      internalID: -6709872316244962370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_125
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633dc77d07a2c98d0800000000000000
+      internalID: -2838347001010269386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_126
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 31
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8275a7aa895dacd30800000000000000
+      internalID: 4452606033281046312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_127
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 49
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5146f704884de0c0800000000000000
+      internalID: -4544896717040500385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_128
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2533b7f030c324a0800000000000000
+      internalID: -6619235710757817041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_129
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00a99fd884a42470800000000000000
+      internalID: 8368994915335118859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_130
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 33
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18080e07854c740800000000000000
+      internalID: 5171355513954271689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_131
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 52
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1869c19e44f9d0800000000000000
+      internalID: -2741479885105521197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_132
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 30
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956feb8e3006a5e40800000000000000
+      internalID: 5645930652768335449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_133
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 17
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98752007d1e6f9a20800000000000000
+      internalID: 3071294543602276233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_134
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 45
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f4617bb5f59500800000000000000
+      internalID: 402497927129658327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a81bc390d7e40c0800000000000000
+      internalID: -4589593491617510777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_136
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe413350f6a811750800000000000000
+      internalID: 6273947965337048303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_137
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 29
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6989de4454210270800000000000000
+      internalID: 8214887139819227501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_138
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3c69afd7af8ad90800000000000000
+      internalID: -7086138594685434935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_139
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec2dc29abf4c1c0800000000000000
+      internalID: -4484182624934113636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_140
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc697bfb68f07f3b0800000000000000
+      internalID: -5478893350256404788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_141
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44048eb27ad6dbe90800000000000000
+      internalID: -7008324880355016636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_142
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6acfb8d64b956c0800000000000000
+      internalID: -4154090798679546171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_143
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a5c073fedf725f0800000000000000
+      internalID: -781376806462924243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_144
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e877c8d30307f60800000000000000
+      internalID: 8029971176509378091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_145
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817356357713a440800000000000000
+      internalID: 4945822607972987278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_146
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266697a8d7d40f930800000000000000
+      internalID: 4174922056161912418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_147
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0451526ad6438f0800000000000000
+      internalID: -561703493160320839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_148
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 12
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba12fac874418be0800000000000000
+      internalID: -1476823917209183568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_149
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 11
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e0e4b212d098d0800000000000000
+      internalID: -2841540387084902099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_150
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 18
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32337a60779dab0800000000000000
+      internalID: -4982820642250087450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_151
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 17
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1734b0ae1bb097860800000000000000
+      internalID: 7528061110890218353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_152
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541c88adc20a0070800000000000000
+      internalID: 8073268364334339154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nombre_perfil_153
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3692e409d1e0b0800000000000000
+      internalID: -5701037038269744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nombre_perfil_0: -3415981295690531672
+      nombre_perfil_1: 4842960111058530692
+      nombre_perfil_10: 1227437811491464399
+      nombre_perfil_100: 2710983184511093800
+      nombre_perfil_101: -4371823967737105946
+      nombre_perfil_102: -1571659086585880620
+      nombre_perfil_103: -1966297965012291480
+      nombre_perfil_104: -6062221232070015660
+      nombre_perfil_105: -2869226183936937101
+      nombre_perfil_106: 4602617322271338133
+      nombre_perfil_107: -5005522435832867699
+      nombre_perfil_108: -452848722956086803
+      nombre_perfil_109: 4284478108902142664
+      nombre_perfil_11: -835582817322689139
+      nombre_perfil_110: 7818976747853968235
+      nombre_perfil_111: -8955614397848775677
+      nombre_perfil_112: -7446935368397446483
+      nombre_perfil_113: -7589371105133180409
+      nombre_perfil_114: 2889461590685530019
+      nombre_perfil_115: -1030864402574552086
+      nombre_perfil_116: 1634960957478370829
+      nombre_perfil_117: 406050199216791510
+      nombre_perfil_118: 1644948194867509389
+      nombre_perfil_119: 7771751776841411120
+      nombre_perfil_12: -722404863595634617
+      nombre_perfil_120: 5670313650454101482
+      nombre_perfil_121: -3518481551250581910
+      nombre_perfil_122: -4215777312536654069
+      nombre_perfil_123: -2744825878337867128
+      nombre_perfil_124: -6709872316244962370
+      nombre_perfil_125: -2838347001010269386
+      nombre_perfil_126: 4452606033281046312
+      nombre_perfil_127: -4544896717040500385
+      nombre_perfil_128: -6619235710757817041
+      nombre_perfil_129: 8368994915335118859
+      nombre_perfil_13: -2160271035198423103
+      nombre_perfil_130: 5171355513954271689
+      nombre_perfil_131: -2741479885105521197
+      nombre_perfil_132: 5645930652768335449
+      nombre_perfil_133: 3071294543602276233
+      nombre_perfil_134: 402497927129658327
+      nombre_perfil_135: -4589593491617510777
+      nombre_perfil_136: 6273947965337048303
+      nombre_perfil_137: 8214887139819227501
+      nombre_perfil_138: -7086138594685434935
+      nombre_perfil_139: -4484182624934113636
+      nombre_perfil_14: 8319821973736056645
+      nombre_perfil_140: -5478893350256404788
+      nombre_perfil_141: -7008324880355016636
+      nombre_perfil_142: -4154090798679546171
+      nombre_perfil_143: -781376806462924243
+      nombre_perfil_144: 8029971176509378091
+      nombre_perfil_145: 4945822607972987278
+      nombre_perfil_146: 4174922056161912418
+      nombre_perfil_147: -561703493160320839
+      nombre_perfil_148: -1476823917209183568
+      nombre_perfil_149: -2841540387084902099
+      nombre_perfil_15: 7380466342740895903
+      nombre_perfil_150: -4982820642250087450
+      nombre_perfil_151: 7528061110890218353
+      nombre_perfil_152: 8073268364334339154
+      nombre_perfil_153: -5701037038269744033
+      nombre_perfil_16: 4267414001774985683
+      nombre_perfil_17: 2167417270443423335
+      nombre_perfil_18: -3151135509317742986
+      nombre_perfil_19: -1651641034815683314
+      nombre_perfil_2: -8659301927027848442
+      nombre_perfil_20: -7330725484977817474
+      nombre_perfil_21: -306611054697021434
+      nombre_perfil_22: 5692104308414207012
+      nombre_perfil_23: -3777496707903584145
+      nombre_perfil_24: 8628746705377060326
+      nombre_perfil_25: 7260293222145602303
+      nombre_perfil_26: -5334654163344748572
+      nombre_perfil_27: 656078599332964093
+      nombre_perfil_28: -7352299742779662919
+      nombre_perfil_29: 2348038614904607095
+      nombre_perfil_3: 4250444112393637345
+      nombre_perfil_30: -992612886943673990
+      nombre_perfil_31: -7558208651136731574
+      nombre_perfil_32: 1803356322766507788
+      nombre_perfil_33: -3265300053401457748
+      nombre_perfil_34: -8556156929092163111
+      nombre_perfil_35: -6359722489092234786
+      nombre_perfil_36: -2792862716804361935
+      nombre_perfil_37: 6256874956986736910
+      nombre_perfil_38: -7736224382457923612
+      nombre_perfil_39: -3374863337267287693
+      nombre_perfil_4: 4150195474202267540
+      nombre_perfil_40: -2198458874223504618
+      nombre_perfil_41: -6352798476043024861
+      nombre_perfil_42: 4476742993570622987
+      nombre_perfil_43: -2295396598929532654
+      nombre_perfil_44: 3889218297011834464
+      nombre_perfil_45: 7037299777230665149
+      nombre_perfil_46: 5882606614221678838
+      nombre_perfil_47: 4054620677018765906
+      nombre_perfil_48: 7064292040865014576
+      nombre_perfil_49: -9003768940966996950
+      nombre_perfil_5: -5552872590518094599
+      nombre_perfil_50: 3999231241733786124
+      nombre_perfil_51: -9065762052992920935
+      nombre_perfil_52: -3882724983869177570
+      nombre_perfil_53: 1082466777189933692
+      nombre_perfil_54: -58963774965531048
+      nombre_perfil_55: -2379292154224329378
+      nombre_perfil_56: 2432894146857398076
+      nombre_perfil_57: -5254333913579983572
+      nombre_perfil_58: -4226198728453555054
+      nombre_perfil_59: -7351910962450088149
+      nombre_perfil_6: 7817090673094030716
+      nombre_perfil_60: 8148601564677733473
+      nombre_perfil_61: -8346901385922568413
+      nombre_perfil_62: 6255785254436516894
+      nombre_perfil_63: 4358700230940808610
+      nombre_perfil_64: 8369004353284252610
+      nombre_perfil_65: 4530139514622943136
+      nombre_perfil_66: 2626609451150130735
+      nombre_perfil_67: -931040740293738739
+      nombre_perfil_68: -6115344338142432655
+      nombre_perfil_69: -4041631232554771957
+      nombre_perfil_7: -9203623257955412339
+      nombre_perfil_70: -8354719020371241926
+      nombre_perfil_71: -6254842334285044639
+      nombre_perfil_72: 7750726369894518937
+      nombre_perfil_73: -3445117859229630190
+      nombre_perfil_74: 5365440838601486521
+      nombre_perfil_75: 7963227876422939979
+      nombre_perfil_76: 9033819632832387744
+      nombre_perfil_77: 8323247153011498865
+      nombre_perfil_78: -5271833340707669992
+      nombre_perfil_79: -4844035716308399381
+      nombre_perfil_8: -1684665340367936163
+      nombre_perfil_80: 5870356955956045033
+      nombre_perfil_81: 5753157542498494507
+      nombre_perfil_82: -7049518341393153383
+      nombre_perfil_83: 2975260323899538410
+      nombre_perfil_84: -5377006329314862681
+      nombre_perfil_85: 8796509644762260635
+      nombre_perfil_86: -1525361144773060427
+      nombre_perfil_87: -1109412576718790001
+      nombre_perfil_88: 1239364632329081791
+      nombre_perfil_89: -3021985801516405963
+      nombre_perfil_9: 224257852730793574
+      nombre_perfil_90: -7909413234596300289
+      nombre_perfil_91: 1712882990038993414
+      nombre_perfil_92: 6614726289693655374
+      nombre_perfil_93: -1033194553955789507
+      nombre_perfil_94: 111821111261002238
+      nombre_perfil_95: 3614087464058683836
+      nombre_perfil_96: 4688617083351208616
+      nombre_perfil_97: 4521566363754889972
+      nombre_perfil_98: -3865258712916368222
+      nombre_perfil_99: 5050740257893654735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

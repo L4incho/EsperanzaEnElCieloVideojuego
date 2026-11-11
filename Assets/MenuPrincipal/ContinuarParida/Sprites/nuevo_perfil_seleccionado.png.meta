@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 0765ea8ede722284bb37f26e22eb1185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5152388687533937451
+    second: nuevo_perfil_seleccionado_0
+  - first:
+      213: -2787493821665394060
+    second: nuevo_perfil_seleccionado_1
+  - first:
+      213: 7909938982297086988
+    second: nuevo_perfil_seleccionado_2
+  - first:
+      213: -7042612581070686098
+    second: nuevo_perfil_seleccionado_3
+  - first:
+      213: -4614755891422108701
+    second: nuevo_perfil_seleccionado_4
+  - first:
+      213: 3884009758799457495
+    second: nuevo_perfil_seleccionado_5
+  - first:
+      213: -326439604593699602
+    second: nuevo_perfil_seleccionado_6
+  - first:
+      213: 8401370715852429710
+    second: nuevo_perfil_seleccionado_7
+  - first:
+      213: -386730149293090095
+    second: nuevo_perfil_seleccionado_8
+  - first:
+      213: -1000030324792141933
+    second: nuevo_perfil_seleccionado_9
+  - first:
+      213: 1710434980383277776
+    second: nuevo_perfil_seleccionado_10
+  - first:
+      213: -7260796231791178647
+    second: nuevo_perfil_seleccionado_11
+  - first:
+      213: 8049514737883351953
+    second: nuevo_perfil_seleccionado_12
+  - first:
+      213: -2039059618310521385
+    second: nuevo_perfil_seleccionado_13
+  - first:
+      213: -2746188147384733895
+    second: nuevo_perfil_seleccionado_14
+  - first:
+      213: 8002583431832814417
+    second: nuevo_perfil_seleccionado_15
+  - first:
+      213: -2587690468513374063
+    second: nuevo_perfil_seleccionado_16
+  - first:
+      213: -6568259986422457385
+    second: nuevo_perfil_seleccionado_17
+  - first:
+      213: -4500307598466472029
+    second: nuevo_perfil_seleccionado_18
+  - first:
+      213: -7584846333319633992
+    second: nuevo_perfil_seleccionado_19
+  - first:
+      213: -7674334438757539681
+    second: nuevo_perfil_seleccionado_20
+  - first:
+      213: 2744365269313112332
+    second: nuevo_perfil_seleccionado_21
+  - first:
+      213: -104139104099211766
+    second: nuevo_perfil_seleccionado_22
+  - first:
+      213: -1224784501342587197
+    second: nuevo_perfil_seleccionado_23
+  - first:
+      213: 301102212934707192
+    second: nuevo_perfil_seleccionado_24
+  - first:
+      213: -2910663768163529380
+    second: nuevo_perfil_seleccionado_25
+  - first:
+      213: 9207148678899719844
+    second: nuevo_perfil_seleccionado_26
+  - first:
+      213: -247570396354038290
+    second: nuevo_perfil_seleccionado_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 1698
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2393397636f08740800000000000000
+      internalID: 5152388687533937451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 749
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c9025325d059d0800000000000000
+      internalID: -2787493821665394060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 749
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c25d2889fb5cd60800000000000000
+      internalID: 7909938982297086988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_3
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 758
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b59ebb2d934e90800000000000000
+      internalID: -7042612581070686098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e4ae77f715ffb0800000000000000
+      internalID: -4614755891422108701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_5
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 144
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc64691c46c6e530800000000000000
+      internalID: 3884009758799457495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_6
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 139
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4d29fb8e0487bf0800000000000000
+      internalID: -326439604593699602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 114
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d0c8572aa79470800000000000000
+      internalID: 8401370715852429710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 104
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da937b6afe02aaf0800000000000000
+      internalID: -386730149293090095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 107
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397552ec7bd2f12f0800000000000000
+      internalID: -1000030324792141933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_10
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 96
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c5296d8facb710800000000000000
+      internalID: 1710434980383277776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 110
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8799eb487c3b90800000000000000
+      internalID: -7260796231791178647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 111
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b0fc5810f95bf60800000000000000
+      internalID: 8049514737883351953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf1ce941ec3b3e0800000000000000
+      internalID: -2039059618310521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 82
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93faebc0e6493e9d0800000000000000
+      internalID: -2746188147384733895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_15
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 94
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15342d35b33ee0f60800000000000000
+      internalID: 8002583431832814417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190a893aa3da61cd0800000000000000
+      internalID: -2587690468513374063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db90eca75ad8d4a0800000000000000
+      internalID: -6568259986422457385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 84
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72a653512bb81c0800000000000000
+      internalID: -4500307598466472029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 82
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b32f8232763db690800000000000000
+      internalID: -7584846333319633992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 96
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f906f420d794f7590800000000000000
+      internalID: -7674334438757539681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 78
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c3531ca1f51620800000000000000
+      internalID: 2744365269313112332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0660fc59060e8ef0800000000000000
+      internalID: -104139104099211766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 79
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c632173cf0b00fe0800000000000000
+      internalID: -1224784501342587197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_24
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 62
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ae0b0edabd2400800000000000000
+      internalID: 301102212934707192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d430669be3b97d0800000000000000
+      internalID: -2910663768163529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 70
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae560021fc56cf70800000000000000
+      internalID: 9207148678899719844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevo_perfil_seleccionado_27
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53a644904709cf0800000000000000
+      internalID: -247570396354038290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuevo_perfil_seleccionado_0: 5152388687533937451
+      nuevo_perfil_seleccionado_1: -2787493821665394060
+      nuevo_perfil_seleccionado_10: 1710434980383277776
+      nuevo_perfil_seleccionado_11: -7260796231791178647
+      nuevo_perfil_seleccionado_12: 8049514737883351953
+      nuevo_perfil_seleccionado_13: -2039059618310521385
+      nuevo_perfil_seleccionado_14: -2746188147384733895
+      nuevo_perfil_seleccionado_15: 8002583431832814417
+      nuevo_perfil_seleccionado_16: -2587690468513374063
+      nuevo_perfil_seleccionado_17: -6568259986422457385
+      nuevo_perfil_seleccionado_18: -4500307598466472029
+      nuevo_perfil_seleccionado_19: -7584846333319633992
+      nuevo_perfil_seleccionado_2: 7909938982297086988
+      nuevo_perfil_seleccionado_20: -7674334438757539681
+      nuevo_perfil_seleccionado_21: 2744365269313112332
+      nuevo_perfil_seleccionado_22: -104139104099211766
+      nuevo_perfil_seleccionado_23: -1224784501342587197
+      nuevo_perfil_seleccionado_24: 301102212934707192
+      nuevo_perfil_seleccionado_25: -2910663768163529380
+      nuevo_perfil_seleccionado_26: 9207148678899719844
+      nuevo_perfil_seleccionado_27: -247570396354038290
+      nuevo_perfil_seleccionado_3: -7042612581070686098
+      nuevo_perfil_seleccionado_4: -4614755891422108701
+      nuevo_perfil_seleccionado_5: 3884009758799457495
+      nuevo_perfil_seleccionado_6: -326439604593699602
+      nuevo_perfil_seleccionado_7: 8401370715852429710
+      nuevo_perfil_seleccionado_8: -386730149293090095
+      nuevo_perfil_seleccionado_9: -1000030324792141933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

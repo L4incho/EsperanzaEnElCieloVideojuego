@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 73f54e8ac9304d940b494f97aca48c0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2195845742390446458
+    second: volverr_seleccionado_0
+  - first:
+      213: 3252302319047312118
+    second: volverr_seleccionado_1
+  - first:
+      213: 6843623747632939118
+    second: volverr_seleccionado_2
+  - first:
+      213: -5505847639026384421
+    second: volverr_seleccionado_3
+  - first:
+      213: 5117073188749461481
+    second: volverr_seleccionado_4
+  - first:
+      213: -1086208702629079344
+    second: volverr_seleccionado_5
+  - first:
+      213: -894616534393005712
+    second: volverr_seleccionado_6
+  - first:
+      213: -1655959814453095993
+    second: volverr_seleccionado_7
+  - first:
+      213: -2578181133801152849
+    second: volverr_seleccionado_8
+  - first:
+      213: 3527789507413368975
+    second: volverr_seleccionado_9
+  - first:
+      213: 6064882891862375994
+    second: volverr_seleccionado_10
+  - first:
+      213: 1178687252874502629
+    second: volverr_seleccionado_11
+  - first:
+      213: -3782774021243080496
+    second: volverr_seleccionado_12
+  - first:
+      213: 1357265458016223340
+    second: volverr_seleccionado_13
+  - first:
+      213: -205415665390037160
+    second: volverr_seleccionado_14
+  - first:
+      213: -3979121367073166269
+    second: volverr_seleccionado_15
+  - first:
+      213: -7131431081632193268
+    second: volverr_seleccionado_16
+  - first:
+      213: -4384089726349612342
+    second: volverr_seleccionado_17
+  - first:
+      213: -7794449505538851059
+    second: volverr_seleccionado_18
+  - first:
+      213: -4157356647610515536
+    second: volverr_seleccionado_19
+  - first:
+      213: -900303294968357321
+    second: volverr_seleccionado_20
+  - first:
+      213: 7333762764578956411
+    second: volverr_seleccionado_21
+  - first:
+      213: 6609697596568001739
+    second: volverr_seleccionado_22
+  - first:
+      213: 2098010687328353392
+    second: volverr_seleccionado_23
+  - first:
+      213: 3814292156994989957
+    second: volverr_seleccionado_24
+  - first:
+      213: 9088707808908174385
+    second: volverr_seleccionado_25
+  - first:
+      213: 7612075179357148769
+    second: volverr_seleccionado_26
+  - first:
+      213: 2391621658274918317
+    second: volverr_seleccionado_27
+  - first:
+      213: 3946081913424447872
+    second: volverr_seleccionado_28
+  - first:
+      213: -5450091735898091481
+    second: volverr_seleccionado_29
+  - first:
+      213: -7085956028395033978
+    second: volverr_seleccionado_30
+  - first:
+      213: 1325285863598068730
+    second: volverr_seleccionado_31
+  - first:
+      213: 6055831735889674213
+    second: volverr_seleccionado_32
+  - first:
+      213: -5670245561771920767
+    second: volverr_seleccionado_33
+  - first:
+      213: -7885008037077825416
+    second: volverr_seleccionado_34
+  - first:
+      213: 7119428473297379994
+    second: volverr_seleccionado_35
+  - first:
+      213: 1477600643406804199
+    second: volverr_seleccionado_36
+  - first:
+      213: -861940995869300711
+    second: volverr_seleccionado_37
+  - first:
+      213: -1497348703189375300
+    second: volverr_seleccionado_38
+  - first:
+      213: -7779656962960861056
+    second: volverr_seleccionado_39
+  - first:
+      213: 41250288609250472
+    second: volverr_seleccionado_40
+  - first:
+      213: -4213242934445240655
+    second: volverr_seleccionado_41
+  - first:
+      213: 6563207136673936536
+    second: volverr_seleccionado_42
+  - first:
+      213: -3272252225143274383
+    second: volverr_seleccionado_43
+  - first:
+      213: 7013247134578674350
+    second: volverr_seleccionado_44
+  - first:
+      213: 5567655643920578592
+    second: volverr_seleccionado_45
+  - first:
+      213: 1264129141877839055
+    second: volverr_seleccionado_46
+  - first:
+      213: 2677082135977311225
+    second: volverr_seleccionado_47
+  - first:
+      213: 8395907982856703989
+    second: volverr_seleccionado_48
+  - first:
+      213: 9027787920132358883
+    second: volverr_seleccionado_49
+  - first:
+      213: -5644198869085133877
+    second: volverr_seleccionado_50
+  - first:
+      213: -1912505196966035737
+    second: volverr_seleccionado_51
+  - first:
+      213: 8666518262733278982
+    second: volverr_seleccionado_52
+  - first:
+      213: 7687467582629269542
+    second: volverr_seleccionado_53
+  - first:
+      213: -812294941381892521
+    second: volverr_seleccionado_54
+  - first:
+      213: 7763899993827411668
+    second: volverr_seleccionado_55
+  - first:
+      213: -144398910706560189
+    second: volverr_seleccionado_56
+  - first:
+      213: 6520352827369323289
+    second: volverr_seleccionado_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: volverr_seleccionado_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 797
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798cb09116397e10800000000000000
+      internalID: 2195845742390446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 838
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f28efc4abf722d20800000000000000
+      internalID: 3252302319047312118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 831
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c6161a8f69fe50800000000000000
+      internalID: 6843623747632939118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 841
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c8685ebc4793b0800000000000000
+      internalID: -5505847639026384421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 838
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7461924fe730740800000000000000
+      internalID: 5117073188749461481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 840
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61bdf90f20de0f0800000000000000
+      internalID: -1086208702629079344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 846
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0795059700fa593f0800000000000000
+      internalID: -894616534393005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 842
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c193398259d409e0800000000000000
+      internalID: -1655959814453095993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 840
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae1b292be5783cd0800000000000000
+      internalID: -2578181133801152849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 791
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8069bfadd935f030800000000000000
+      internalID: 3527789507413368975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 836
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3efcc56bdaca2450800000000000000
+      internalID: 6064882891862375994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_11
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 797
+        width: 190
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1add0cfc98b5010800000000000000
+      internalID: 1178687252874502629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_12
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 811
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0fa36d113e08bc0800000000000000
+      internalID: -3782774021243080496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_13
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 836
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6007f23eb9f5d210800000000000000
+      internalID: 1357265458016223340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1753
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85750296a87362df0800000000000000
+      internalID: -205415665390037160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 813
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cef6de23257c8c0800000000000000
+      internalID: -3979121367073166269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_16
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 807
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0522271731180d90800000000000000
+      internalID: -7131431081632193268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 808
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaed7d2f959823c0800000000000000
+      internalID: -4384089726349612342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 805
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f33a2b87d84d390800000000000000
+      internalID: -7794449505538851059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 813
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff096d72a1e46c0800000000000000
+      internalID: -4157356647610515536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 795
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1c495cea7183f0800000000000000
+      internalID: -900303294968357321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_21
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 789
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7427b1e062c6c560800000000000000
+      internalID: 7333762764578956411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_22
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 789
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc5034c1fc5abb50800000000000000
+      internalID: 6609697596568001739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_23
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 759
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfd29ba91ad1d10800000000000000
+      internalID: 2098010687328353392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_24
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 773
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fae3ff1861fe430800000000000000
+      internalID: 3814292156994989957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_25
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 777
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1346a412993912e70800000000000000
+      internalID: 9088707808908174385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_26
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 773
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166962d8b0683a960800000000000000
+      internalID: 7612075179357148769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 765
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf6b921a3fb03120800000000000000
+      internalID: 2391621658274918317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 761
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890240d79c43c630800000000000000
+      internalID: 3946081913424447872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 749
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720908821726d54b0800000000000000
+      internalID: -5450091735898091481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 302
+        width: 9
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae9710980a9ad90800000000000000
+      internalID: -7085956028395033978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 1411
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31c95a87c546210800000000000000
+      internalID: 1325285863598068730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbd3de0e2aa0450800000000000000
+      internalID: 6055831735889674213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182795d24bd3f41b0800000000000000
+      internalID: -5670245561771920767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87840e287f2d29290800000000000000
+      internalID: -7885008037077825416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 59
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9221b2e97a4dc260800000000000000
+      internalID: 7119428473297379994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_36
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 78
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b62ed4fd718410800000000000000
+      internalID: 1477600643406804199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9182dd32b35c904f0800000000000000
+      internalID: -861940995869300711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 74
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb66189a949583be0800000000000000
+      internalID: -1497348703189375300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 25
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d258e53b190490800000000000000
+      internalID: -7779656962960861056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_40
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 73
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accf6f3bec829000800000000000000
+      internalID: 41250288609250472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 15
+        width: 144
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be87f3bfdd8785c0800000000000000
+      internalID: -4213242934445240655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_42
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 80
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89432c01e12351b50800000000000000
+      internalID: 6563207136673936536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_43
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 13
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748ad830ff9692d0800000000000000
+      internalID: -3272252225143274383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa86927c1f045160800000000000000
+      internalID: 7013247134578674350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_45
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 80
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b5973f49444d40800000000000000
+      internalID: 5567655643920578592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc419d3c1c61b8110800000000000000
+      internalID: 1264129141877839055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_47
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb875d408e62520800000000000000
+      internalID: 2677082135977311225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_48
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 53
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4a05b3d1448470800000000000000
+      internalID: 8395907982856703989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24d073845294d70800000000000000
+      internalID: 9027787920132358883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_50
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 33
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e4866807cba1b0800000000000000
+      internalID: -5644198869085133877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_51
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 18
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee30cff7aa6575e0800000000000000
+      internalID: -1912505196966035737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_52
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f07a95178a54870800000000000000
+      internalID: 8666518262733278982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620d2f4590f5faa60800000000000000
+      internalID: 7687467582629269542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e516fd062ab4f0800000000000000
+      internalID: -812294941381892521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d68db3d8e9eebb60800000000000000
+      internalID: 7763899993827411668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d16da4fdfefdf0800000000000000
+      internalID: -144398910706560189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volverr_seleccionado_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bff85a952fc7a50800000000000000
+      internalID: 6520352827369323289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      volverr_seleccionado_0: 2195845742390446458
+      volverr_seleccionado_1: 3252302319047312118
+      volverr_seleccionado_10: 6064882891862375994
+      volverr_seleccionado_11: 1178687252874502629
+      volverr_seleccionado_12: -3782774021243080496
+      volverr_seleccionado_13: 1357265458016223340
+      volverr_seleccionado_14: -205415665390037160
+      volverr_seleccionado_15: -3979121367073166269
+      volverr_seleccionado_16: -7131431081632193268
+      volverr_seleccionado_17: -4384089726349612342
+      volverr_seleccionado_18: -7794449505538851059
+      volverr_seleccionado_19: -4157356647610515536
+      volverr_seleccionado_2: 6843623747632939118
+      volverr_seleccionado_20: -900303294968357321
+      volverr_seleccionado_21: 7333762764578956411
+      volverr_seleccionado_22: 6609697596568001739
+      volverr_seleccionado_23: 2098010687328353392
+      volverr_seleccionado_24: 3814292156994989957
+      volverr_seleccionado_25: 9088707808908174385
+      volverr_seleccionado_26: 7612075179357148769
+      volverr_seleccionado_27: 2391621658274918317
+      volverr_seleccionado_28: 3946081913424447872
+      volverr_seleccionado_29: -5450091735898091481
+      volverr_seleccionado_3: -5505847639026384421
+      volverr_seleccionado_30: -7085956028395033978
+      volverr_seleccionado_31: 1325285863598068730
+      volverr_seleccionado_32: 6055831735889674213
+      volverr_seleccionado_33: -5670245561771920767
+      volverr_seleccionado_34: -7885008037077825416
+      volverr_seleccionado_35: 7119428473297379994
+      volverr_seleccionado_36: 1477600643406804199
+      volverr_seleccionado_37: -861940995869300711
+      volverr_seleccionado_38: -1497348703189375300
+      volverr_seleccionado_39: -7779656962960861056
+      volverr_seleccionado_4: 5117073188749461481
+      volverr_seleccionado_40: 41250288609250472
+      volverr_seleccionado_41: -4213242934445240655
+      volverr_seleccionado_42: 6563207136673936536
+      volverr_seleccionado_43: -3272252225143274383
+      volverr_seleccionado_44: 7013247134578674350
+      volverr_seleccionado_45: 5567655643920578592
+      volverr_seleccionado_46: 1264129141877839055
+      volverr_seleccionado_47: 2677082135977311225
+      volverr_seleccionado_48: 8395907982856703989
+      volverr_seleccionado_49: 9027787920132358883
+      volverr_seleccionado_5: -1086208702629079344
+      volverr_seleccionado_50: -5644198869085133877
+      volverr_seleccionado_51: -1912505196966035737
+      volverr_seleccionado_52: 8666518262733278982
+      volverr_seleccionado_53: 7687467582629269542
+      volverr_seleccionado_54: -812294941381892521
+      volverr_seleccionado_55: 7763899993827411668
+      volverr_seleccionado_56: -144398910706560189
+      volverr_seleccionado_57: 6520352827369323289
+      volverr_seleccionado_6: -894616534393005712
+      volverr_seleccionado_7: -1655959814453095993
+      volverr_seleccionado_8: -2578181133801152849
+      volverr_seleccionado_9: 3527789507413368975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 888dc2a0e1a2a9d42b25898026af9593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8155059113970637360
+    second: nuevi_0
+  - first:
+      213: 5091586393332471619
+    second: nuevi_1
+  - first:
+      213: -2142988009499255279
+    second: nuevi_2
+  - first:
+      213: -5347023529545422652
+    second: nuevi_3
+  - first:
+      213: 5306024437459425539
+    second: nuevi_4
+  - first:
+      213: 4704626181690449942
+    second: nuevi_5
+  - first:
+      213: 3492038872845604733
+    second: nuevi_6
+  - first:
+      213: 1025746958549502950
+    second: nuevi_7
+  - first:
+      213: -179869307596347709
+    second: nuevi_8
+  - first:
+      213: -3881891171752791914
+    second: nuevi_9
+  - first:
+      213: -6177546061359093879
+    second: nuevi_10
+  - first:
+      213: -8968778668869399269
+    second: nuevi_11
+  - first:
+      213: 2097255538608898379
+    second: nuevi_12
+  - first:
+      213: -4999953026427557459
+    second: nuevi_13
+  - first:
+      213: -9059194295764746935
+    second: nuevi_14
+  - first:
+      213: 6635837766903983314
+    second: nuevi_15
+  - first:
+      213: 8121243123916981772
+    second: nuevi_16
+  - first:
+      213: -4663764461699103
+    second: nuevi_17
+  - first:
+      213: 1944265516100099652
+    second: nuevi_18
+  - first:
+      213: -6272503218061988429
+    second: nuevi_19
+  - first:
+      213: -5885129363700825328
+    second: nuevi_20
+  - first:
+      213: -1742579794064272018
+    second: nuevi_21
+  - first:
+      213: -5297281616127013030
+    second: nuevi_22
+  - first:
+      213: 54466300712653115
+    second: nuevi_23
+  - first:
+      213: -770369753575176230
+    second: nuevi_24
+  - first:
+      213: -8210197406793718952
+    second: nuevi_25
+  - first:
+      213: -2832377891635249842
+    second: nuevi_26
+  - first:
+      213: 7806021802844255414
+    second: nuevi_27
+  - first:
+      213: -7505639524177710932
+    second: nuevi_28
+  - first:
+      213: 3732190775450580425
+    second: nuevi_29
+  - first:
+      213: 2122346038287196664
+    second: nuevi_30
+  - first:
+      213: 8714772929872547667
+    second: nuevi_31
+  - first:
+      213: 3132372727641291684
+    second: nuevi_32
+  - first:
+      213: -7451755405887871423
+    second: nuevi_33
+  - first:
+      213: -7957552694486861856
+    second: nuevi_34
+  - first:
+      213: 660179077485383708
+    second: nuevi_35
+  - first:
+      213: 8407058352857103855
+    second: nuevi_36
+  - first:
+      213: -8602900572024909671
+    second: nuevi_37
+  - first:
+      213: -4425378314365358372
+    second: nuevi_38
+  - first:
+      213: -8972770637655153675
+    second: nuevi_39
+  - first:
+      213: -5628053938155712695
+    second: nuevi_40
+  - first:
+      213: 8428201222728123952
+    second: nuevi_41
+  - first:
+      213: 6028036599016255130
+    second: nuevi_42
+  - first:
+      213: 4244863822391282245
+    second: nuevi_43
+  - first:
+      213: -290652488952679088
+    second: nuevi_44
+  - first:
+      213: 4263556061939787848
+    second: nuevi_45
+  - first:
+      213: 3689917641461003793
+    second: nuevi_46
+  - first:
+      213: 2725550075035606648
+    second: nuevi_47
+  - first:
+      213: -5885915677452558312
+    second: nuevi_48
+  - first:
+      213: 2833224371425510556
+    second: nuevi_49
+  - first:
+      213: -6238580342790184780
+    second: nuevi_50
+  - first:
+      213: 8515111786642199268
+    second: nuevi_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuevi_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 798
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a188a8e079c2170800000000000000
+      internalID: 8155059113970637360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 824
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3475bcd29d2f8a640800000000000000
+      internalID: 5091586393332471619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 811
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e10e762c39242e0800000000000000
+      internalID: -2142988009499255279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 780
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c82acbfd6e8bc5b0800000000000000
+      internalID: -5347023529545422652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 796
+        width: 124
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099f440d19c2a940800000000000000
+      internalID: 5306024437459425539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 804
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61069a806903a4140800000000000000
+      internalID: 4704626181690449942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 794
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7751dd6ad6367030800000000000000
+      internalID: 3492038872845604733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 801
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc7c59c6f2c3e00800000000000000
+      internalID: 1025746958549502950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 809
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c669b651d9f08df0800000000000000
+      internalID: -179869307596347709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 798
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69033f2eb80c02ac0800000000000000
+      internalID: -3881891171752791914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_10
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 814
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e3155692f44aa0800000000000000
+      internalID: -6177546061359093879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 796
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d40fcb15f788380800000000000000
+      internalID: -8968778668869399269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 804
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b410106fcc2fa1d10800000000000000
+      internalID: 2097255538608898379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 802
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9652e96399c9ab0800000000000000
+      internalID: -4999953026427557459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 811
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d72b129c6474280800000000000000
+      internalID: -9059194295764746935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 797
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcee637a4b371c50800000000000000
+      internalID: 6635837766903983314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_16
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 810
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c7afc79374b070800000000000000
+      internalID: 8121243123916981772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_17
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 797
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb1f7b45e6feff0800000000000000
+      internalID: -4663764461699103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_18
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 816
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e103c8f2b6bfa10800000000000000
+      internalID: 1944265516100099652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_19
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 812
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdabea6e8793f8a0800000000000000
+      internalID: -6272503218061988429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_20
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 778
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01344634602d35ea0800000000000000
+      internalID: -5885129363700825328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 812
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65960ee8ec11d7e0800000000000000
+      internalID: -1742579794064272018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 812
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fca83bf664c76b0800000000000000
+      internalID: -5297281616127013030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_23
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 778
+        width: 158
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31153adfc081c000800000000000000
+      internalID: 54466300712653115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 789
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7427c6ac81f45f0800000000000000
+      internalID: -770369753575176230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 798
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532a3045f48f0e80800000000000000
+      internalID: -8210197406793718952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_26
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 796
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d396b605f51b8d0800000000000000
+      internalID: -2832377891635249842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 770
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47c7bb87f845c60800000000000000
+      internalID: 7806021802844255414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 784
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0714d8e9c96d790800000000000000
+      internalID: -7505639524177710932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 31
+        width: 1583
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5b8bc7cb76bc330800000000000000
+      internalID: 3732190775450580425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 181
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e0962a76147d10800000000000000
+      internalID: 2122346038287196664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4e3f8ec711f870800000000000000
+      internalID: 8714772929872547667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 202
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3e27566c687b20800000000000000
+      internalID: 3132372727641291684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e4fe70fb069890800000000000000
+      internalID: -7451755405887871423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 145
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e778ab3cf7119190800000000000000
+      internalID: -7957552694486861856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 149
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1059a98f5d692900800000000000000
+      internalID: 660179077485383708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed3708870fdba470800000000000000
+      internalID: 8407058352857103855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 137
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905376828b5c9880800000000000000
+      internalID: -8602900572024909671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 129
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2987aed5e592c0800000000000000
+      internalID: -4425378314365358372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_39
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3628315a05a7380800000000000000
+      internalID: -8972770637655153675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 143
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8d7f03c225e1b0800000000000000
+      internalID: -5628053938155712695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03609388b5cf6f470800000000000000
+      internalID: 8428201222728123952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 133
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eea615953e7a350800000000000000
+      internalID: 6028036599016255130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 131
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a0a8df729c8ea30800000000000000
+      internalID: 4244863822391282245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_44
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 140
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05574eae91567fbf0800000000000000
+      internalID: -290652488952679088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_45
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 135
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84862e726a13b2b30800000000000000
+      internalID: 4263556061939787848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_46
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fabd7b88353330800000000000000
+      internalID: 3689917641461003793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 131
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e59084a5913d520800000000000000
+      internalID: 2725550075035606648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_48
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 190
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a98350e6015ea0800000000000000
+      internalID: -5885915677452558312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_49
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 135
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940cc30e82a15720800000000000000
+      internalID: 2833224371425510556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_50
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 135
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a14d4b3c1c69a0800000000000000
+      internalID: -6238580342790184780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevi_51
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 131
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2dc811e01cb2670800000000000000
+      internalID: 8515111786642199268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuevi_0: 8155059113970637360
+      nuevi_1: 5091586393332471619
+      nuevi_10: -6177546061359093879
+      nuevi_11: -8968778668869399269
+      nuevi_12: 2097255538608898379
+      nuevi_13: -4999953026427557459
+      nuevi_14: -9059194295764746935
+      nuevi_15: 6635837766903983314
+      nuevi_16: 8121243123916981772
+      nuevi_17: -4663764461699103
+      nuevi_18: 1944265516100099652
+      nuevi_19: -6272503218061988429
+      nuevi_2: -2142988009499255279
+      nuevi_20: -5885129363700825328
+      nuevi_21: -1742579794064272018
+      nuevi_22: -5297281616127013030
+      nuevi_23: 54466300712653115
+      nuevi_24: -770369753575176230
+      nuevi_25: -8210197406793718952
+      nuevi_26: -2832377891635249842
+      nuevi_27: 7806021802844255414
+      nuevi_28: -7505639524177710932
+      nuevi_29: 3732190775450580425
+      nuevi_3: -5347023529545422652
+      nuevi_30: 2122346038287196664
+      nuevi_31: 8714772929872547667
+      nuevi_32: 3132372727641291684
+      nuevi_33: -7451755405887871423
+      nuevi_34: -7957552694486861856
+      nuevi_35: 660179077485383708
+      nuevi_36: 8407058352857103855
+      nuevi_37: -8602900572024909671
+      nuevi_38: -4425378314365358372
+      nuevi_39: -8972770637655153675
+      nuevi_4: 5306024437459425539
+      nuevi_40: -5628053938155712695
+      nuevi_41: 8428201222728123952
+      nuevi_42: 6028036599016255130
+      nuevi_43: 4244863822391282245
+      nuevi_44: -290652488952679088
+      nuevi_45: 4263556061939787848
+      nuevi_46: 3689917641461003793
+      nuevi_47: 2725550075035606648
+      nuevi_48: -5885915677452558312
+      nuevi_49: 2833224371425510556
+      nuevi_5: 4704626181690449942
+      nuevi_50: -6238580342790184780
+      nuevi_51: 8515111786642199268
+      nuevi_6: 3492038872845604733
+      nuevi_7: 1025746958549502950
+      nuevi_8: -179869307596347709
+      nuevi_9: -3881891171752791914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

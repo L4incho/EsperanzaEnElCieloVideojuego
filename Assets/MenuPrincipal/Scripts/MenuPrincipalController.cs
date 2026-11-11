@@ -5,30 +5,204 @@ using UnityEngine.EventSystems;
 
 public class MenuPrincipalController : MonoBehaviour
 {
-    [Header("Configuracion de niveles")]
-    [SerializeField] private string nombrePrimerNivel;
+    [Header("Escenas del videojuego")]
+    [SerializeField] private string nombrePrimerNivel = "Tutorial";
+    [SerializeField] private string escenaNivel2 = "Nivel2";
+    [SerializeField] private string escenaNivel3 = "Nivel3";
+    [SerializeField] private string escenaNivel4 = "Nivel4Jefe";
 
     [Header("Panel de configuracion")]
     [SerializeField] private GameObject panelConfiguracion;
     [SerializeField] private ConfiguracionAplicable configuracion;
 
-
     [Header("Seleccion del menu")]
     [SerializeField] private GameObject botonJugar;
     [SerializeField] private GameObject botonOpciones;
 
+    [Header("Panel de crear partida")]
+    [SerializeField] private GameObject panelJugar;
+
     [Header("Panel de niveles")]
     [SerializeField] private GameObject panelNiveles;
 
+    [Header("Continuar partida")]
+    [SerializeField] private GameObject panelContinuarPartida;
+    [SerializeField] private BotonMenuVisual botonContinuarVisual;
+
+    [Header("Bloqueo automatico de niveles")]
+    [SerializeField] private BotonMenuVisual botonNivelesVisual;
+
+    private bool panelContinuarEstabaAbierto;
+
+    private void Start()
+    {
+        panelContinuarEstabaAbierto =
+            panelContinuarPartida != null &&
+            panelContinuarPartida.activeSelf;
+
+        ActualizarBotonesGuardado();
+    }
+
+    private void Update()
+    {
+        if (panelContinuarPartida == null)
+            return;
+
+        bool panelAbierto = panelContinuarPartida.activeSelf;
+
+        if (panelContinuarEstabaAbierto && !panelAbierto)
+            ActualizarBotonesGuardado();
+
+        panelContinuarEstabaAbierto = panelAbierto;
+    }
+
+    public void ActualizarBotonContinuar()
+    {
+        ActualizarBotonesGuardado();
+    }
+
+    public void ActualizarBotonesGuardado()
+    {
+        int cantidadPerfiles = 0;
+
+        if (GestorGuardado.Instancia != null)
+        {
+            cantidadPerfiles =
+                GestorGuardado.Instancia.ObtenerPerfiles().Count;
+        }
+
+        bool hayPartidas = cantidadPerfiles > 0;
+
+        if (botonContinuarVisual != null)
+            botonContinuarVisual.EstablecerHabilitado(hayPartidas);
+
+        if (botonNivelesVisual != null)
+            botonNivelesVisual.EstablecerHabilitado(hayPartidas);
+    }
+
+    // JUGAR: entrar al ultimo nivel del perfil activo.
+    // Sin perfiles: abrir la creacion de una partida.
     public void Jugar()
     {
-        if (string.IsNullOrWhiteSpace(nombrePrimerNivel))
+        if (GestorGuardado.Instancia == null)
         {
-            Debug.LogError("No se ha configurado el primer nivel.");
+            Debug.LogError("No existe GestorGuardado.");
             return;
         }
 
-        SceneManager.LoadScene(nombrePrimerNivel);
+        int cantidad =
+            GestorGuardado.Instancia.ObtenerPerfiles().Count;
+
+        if (cantidad == 0)
+        {
+            if (panelJugar == null)
+            {
+                Debug.LogError("No se asigno Panel_Jugar.");
+                return;
+            }
+
+            panelJugar.SetActive(true);
+
+            Debug.Log("Abriendo creacion del primer perfil.");
+            return;
+        }
+
+        DatosPerfil perfil =
+            GestorGuardado.Instancia.PerfilActivo;
+
+        if (perfil == null)
+        {
+            Debug.LogWarning(
+                "Hay partidas guardadas, pero ninguna esta activa. " +
+                "Selecciona una desde CONTINUAR PARTIDA."
+            );
+
+            if (panelContinuarPartida != null)
+                panelContinuarPartida.SetActive(true);
+
+            return;
+        }
+
+        string escena = ObtenerEscena(perfil.nivelActual);
+
+        if (string.IsNullOrWhiteSpace(escena) ||
+            !Application.CanStreamedLevelBeLoaded(escena))
+        {
+            Debug.LogError(
+                "No se puede cargar el nivel " +
+                perfil.nivelActual +
+                ". Revisa Build Profiles y los nombres de escenas."
+            );
+            return;
+        }
+
+        Debug.Log(
+            "JUGANDO | Perfil: " + perfil.nombrePerfil +
+            " | Nivel: " + perfil.nivelActual +
+            " | Chips: " + perfil.chipsGuardados
+        );
+
+        SceneManager.LoadScene(escena);
+    }
+
+    private string ObtenerEscena(int nivel)
+    {
+        switch (nivel)
+        {
+            case 1: return nombrePrimerNivel;
+            case 2: return escenaNivel2;
+            case 3: return escenaNivel3;
+            case 4: return escenaNivel4;
+            default: return null;
+        }
+    }
+
+    // NIVELES: abrir directamente el panel de niveles.
+    public void AbrirNiveles()
+    {
+        if (panelNiveles == null)
+        {
+            Debug.LogError("No se asigno Panel_Niveles.");
+            return;
+        }
+
+        if (GestorGuardado.Instancia == null ||
+            GestorGuardado.Instancia.ObtenerPerfiles().Count == 0)
+        {
+            Debug.LogWarning(
+                "No existen perfiles. Primero crea una partida."
+            );
+
+            ActualizarBotonesGuardado();
+            return;
+        }
+
+        if (GestorGuardado.Instancia.PerfilActivo == null)
+        {
+            Debug.LogWarning(
+                "Selecciona un perfil desde CONTINUAR PARTIDA " +
+                "antes de consultar sus niveles."
+            );
+
+            if (panelContinuarPartida != null)
+                panelContinuarPartida.SetActive(true);
+
+            return;
+        }
+
+        panelNiveles.SetActive(true);
+
+        SelectorNivelesMenu selector =
+            panelNiveles.GetComponent<SelectorNivelesMenu>();
+
+        if (selector != null)
+            selector.ActualizarEstadoNiveles();
+    }
+
+    public void VolverDesdeNiveles()
+    {
+        if (panelNiveles != null)
+            panelNiveles.SetActive(false);
     }
 
     public void AbrirOpciones()
@@ -41,7 +215,6 @@ public class MenuPrincipalController : MonoBehaviour
 
         panelConfiguracion.SetActive(true);
 
-        // Restablecer siempre la pestaña SONIDO.
         ConfiguracionTabsUI tabs =
             panelConfiguracion.GetComponent<ConfiguracionTabsUI>();
 
@@ -78,24 +251,4 @@ public class MenuPrincipalController : MonoBehaviour
         Debug.Log("Saliendo de Esperanza en el Cielo...");
         Application.Quit();
     }
-
-    public void AbrirNiveles()
-    {
-        if (panelNiveles == null)
-        {
-            Debug.LogError("No se ha asignado Panel_Niveles.");
-            return;
-        }
-
-        panelNiveles.SetActive(true);
-    }
-
-    public void VolverDesdeNiveles()
-    {
-        if (panelNiveles == null)
-            return;
-
-        panelNiveles.SetActive(false);
-    }
 }
-

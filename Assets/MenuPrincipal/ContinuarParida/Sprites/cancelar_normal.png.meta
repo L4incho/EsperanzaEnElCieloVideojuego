@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 4589a12c8a25adc42b713c9dcf14b4e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1413941944903745452
+    second: cancelar_normal_0
+  - first:
+      213: 8765829939239943025
+    second: cancelar_normal_1
+  - first:
+      213: 4108004471463704881
+    second: cancelar_normal_2
+  - first:
+      213: -2712072049127042350
+    second: cancelar_normal_3
+  - first:
+      213: 553904611027286963
+    second: cancelar_normal_4
+  - first:
+      213: 3349111943231159263
+    second: cancelar_normal_5
+  - first:
+      213: -2335281827332969138
+    second: cancelar_normal_6
+  - first:
+      213: 1093685882432001479
+    second: cancelar_normal_7
+  - first:
+      213: -3419668624801520419
+    second: cancelar_normal_8
+  - first:
+      213: 2772830160787691739
+    second: cancelar_normal_9
+  - first:
+      213: -8243677191599783506
+    second: cancelar_normal_10
+  - first:
+      213: -2385116899518202472
+    second: cancelar_normal_11
+  - first:
+      213: 5539123333330943662
+    second: cancelar_normal_12
+  - first:
+      213: -2633465804602432086
+    second: cancelar_normal_13
+  - first:
+      213: -5054888031156471146
+    second: cancelar_normal_14
+  - first:
+      213: -8452740115867271218
+    second: cancelar_normal_15
+  - first:
+      213: -9196492851724950912
+    second: cancelar_normal_16
+  - first:
+      213: -4015721053190815650
+    second: cancelar_normal_17
+  - first:
+      213: -5084084973994633212
+    second: cancelar_normal_18
+  - first:
+      213: 1745805975722264430
+    second: cancelar_normal_19
+  - first:
+      213: 3655906593927263710
+    second: cancelar_normal_20
+  - first:
+      213: 1119548024707557347
+    second: cancelar_normal_21
+  - first:
+      213: 4957499330375890493
+    second: cancelar_normal_22
+  - first:
+      213: -6125123847077201131
+    second: cancelar_normal_23
+  - first:
+      213: -649398589153946193
+    second: cancelar_normal_24
+  - first:
+      213: 3438937691447224514
+    second: cancelar_normal_25
+  - first:
+      213: -6189582579726522612
+    second: cancelar_normal_26
+  - first:
+      213: 8081552802047622180
+    second: cancelar_normal_27
+  - first:
+      213: 1363582521103200422
+    second: cancelar_normal_28
+  - first:
+      213: -5882909376318413840
+    second: cancelar_normal_29
+  - first:
+      213: 6912856992855125200
+    second: cancelar_normal_30
+  - first:
+      213: 7521968758633665359
+    second: cancelar_normal_31
+  - first:
+      213: 7964265478007246079
+    second: cancelar_normal_32
+  - first:
+      213: 1578527128509374672
+    second: cancelar_normal_33
+  - first:
+      213: 5904988319740787992
+    second: cancelar_normal_34
+  - first:
+      213: 1975273819510515853
+    second: cancelar_normal_35
+  - first:
+      213: -6562209260471239423
+    second: cancelar_normal_36
+  - first:
+      213: -967138308934246072
+    second: cancelar_normal_37
+  - first:
+      213: -4591565496686217011
+    second: cancelar_normal_38
+  - first:
+      213: -4454338824588942094
+    second: cancelar_normal_39
+  - first:
+      213: 5109128307173821906
+    second: cancelar_normal_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cancelar_normal_0
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 695
+        width: 88
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf330f15b45f9310800000000000000
+      internalID: 1413941944903745452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 759
+        width: 153
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b71e9e2eb76a970800000000000000
+      internalID: 8765829939239943025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_2
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 821
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1397f493d40920930800000000000000
+      internalID: 4108004471463704881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 763
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2548a27d8cc5ad0800000000000000
+      internalID: -2712072049127042350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_4
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 773
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7bbb1f4ddfa700800000000000000
+      internalID: 553904611027286963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_5
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 799
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbbf49619f6a7e20800000000000000
+      internalID: 3349111943231159263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_6
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 797
+        width: 142
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4da4670d89679fd0800000000000000
+      internalID: -2335281827332969138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 1753
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c51836f38d8d2f00800000000000000
+      internalID: 1093685882432001479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 717
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd428210185ea80d0800000000000000
+      internalID: -3419668624801520419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 725
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85d3417521b7620800000000000000
+      internalID: 2772830160787691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 700
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea184b76543989d80800000000000000
+      internalID: -8243677191599783506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 695
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dbf6811dc56eed0800000000000000
+      internalID: -2385116899518202472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 692
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb44af25beedc40800000000000000
+      internalID: 5539123333330943662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5a88cadcc047bd0800000000000000
+      internalID: -2633465804602432086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 166
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7b8b1e1e69d9b0800000000000000
+      internalID: -5054888031156471146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_15
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 152
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf790f26a5d1ba80800000000000000
+      internalID: -8452740115867271218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 152
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e389f97e7f5080800000000000000
+      internalID: -9196492851724950912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_17
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 130
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5001837afa4548c0800000000000000
+      internalID: -4015721053190815650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 144
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408162d17a3b179b0800000000000000
+      internalID: -5084084973994633212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 130
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670ea509495a3810800000000000000
+      internalID: 1745805975722264430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_20
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 132
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5fa076da36cb230800000000000000
+      internalID: 3655906593927263710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_21
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 134
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e72fa13ffe698f00800000000000000
+      internalID: 1119548024707557347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_22
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 114
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ba4100639cc440800000000000000
+      internalID: 4957499330375890493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_23
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 122
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b70b930503ffaa0800000000000000
+      internalID: -6125123847077201131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 114
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d6df7c6fdcf6f0800000000000000
+      internalID: -649398589153946193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e96f2c9f89bf20800000000000000
+      internalID: 3438937691447224514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_26
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 102
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c076473007f2a1aa0800000000000000
+      internalID: -6189582579726522612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_27
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 114
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c7c9f9471772070800000000000000
+      internalID: 8081552802047622180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_28
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 112
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b940141b6ce210800000000000000
+      internalID: 1363582521103200422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_29
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 113
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e9ba5715bb5ea0800000000000000
+      internalID: -5882909376318413840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_30
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 110
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc64322fc66fef50800000000000000
+      internalID: 6912856992855125200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_31
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4312fd9bb6636860800000000000000
+      internalID: 7521968758633665359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 103
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc47897141c68e60800000000000000
+      internalID: 7964265478007246079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_33
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 92
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06e1b5f0e08e510800000000000000
+      internalID: 1578527128509374672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dfaf0479bb2f150800000000000000
+      internalID: 5904988319740787992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_35
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 67
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ad0ac215996b10800000000000000
+      internalID: 1975273819510515853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 75
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d35d712795ee4a0800000000000000
+      internalID: -6562209260471239423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_37
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 88
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8416d4705d80492f0800000000000000
+      internalID: -967138308934246072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 80
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f317028b7740c0800000000000000
+      internalID: -4591565496686217011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 55
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4252b60720f22c0800000000000000
+      internalID: -4454338824588942094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cancelar_normal_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0df4402547e640800000000000000
+      internalID: 5109128307173821906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cancelar_normal_0: 1413941944903745452
+      cancelar_normal_1: 8765829939239943025
+      cancelar_normal_10: -8243677191599783506
+      cancelar_normal_11: -2385116899518202472
+      cancelar_normal_12: 5539123333330943662
+      cancelar_normal_13: -2633465804602432086
+      cancelar_normal_14: -5054888031156471146
+      cancelar_normal_15: -8452740115867271218
+      cancelar_normal_16: -9196492851724950912
+      cancelar_normal_17: -4015721053190815650
+      cancelar_normal_18: -5084084973994633212
+      cancelar_normal_19: 1745805975722264430
+      cancelar_normal_2: 4108004471463704881
+      cancelar_normal_20: 3655906593927263710
+      cancelar_normal_21: 1119548024707557347
+      cancelar_normal_22: 4957499330375890493
+      cancelar_normal_23: -6125123847077201131
+      cancelar_normal_24: -649398589153946193
+      cancelar_normal_25: 3438937691447224514
+      cancelar_normal_26: -6189582579726522612
+      cancelar_normal_27: 8081552802047622180
+      cancelar_normal_28: 1363582521103200422
+      cancelar_normal_29: -5882909376318413840
+      cancelar_normal_3: -2712072049127042350
+      cancelar_normal_30: 6912856992855125200
+      cancelar_normal_31: 7521968758633665359
+      cancelar_normal_32: 7964265478007246079
+      cancelar_normal_33: 1578527128509374672
+      cancelar_normal_34: 5904988319740787992
+      cancelar_normal_35: 1975273819510515853
+      cancelar_normal_36: -6562209260471239423
+      cancelar_normal_37: -967138308934246072
+      cancelar_normal_38: -4591565496686217011
+      cancelar_normal_39: -4454338824588942094
+      cancelar_normal_4: 553904611027286963
+      cancelar_normal_40: 5109128307173821906
+      cancelar_normal_5: 3349111943231159263
+      cancelar_normal_6: -2335281827332969138
+      cancelar_normal_7: 1093685882432001479
+      cancelar_normal_8: -3419668624801520419
+      cancelar_normal_9: 2772830160787691739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 7b5466832101d2440b4f00b1c4a04def
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1415723455890237363
+    second: nueva_partida_seleccionado_0
+  - first:
+      213: 5742655965600400900
+    second: nueva_partida_seleccionado_1
+  - first:
+      213: -7390092300842062602
+    second: nueva_partida_seleccionado_2
+  - first:
+      213: 7703987389248962871
+    second: nueva_partida_seleccionado_3
+  - first:
+      213: -8701821438564544305
+    second: nueva_partida_seleccionado_4
+  - first:
+      213: -7253041419782935428
+    second: nueva_partida_seleccionado_5
+  - first:
+      213: 7051551056256367646
+    second: nueva_partida_seleccionado_6
+  - first:
+      213: -3527947051380680530
+    second: nueva_partida_seleccionado_7
+  - first:
+      213: -206045656658203512
+    second: nueva_partida_seleccionado_8
+  - first:
+      213: -5075611388213508725
+    second: nueva_partida_seleccionado_9
+  - first:
+      213: -4206548842462282020
+    second: nueva_partida_seleccionado_10
+  - first:
+      213: 6445958672075296736
+    second: nueva_partida_seleccionado_11
+  - first:
+      213: 2384643654030392502
+    second: nueva_partida_seleccionado_12
+  - first:
+      213: -7731143486012373346
+    second: nueva_partida_seleccionado_13
+  - first:
+      213: 4970140026156551492
+    second: nueva_partida_seleccionado_14
+  - first:
+      213: 387716707310842688
+    second: nueva_partida_seleccionado_15
+  - first:
+      213: -587319836911931342
+    second: nueva_partida_seleccionado_16
+  - first:
+      213: -1125997931677855152
+    second: nueva_partida_seleccionado_17
+  - first:
+      213: 9111034574130168853
+    second: nueva_partida_seleccionado_18
+  - first:
+      213: 4317454135254948719
+    second: nueva_partida_seleccionado_19
+  - first:
+      213: -1696058185155532449
+    second: nueva_partida_seleccionado_20
+  - first:
+      213: -2942282066285144801
+    second: nueva_partida_seleccionado_21
+  - first:
+      213: -3828535252019399215
+    second: nueva_partida_seleccionado_22
+  - first:
+      213: -2806911414776361020
+    second: nueva_partida_seleccionado_23
+  - first:
+      213: 4736395949902433431
+    second: nueva_partida_seleccionado_24
+  - first:
+      213: -2815363254923117593
+    second: nueva_partida_seleccionado_25
+  - first:
+      213: -2000907459139038232
+    second: nueva_partida_seleccionado_26
+  - first:
+      213: -50880284153251151
+    second: nueva_partida_seleccionado_27
+  - first:
+      213: 304648923606257762
+    second: nueva_partida_seleccionado_28
+  - first:
+      213: 1892308559372439516
+    second: nueva_partida_seleccionado_29
+  - first:
+      213: 8503993061259102322
+    second: nueva_partida_seleccionado_30
+  - first:
+      213: 4722093561737364749
+    second: nueva_partida_seleccionado_31
+  - first:
+      213: -6306732503604777404
+    second: nueva_partida_seleccionado_32
+  - first:
+      213: 7819187644831107268
+    second: nueva_partida_seleccionado_33
+  - first:
+      213: 2300318201978535018
+    second: nueva_partida_seleccionado_34
+  - first:
+      213: 4057874396093942950
+    second: nueva_partida_seleccionado_35
+  - first:
+      213: -5608347563850382636
+    second: nueva_partida_seleccionado_36
+  - first:
+      213: -5437305110371843958
+    second: nueva_partida_seleccionado_37
+  - first:
+      213: -1451178808544885085
+    second: nueva_partida_seleccionado_38
+  - first:
+      213: 3018134677320621390
+    second: nueva_partida_seleccionado_39
+  - first:
+      213: -5338605521090604099
+    second: nueva_partida_seleccionado_40
+  - first:
+      213: -8358732639818004199
+    second: nueva_partida_seleccionado_41
+  - first:
+      213: -6827948615579879680
+    second: nueva_partida_seleccionado_42
+  - first:
+      213: -7974777187313727820
+    second: nueva_partida_seleccionado_43
+  - first:
+      213: 6720658416847703082
+    second: nueva_partida_seleccionado_44
+  - first:
+      213: -6431667258941600877
+    second: nueva_partida_seleccionado_45
+  - first:
+      213: 1742945844238377817
+    second: nueva_partida_seleccionado_46
+  - first:
+      213: -4346231515628993393
+    second: nueva_partida_seleccionado_47
+  - first:
+      213: -5406016372069101778
+    second: nueva_partida_seleccionado_48
+  - first:
+      213: 1265851645661666020
+    second: nueva_partida_seleccionado_49
+  - first:
+      213: -7797259709804411814
+    second: nueva_partida_seleccionado_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1713
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7a6887bf8a5a310800000000000000
+      internalID: 1415723455890237363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 791
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c3e0cc2302bf40800000000000000
+      internalID: 5742655965600400900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 805
+        width: 227
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fca5fee43e117990800000000000000
+      internalID: -7390092300842062602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_3
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 803
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731064a86bf0aea60800000000000000
+      internalID: 7703987389248962871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 819
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc05b7f718bec3780800000000000000
+      internalID: -8701821438564544305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_5
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 811
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca4a8c145085b90800000000000000
+      internalID: -7253041419782935428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_6
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 806
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf0bf23542cd160800000000000000
+      internalID: 7051551056256367646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_7
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 805
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8511049d63a0fc0800000000000000
+      internalID: -3527947051380680530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_8
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 792
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c2063219af32df0800000000000000
+      internalID: -206045656658203512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_9
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 779
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854b9b855ecf89b0800000000000000
+      internalID: -5075611388213508725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 128
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde74b27d165f95c0800000000000000
+      internalID: -4206548842462282020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef85e59245a47950800000000000000
+      internalID: 6445958672075296736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 96
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfe5ad4c4f71120800000000000000
+      internalID: 2384643654030392502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 112
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9648a8f5f575b490800000000000000
+      internalID: -7731143486012373346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 98
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d0307550c79f440800000000000000
+      internalID: 4970140026156551492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 96
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433fb48a42716500800000000000000
+      internalID: 387716707310842688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 61
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f25758bb69d7f0800000000000000
+      internalID: -587319836911931342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0525480d8d6af50f0800000000000000
+      internalID: -1125997931677855152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c45f3ca5e07e70800000000000000
+      internalID: 9111034574130168853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b99e149adaaeb30800000000000000
+      internalID: 4317454135254948719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 99
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59296311146678e0800000000000000
+      internalID: -1696058185155532449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 88
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155212bc0aea27d0800000000000000
+      internalID: -2942282066285144801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 80
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b255097f4edac0800000000000000
+      internalID: -3828535252019399215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 86
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf044e90f8db09d0800000000000000
+      internalID: -2806911414776361020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_24
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 61
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c888d950f0bb140800000000000000
+      internalID: 4736395949902433431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_25
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 80
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebbe9c3902dde8d0800000000000000
+      internalID: -2815363254923117593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_26
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 61
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3969564495b34e0800000000000000
+      internalID: -2000907459139038232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba79f0b6ac3b4ff0800000000000000
+      internalID: -50880284153251151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_28
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 53
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26091c8f4945a3400800000000000000
+      internalID: 304648923606257762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_29
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf43dedb94d24a10800000000000000
+      internalID: 1892308559372439516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 65
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784cb412a0440670800000000000000
+      internalID: 8503993061259102322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_31
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 33
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c38f531f388140800000000000000
+      internalID: 4722093561737364749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_32
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 23
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2a35d33cf978a0800000000000000
+      internalID: -6306732503604777404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_33
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 20
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c808423cb5538c60800000000000000
+      internalID: 7819187644831107268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 31
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cbb43973f5cef10800000000000000
+      internalID: 2300318201978535018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_35
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 33
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac05528347705830800000000000000
+      internalID: 4057874396093942950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_36
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 30
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d245cfda952b22b0800000000000000
+      internalID: -5608347563850382636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_37
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ced86fcfca84b0800000000000000
+      internalID: -5437305110371843958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_38
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 33
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a68b13ff806cdbe0800000000000000
+      internalID: -1451178808544885085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_39
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 37
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ddbfd8f7192e920800000000000000
+      internalID: 3018134677320621390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_40
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 19
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3947f409679e5b0800000000000000
+      internalID: -5338605521090604099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194f2753f0dffb80800000000000000
+      internalID: -8358732639818004199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_42
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 7
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bdbff8e04e31a0800000000000000
+      internalID: -6827948615579879680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_43
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 18
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6c64b7666e35190800000000000000
+      internalID: -7974777187313727820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_44
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 25
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c42f8f833944d50800000000000000
+      internalID: 6720658416847703082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_45
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 35
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b864554b02eb6a0800000000000000
+      internalID: -6431667258941600877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_46
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536294c200303810800000000000000
+      internalID: 1742945844238377817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_47
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 37
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84835fb6751fa3c0800000000000000
+      internalID: -4346231515628993393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_48
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f00ec70c8f9f4b0800000000000000
+      internalID: -5406016372069101778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_49
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 13
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead10e6d55319110800000000000000
+      internalID: 1265851645661666020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nueva_partida_seleccionado_50
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5484a70b919ac390800000000000000
+      internalID: -7797259709804411814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nueva_partida_seleccionado_0: 1415723455890237363
+      nueva_partida_seleccionado_1: 5742655965600400900
+      nueva_partida_seleccionado_10: -4206548842462282020
+      nueva_partida_seleccionado_11: 6445958672075296736
+      nueva_partida_seleccionado_12: 2384643654030392502
+      nueva_partida_seleccionado_13: -7731143486012373346
+      nueva_partida_seleccionado_14: 4970140026156551492
+      nueva_partida_seleccionado_15: 387716707310842688
+      nueva_partida_seleccionado_16: -587319836911931342
+      nueva_partida_seleccionado_17: -1125997931677855152
+      nueva_partida_seleccionado_18: 9111034574130168853
+      nueva_partida_seleccionado_19: 4317454135254948719
+      nueva_partida_seleccionado_2: -7390092300842062602
+      nueva_partida_seleccionado_20: -1696058185155532449
+      nueva_partida_seleccionado_21: -2942282066285144801
+      nueva_partida_seleccionado_22: -3828535252019399215
+      nueva_partida_seleccionado_23: -2806911414776361020
+      nueva_partida_seleccionado_24: 4736395949902433431
+      nueva_partida_seleccionado_25: -2815363254923117593
+      nueva_partida_seleccionado_26: -2000907459139038232
+      nueva_partida_seleccionado_27: -50880284153251151
+      nueva_partida_seleccionado_28: 304648923606257762
+      nueva_partida_seleccionado_29: 1892308559372439516
+      nueva_partida_seleccionado_3: 7703987389248962871
+      nueva_partida_seleccionado_30: 8503993061259102322
+      nueva_partida_seleccionado_31: 4722093561737364749
+      nueva_partida_seleccionado_32: -6306732503604777404
+      nueva_partida_seleccionado_33: 7819187644831107268
+      nueva_partida_seleccionado_34: 2300318201978535018
+      nueva_partida_seleccionado_35: 4057874396093942950
+      nueva_partida_seleccionado_36: -5608347563850382636
+      nueva_partida_seleccionado_37: -5437305110371843958
+      nueva_partida_seleccionado_38: -1451178808544885085
+      nueva_partida_seleccionado_39: 3018134677320621390
+      nueva_partida_seleccionado_4: -8701821438564544305
+      nueva_partida_seleccionado_40: -5338605521090604099
+      nueva_partida_seleccionado_41: -8358732639818004199
+      nueva_partida_seleccionado_42: -6827948615579879680
+      nueva_partida_seleccionado_43: -7974777187313727820
+      nueva_partida_seleccionado_44: 6720658416847703082
+      nueva_partida_seleccionado_45: -6431667258941600877
+      nueva_partida_seleccionado_46: 1742945844238377817
+      nueva_partida_seleccionado_47: -4346231515628993393
+      nueva_partida_seleccionado_48: -5406016372069101778
+      nueva_partida_seleccionado_49: 1265851645661666020
+      nueva_partida_seleccionado_5: -7253041419782935428
+      nueva_partida_seleccionado_50: -7797259709804411814
+      nueva_partida_seleccionado_6: 7051551056256367646
+      nueva_partida_seleccionado_7: -3527947051380680530
+      nueva_partida_seleccionado_8: -206045656658203512
+      nueva_partida_seleccionado_9: -5075611388213508725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

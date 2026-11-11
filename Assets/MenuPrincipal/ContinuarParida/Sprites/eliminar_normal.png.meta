@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: a3b3aa24c83646d4b860fc6f2f971a91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431100986781440560
+    second: eliminar_normal_0
+  - first:
+      213: -1357427089817336468
+    second: eliminar_normal_1
+  - first:
+      213: -2263073217633874537
+    second: eliminar_normal_2
+  - first:
+      213: 8384435773333335557
+    second: eliminar_normal_3
+  - first:
+      213: -7957885049347372764
+    second: eliminar_normal_4
+  - first:
+      213: -974185899793821079
+    second: eliminar_normal_5
+  - first:
+      213: 2897604422411455643
+    second: eliminar_normal_6
+  - first:
+      213: 3038494195585246344
+    second: eliminar_normal_7
+  - first:
+      213: -7587878260093206508
+    second: eliminar_normal_8
+  - first:
+      213: -2839205105346558892
+    second: eliminar_normal_9
+  - first:
+      213: -3026124574281452630
+    second: eliminar_normal_10
+  - first:
+      213: 8671546574827327
+    second: eliminar_normal_11
+  - first:
+      213: 6091658125404592156
+    second: eliminar_normal_12
+  - first:
+      213: 6850981046799670356
+    second: eliminar_normal_13
+  - first:
+      213: -4687634056144829156
+    second: eliminar_normal_14
+  - first:
+      213: -4337940519449558904
+    second: eliminar_normal_15
+  - first:
+      213: -7268297674827985701
+    second: eliminar_normal_16
+  - first:
+      213: -135718492962618321
+    second: eliminar_normal_17
+  - first:
+      213: 2796621066595494889
+    second: eliminar_normal_18
+  - first:
+      213: -3085010017744832569
+    second: eliminar_normal_19
+  - first:
+      213: -1951134964122732049
+    second: eliminar_normal_20
+  - first:
+      213: 8184769020464398769
+    second: eliminar_normal_21
+  - first:
+      213: -2246888774648578562
+    second: eliminar_normal_22
+  - first:
+      213: 3982574345087339286
+    second: eliminar_normal_23
+  - first:
+      213: -3249155587577600610
+    second: eliminar_normal_24
+  - first:
+      213: 7170333893635348695
+    second: eliminar_normal_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eliminar_normal_0
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 743
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a99913b28bd9f20800000000000000
+      internalID: 3431100986781440560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 717
+        width: 63
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6502f6f043792de0800000000000000
+      internalID: -1357427089817336468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 793
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8b3a16e2f790e0800000000000000
+      internalID: -2263073217633874537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 836
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e6c97c9ef7b5470800000000000000
+      internalID: 8384435773333335557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_4
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 838
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4290246d5b9ef8190800000000000000
+      internalID: -7957885049347372764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_5
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 840
+        width: 86
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9625899e51ffa72f0800000000000000
+      internalID: -974185899793821079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_6
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 823
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c8f69bedb563820800000000000000
+      internalID: 2897604422411455643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_7
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 819
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e1fb4f56ea2a20800000000000000
+      internalID: 3038494195585246344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 1755
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104c3cbce072b690800000000000000
+      internalID: -7587878260093206508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 747
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c75bdffd1998d0800000000000000
+      internalID: -2839205105346558892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3bfd79bbb0106d0800000000000000
+      internalID: -3026124574281452630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fee35c9bece1000800000000000000
+      internalID: 8671546574827327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 118
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18dcd14acae98450800000000000000
+      internalID: 6091658125404592156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 114
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c9d69c6f2931f50800000000000000
+      internalID: 6850981046799670356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 104
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15c67e79ad22feb0800000000000000
+      internalID: -4687634056144829156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_15
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 106
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8808f69b41a8cc3c0800000000000000
+      internalID: -4337940519449558904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_16
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 120
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc841a16c1d12b90800000000000000
+      internalID: -7268297674827985701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24038defb4dd1ef0800000000000000
+      internalID: -135718492962618321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_18
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 100
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb6ccdfa089fc620800000000000000
+      internalID: 2796621066595494889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_19
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c73cc3ebb7df25d0800000000000000
+      internalID: -3085010017744832569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 90
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9be92761d2ce4e0800000000000000
+      internalID: -1951134964122732049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 82
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b107613f04269170800000000000000
+      internalID: 8184769020464398769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 82
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd3241609271d0e0800000000000000
+      internalID: -2246888774648578562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc38a2442f44730800000000000000
+      internalID: 3982574345087339286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952676353ea8e2d0800000000000000
+      internalID: -3249155587577600610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eliminar_normal_25
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8141bafa4228360800000000000000
+      internalID: 7170333893635348695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eliminar_normal_0: 3431100986781440560
+      eliminar_normal_1: -1357427089817336468
+      eliminar_normal_10: -3026124574281452630
+      eliminar_normal_11: 8671546574827327
+      eliminar_normal_12: 6091658125404592156
+      eliminar_normal_13: 6850981046799670356
+      eliminar_normal_14: -4687634056144829156
+      eliminar_normal_15: -4337940519449558904
+      eliminar_normal_16: -7268297674827985701
+      eliminar_normal_17: -135718492962618321
+      eliminar_normal_18: 2796621066595494889
+      eliminar_normal_19: -3085010017744832569
+      eliminar_normal_2: -2263073217633874537
+      eliminar_normal_20: -1951134964122732049
+      eliminar_normal_21: 8184769020464398769
+      eliminar_normal_22: -2246888774648578562
+      eliminar_normal_23: 3982574345087339286
+      eliminar_normal_24: -3249155587577600610
+      eliminar_normal_25: 7170333893635348695
+      eliminar_normal_3: 8384435773333335557
+      eliminar_normal_4: -7957885049347372764
+      eliminar_normal_5: -974185899793821079
+      eliminar_normal_6: 2897604422411455643
+      eliminar_normal_7: 3038494195585246344
+      eliminar_normal_8: -7587878260093206508
+      eliminar_normal_9: -2839205105346558892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
