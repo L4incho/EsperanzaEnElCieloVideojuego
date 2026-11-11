@@ -6,7 +6,9 @@ public class ConfiguracionAplicable : MonoBehaviour
 {
     [Header("Musica")]
     [SerializeField] private Slider sliderMusica;
-    [SerializeField] private AudioSource musicaMenu;
+
+    [Header("Efectos de sonido")]
+    [SerializeField] private Slider sliderEfectos;
 
     [Header("Pantalla completa")]
     [SerializeField] private Button botonSi;
@@ -15,11 +17,13 @@ public class ConfiguracionAplicable : MonoBehaviour
     [SerializeField] private Sprite spriteSi;
     [SerializeField] private Sprite spriteNo;
 
-    private const string ClaveMusica = "VolumenMusica";
     private const string ClavePantalla = "PantallaCompleta";
 
-    private float volumenAplicado;
-    private float volumenPendiente;
+    private float musicaAplicada;
+    private float musicaPendiente;
+
+    private float efectosAplicados;
+    private float efectosPendientes;
 
     private bool pantallaAplicada;
     private bool pantallaPendiente;
@@ -27,34 +31,51 @@ public class ConfiguracionAplicable : MonoBehaviour
     private void Awake()
     {
         if (sliderMusica == null ||
-            botonSi == null || botonNo == null ||
+            sliderEfectos == null ||
+            botonSi == null ||
+            botonNo == null ||
             imagenPantallaCompleta == null ||
-            spriteSi == null || spriteNo == null)
+            spriteSi == null ||
+            spriteNo == null)
         {
             Debug.LogError(
-                "ConfiguracionAplicable: faltan referencias de interfaz."
+                "ConfiguracionAplicable: " +
+                "faltan referencias en el Inspector."
             );
 
             enabled = false;
             return;
         }
 
-        sliderMusica.minValue = 0f;
-        sliderMusica.maxValue = 1f;
-        sliderMusica.wholeNumbers = false;
+        ConfigurarSlider(sliderMusica);
+        ConfigurarSlider(sliderEfectos);
 
         sliderMusica.onValueChanged.AddListener(
-            CambiarVolumenPendiente
+            CambiarMusicaPendiente
+        );
+
+        sliderEfectos.onValueChanged.AddListener(
+            CambiarEfectosPendientes
         );
 
         botonSi.onClick.AddListener(SeleccionarSi);
         botonNo.onClick.AddListener(SeleccionarNo);
     }
 
+    private void ConfigurarSlider(Slider slider)
+    {
+        slider.minValue = 0f;
+        slider.maxValue = 1f;
+        slider.wholeNumbers = false;
+    }
+
     private void OnEnable()
     {
-        if (sliderMusica == null || botonSi == null ||
-            botonNo == null || imagenPantallaCompleta == null)
+        if (sliderMusica == null ||
+            sliderEfectos == null ||
+            botonSi == null ||
+            botonNo == null ||
+            imagenPantallaCompleta == null)
             return;
 
         RecargarConfiguracion();
@@ -62,9 +83,11 @@ public class ConfiguracionAplicable : MonoBehaviour
 
     public void RecargarConfiguracion()
     {
-        volumenAplicado = Mathf.Clamp01(
-            PlayerPrefs.GetFloat(ClaveMusica, 0.5f)
-        );
+        musicaAplicada =
+            ConfiguracionAudioGlobal.ObtenerVolumenGuardado();
+
+        efectosAplicados =
+            ConfiguracionAudioGlobal.ObtenerVolumenEfectosGuardado();
 
         pantallaAplicada = PlayerPrefs.GetInt(
             ClavePantalla,
@@ -79,32 +102,52 @@ public class ConfiguracionAplicable : MonoBehaviour
 
     public void PrepararCambios()
     {
-        volumenPendiente = volumenAplicado;
+        musicaPendiente = musicaAplicada;
+        efectosPendientes = efectosAplicados;
+
         pantallaPendiente = pantallaAplicada;
 
-        sliderMusica.SetValueWithoutNotify(volumenAplicado);
+        if (sliderMusica != null)
+        {
+            sliderMusica.SetValueWithoutNotify(
+                musicaAplicada
+            );
+        }
 
-        AjustarMusica(volumenAplicado);
+        if (sliderEfectos != null)
+        {
+            sliderEfectos.SetValueWithoutNotify(
+                efectosAplicados
+            );
+        }
+
+        ConfiguracionAudioGlobal.AplicarVolumenMusica(
+            musicaAplicada
+        );
+
+        ConfiguracionAudioGlobal.AplicarVolumenEfectos(
+            efectosAplicados
+        );
+
         ActualizarSprite();
     }
 
-    private void AjustarMusica(float volumen)
+    private void CambiarMusicaPendiente(float valor)
     {
-        volumen = Mathf.Clamp01(volumen);
+        musicaPendiente = Mathf.Clamp01(valor);
 
-        if (musicaMenu != null)
-            musicaMenu.volume = volumen;
-
-        if (MusicaMenu.Instancia != null)
-            MusicaMenu.Instancia.AjustarVolumen(volumen);
+        ConfiguracionAudioGlobal.AplicarVolumenMusica(
+            musicaPendiente
+        );
     }
 
-    private void CambiarVolumenPendiente(float valor)
+    private void CambiarEfectosPendientes(float valor)
     {
-        volumenPendiente = Mathf.Clamp01(valor);
+        efectosPendientes = Mathf.Clamp01(valor);
 
-        // Vista previa: no guarda todavia.
-        AjustarMusica(volumenPendiente);
+        ConfiguracionAudioGlobal.AplicarVolumenEfectos(
+            efectosPendientes
+        );
     }
 
     private void SeleccionarSi()
@@ -130,10 +173,18 @@ public class ConfiguracionAplicable : MonoBehaviour
 
     public void AplicarCambios()
     {
-        volumenAplicado = volumenPendiente;
+        musicaAplicada = musicaPendiente;
+        efectosAplicados = efectosPendientes;
         pantallaAplicada = pantallaPendiente;
 
-        PlayerPrefs.SetFloat(ClaveMusica, volumenAplicado);
+        ConfiguracionAudioGlobal.GuardarVolumenMusica(
+            musicaAplicada
+        );
+
+        ConfiguracionAudioGlobal.GuardarVolumenEfectos(
+            efectosAplicados
+        );
+
         PlayerPrefs.SetInt(
             ClavePantalla,
             pantallaAplicada ? 1 : 0
@@ -141,24 +192,45 @@ public class ConfiguracionAplicable : MonoBehaviour
 
         PlayerPrefs.Save();
 
-        AjustarMusica(volumenAplicado);
         EstablecerModoPantalla(pantallaAplicada);
 
-        Debug.Log("Configuracion aplicada y guardada.");
+        Debug.Log(
+            "Configuracion guardada | Musica: " +
+            Mathf.RoundToInt(musicaAplicada * 100f) +
+            "% | Efectos: " +
+            Mathf.RoundToInt(efectosAplicados * 100f) + "%"
+        );
     }
 
     public void CancelarCambios()
     {
-        volumenPendiente = volumenAplicado;
+        musicaPendiente = musicaAplicada;
+        efectosPendientes = efectosAplicados;
         pantallaPendiente = pantallaAplicada;
 
         if (sliderMusica != null)
-            sliderMusica.SetValueWithoutNotify(volumenAplicado);
+        {
+            sliderMusica.SetValueWithoutNotify(
+                musicaAplicada
+            );
+        }
 
-        AjustarMusica(volumenAplicado);
+        if (sliderEfectos != null)
+        {
+            sliderEfectos.SetValueWithoutNotify(
+                efectosAplicados
+            );
+        }
+
+        ConfiguracionAudioGlobal.AplicarVolumenMusica(
+            musicaAplicada
+        );
+
+        ConfiguracionAudioGlobal.AplicarVolumenEfectos(
+            efectosAplicados
+        );
+
         ActualizarSprite();
-
-        Debug.Log("Cambios pendientes descartados.");
     }
 
     private void EstablecerModoPantalla(bool activar)
@@ -170,16 +242,25 @@ public class ConfiguracionAplicable : MonoBehaviour
 
     private void OnDisable()
     {
-        if (sliderMusica != null)
+        if (sliderMusica != null && sliderEfectos != null)
             CancelarCambios();
     }
 
     private void OnDestroy()
     {
         if (sliderMusica != null)
+        {
             sliderMusica.onValueChanged.RemoveListener(
-                CambiarVolumenPendiente
+                CambiarMusicaPendiente
             );
+        }
+
+        if (sliderEfectos != null)
+        {
+            sliderEfectos.onValueChanged.RemoveListener(
+                CambiarEfectosPendientes
+            );
+        }
 
         if (botonSi != null)
             botonSi.onClick.RemoveListener(SeleccionarSi);

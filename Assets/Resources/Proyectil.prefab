@@ -187,3 +187,5 @@ MonoBehaviour:
   - {fileID: 4239322636967756031, guid: 23e438eefaf41d843829ce819cfbe69e, type: 3}
   tiempoPorFrame: 0.08
   vidaMaxima: 2.5
+  sonidoDanioZombie: {fileID: 8300000, guid: 445a67bbbd1e49c48a52356ecd8cf177, type: 3}
+  volumenDanioZombie: 0.8

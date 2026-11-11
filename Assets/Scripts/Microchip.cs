@@ -145,13 +145,34 @@ public class Microchip : MonoBehaviour
             );
         }
 
+
         if (sonido != null)
         {
-            AudioSource.PlayClipAtPoint(
-                sonido,
-                transform.position
+            // Crear un reproductor temporal del sonido.
+            GameObject objetoAudio = new GameObject(
+                "Audio_Recoleccion_Microchip"
             );
+
+            objetoAudio.transform.position = transform.position;
+
+            AudioSource audio = objetoAudio.AddComponent<AudioSource>();
+
+            audio.clip = sonido;
+            audio.volume = 1f;
+            audio.spatialBlend = 0f;
+            audio.playOnAwake = false;
+            audio.loop = false;
+
+            // Conectar el sonido al grupo Efectos.
+            audio.outputAudioMixerGroup =
+                ConfiguracionAudioGlobal.ObtenerGrupoEfectos();
+
+            audio.Play();
+
+            // El reproductor se destruye cuando termina el sonido.
+            Destroy(objetoAudio, sonido.length + 0.1f);
         }
+
 
         StartCoroutine(Desvanecer());
     }

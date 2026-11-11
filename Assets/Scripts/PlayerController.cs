@@ -75,6 +75,12 @@ public class PlayerController : MonoBehaviour
     private float tiempoInvulnerable = 0f;
     private float tiempoRetroceso = 0f;
 
+    [Header("Audio de daño")]
+    [Tooltip("Sonido que reproduce Mateo al recibir un golpe válido.")]
+    [SerializeField] private AudioClip sonidoRecibirDanio;
+    [Range(0f, 1f)][SerializeField] private float volumenDanio = 0.8f;
+    private AudioSource audioDanio;
+
     /// <summary>Vida de 0 a 1 (1 = llena). La lee el HUD.</summary>
     public float Vida01 { get { return Mathf.Clamp01(1f - golpesRecibidos / (float)Mathf.Max(1, golpesParaMorir)); } }
     public bool EstaMuerto { get { return muerto; } }
@@ -131,6 +137,11 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        audioDanio = GetComponent<AudioSource>();
+        if (audioDanio == null) audioDanio = gameObject.AddComponent<AudioSource>();
+        audioDanio.playOnAwake = false;
+        audioDanio.loop = false;
+        audioDanio.spatialBlend = 0f; // Sonido 2D.
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         gravedadOriginal = rb.gravityScale;
@@ -318,14 +329,58 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    [Header("Audio de disparo")]
+    public AudioClip sonidoDisparo;
+    [Range(0f, 1f)] public float volumenDisparo = 0.8f;
+
     void Disparar()
     {
-        if (prefabProyectil == null) prefabProyectil = Resources.Load<GameObject>("Proyectil");
-        if (prefabProyectil == null) { Debug.LogWarning("[Disparo] Falta el prefab Resources/Proyectil"); return; }
+        if (prefabProyectil == null)
+            prefabProyectil = Resources.Load<GameObject>("Proyectil");
+
+        if (prefabProyectil == null)
+        {
+            Debug.LogWarning(
+                "[Disparo] Falta el prefab Resources/Proyectil"
+            );
+            return;
+        }
+
         cooldownRestante = recargaDisparoSeg;
+
         animator.SetTrigger("disparar");
+
+        // Reproducir sonido exclusivamente al disparar.
+
+        if (sonidoDisparo != null)
+        {
+            GameObject objetoAudio = new GameObject(
+                "Audio_Disparo_Mateo"
+            );
+
+            objetoAudio.transform.position = transform.position;
+
+            AudioSource audio = objetoAudio.AddComponent<AudioSource>();
+
+            audio.clip = sonidoDisparo;
+            audio.volume = volumenDisparo;
+            audio.spatialBlend = 0f;
+            audio.playOnAwake = false;
+            audio.loop = false;
+
+            // Conectar al grupo Efectos.
+            audio.outputAudioMixerGroup =
+                ConfiguracionAudioGlobal.ObtenerGrupoEfectos();
+
+            audio.Play();
+
+            Destroy(objetoAudio, sonidoDisparo.length + 0.1f);
+        }
+
+
         StartCoroutine(LanzarProyectil());
     }
+
 
     // El proyectil sale en el cuadro del fogonazo de la animacion
     System.Collections.IEnumerator LanzarProyectil()
@@ -359,19 +414,52 @@ public class PlayerController : MonoBehaviour
     public void RecibirGolpe(Vector2 origen) { RecibirGolpes(1, origen); }
 
     // Golpe fuerte: quita 'cantidad' tercios de vida (2 = dos tercios, golpesParaMorir = toda la vida)
+
     public void RecibirGolpes(int cantidad, Vector2 origen)
     {
-        if (muerto || tiempoInvulnerable > 0f || dashRestante > 0f || graciaDash > 0f) return;
+        if (muerto || tiempoInvulnerable > 0f ||
+            dashRestante > 0f || graciaDash > 0f)
+            return;
+
         golpesRecibidos += Mathf.Max(1, cantidad);
-        if (golpesRecibidos >= golpesParaMorir) { Morir(); return; }
+
+        // Sonido al recibir un golpe valido.
+        if (sonidoRecibirDanio != null && audioDanio != null)
+        {
+            // Conectar el audio al grupo Efectos.
+            audioDanio.outputAudioMixerGroup =
+                ConfiguracionAudioGlobal.ObtenerGrupoEfectos();
+
+            audioDanio.PlayOneShot(
+                sonidoRecibirDanio,
+                volumenDanio
+            );
+        }
+
+        if (golpesRecibidos >= golpesParaMorir)
+        {
+            Morir();
+            return;
+        }
+
         animator.SetTrigger("herido");
         tiempoInvulnerable = invulnerabilidad;
         tiempoRetroceso = 0.25f;
-        if (escalando) SoltarEscalera();
-        float dir = transform.position.x >= origen.x ? 1f : -1f;
-        rb.linearVelocity = new Vector2(dir * retroceso.x, retroceso.y);
+
+        if (escalando)
+            SoltarEscalera();
+
+        float dir =
+            transform.position.x >= origen.x ? 1f : -1f;
+
+        rb.linearVelocity = new Vector2(
+            dir * retroceso.x,
+            retroceso.y
+        );
+
         StartCoroutine(ParpadeoDano());
     }
+
 
     System.Collections.IEnumerator ParpadeoDano()
     {

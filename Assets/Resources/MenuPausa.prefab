@@ -68,9 +68,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6379133507981642475}
     m_Modifications:
+    - target: {fileID: 478848576660210352, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 478848576660210352, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 700145450878686653, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
       propertyPath: m_Name
       value: Panel_Opciones
+      objectReference: {fileID: 0}
+    - target: {fileID: 700145450878686653, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 836507561314422650, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
       propertyPath: m_Pivot.x
@@ -152,6 +164,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1035227945799702828, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1035227945799702828, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1035227945799702828, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179150023094532882, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1179150023094532882, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2458118516713856663, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -179,6 +211,62 @@ PrefabInstance:
     - target: {fileID: 2458118516713856663, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
       value: MenuPrincipalController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3198219526684164063, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3198219526684164063, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3198219526684164063, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343500143190705808, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_Value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3880240983234621249, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_Value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3959827818691796482, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 420
+      objectReference: {fileID: 0}
+    - target: {fileID: 3959827818691796482, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 225
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592316857293311819, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592316857293311819, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436037280213503713, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436037280213503713, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436037280213503713, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7638243172850384248, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 420
+      objectReference: {fileID: 0}
+    - target: {fileID: 7638243172850384248, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 225
       objectReference: {fileID: 0}
     - target: {fileID: 7677364645817027257, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -241,7 +329,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ConfiguracionAplicable
   sliderMusica: {fileID: 8123410165435169299}
-  musicaMenu: {fileID: 0}
+  sliderEfectos: {fileID: 3092040473060979814}
   botonSi: {fileID: 2749485016271463574}
   botonNo: {fileID: 1464583426101399964}
   imagenPantallaCompleta: {fileID: 581925400832452094}
@@ -258,6 +346,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &3092040473060979814 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3880240983234621249, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
+  m_PrefabInstance: {fileID: 2247367614188919591}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
 --- !u!114 &8123410165435169299 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8037912071959863604, guid: 594cebb1ab773d24d97035ba626ded4a, type: 3}
